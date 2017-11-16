@@ -11,6 +11,11 @@ a {
   text-decoration: none;
 }
 
+li {
+  margin: 0;
+  list-style: none;
+}
+
 html {
   margin: 0;
 }
@@ -107,6 +112,13 @@ header {
   color: #963E2E;
 }
 
+.home-banner {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 24px;
+}
+
 .home-quote {
   width: 70%;
   margin: 0 auto;
@@ -175,20 +187,38 @@ h2 {
   display: inline-block;
   width: 44%;
   min-width: 180px;
-  height: 300px;
+  height: 100px;
   vertical-align: top;
   margin-right: 24px;
   box-sizing: border-box;
+  text-align: center;
+  background-color: #E8C905;
+  margin: 10px;
+  border-radius: 10px;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
 }
 
-.program-card span {
-  font-size: 14px;
+.program-card:hover {
+  opacity: 0.8;
 }
 
-.expand-hidden {
-  display: none;
+.program-card-title {
+  font-size: 22px;
+  margin: 0 40px;
 }
 
+.program-card-title.single-line {
+  margin-top: 38px;
+}
+
+.program-card-title.double-line {
+  margin-top: 24px;
+}
+
+.program-card-title.triple-line {
+  margin-top: 10px;
+}
 
 
 
