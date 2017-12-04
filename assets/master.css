@@ -1,5 +1,9 @@
 /* RESET & GENERAL */
 
+* {
+  max-width: 100%;
+}
+
 .cf:after {
   content: "";
   clear: both;
@@ -25,15 +29,14 @@ body {
   color: #28343F;
   margin: 0;
   min-height: 100vh;
-  width: 100vw;
-  min-width: 935px;
+  width: 100%;
   box-sizing: border-box;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 .content-area {
   padding-top: 110px;
-  padding-bottom: 40px;
+  padding-bottom: 90px;
 }
 
 
@@ -43,7 +46,7 @@ header {
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   position: fixed;
-  width: 100vw;
+  width: 100%;
   height: 77px;
   background-color: #FCFDFF;
   border-bottom: 1px solid #DBDCDD;
@@ -58,7 +61,7 @@ header {
 }
 
 .menu {
-  width: 60%;
+  width: 80%;
   min-width: 480px;
   margin: 26px 20px 0 0;
   float: right;
@@ -86,13 +89,14 @@ header {
 footer {
   align-items: center;
   background-color: #bb1f26;
+  box-sizing: border-box;
   color: #28343F;
   display: flex;
   font-family: 'Open Sans', sans-serif;
   font-size: 12px;
   height: 50px;
-  position: relative;
-  bottom: -16px;
+  position: fixed;
+  bottom: 0;
   width: 100vw;
   justify-content: space-between;
   padding: 0 20px;
@@ -123,19 +127,20 @@ footer img {
 /* HOME */
 
 .title {
-  padding: 0 20px;
-  width: 935px;
+  padding: 3vw 20px;
+  width: 100%;
   margin: 0 auto;
   text-align: center;
   line-height: 0.95;
   font-family: 'Open Sans', sans-serif;
-  font-size: 120px;
+  font-size: 10vw;
   text-transform: uppercase;
   box-sizing: border-box;
 }
 
 .title-name {
-  font-size: 97px;
+  font-size: 8vw;
+  display: block;
 }
 
 .title-red {
@@ -154,13 +159,15 @@ footer img {
 }
 
 .home-quote {
+  font-style: italic;
   width: 80%;
   margin: 0 auto;
   margin-top: 90px;
-  font-size: 38px;
+  font-size: 2.7vw;
 }
 
 .home-quote-source {
+  font-style: normal;
   display: block;
   text-align: right;
   font-size: 22px;
@@ -256,7 +263,7 @@ h4 {
 }
 
 .program-card.black {
-  background-color: #354554;
+  background-color: #101419;
 }
 
 .program-card.clear div {
@@ -275,7 +282,7 @@ h4 {
 
 .program-card-title {
   font-size: 2.25vw;
-  margin: 0 20px;
+  margin: 0 7px;
 }
 
 .programs-info {
@@ -339,8 +346,8 @@ h4 {
 
 .programs-calendar {
   background-color: #EFEFEF;
-  height: 400px;
-  margin: 20px 0 10px 0;
+  height: 500px;
+  margin: 40px 0 10px 0;
   width: 68vw;
 }
 
@@ -383,7 +390,7 @@ mobile will be single column and expand down
 /* PHONE */
 
 
-@media screen and (max-width: 576px) {
+/*@media screen and (max-width: 576px) {
   header {
     border-bottom: 1px solid gray;
     position: fixed;
@@ -395,6 +402,7 @@ mobile will be single column and expand down
   .content-area {
     position: relative;
     top: 42vh;
+    width: 100%;
   }
 
   .menu-container {
@@ -412,4 +420,4 @@ mobile will be single column and expand down
     padding: 0;
     float: right;
   }
-}
+}*/

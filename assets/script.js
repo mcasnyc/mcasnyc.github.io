@@ -243,7 +243,7 @@ var DESCRIPTIONS = {
 document.addEventListener('DOMContentLoaded', function() {
   var resetHighlight = function() {
     cards.forEach(function(c) {
-      c.style.color = "white";
+      c.style.border = "0";
     });
   };
 
@@ -262,8 +262,9 @@ document.addEventListener('DOMContentLoaded', function() {
         selectedBox = e.target;
       }
       descriptionBox.innerHTML = DESCRIPTIONS[title];
-      selectedBox.style.color = "black";
+      selectedBox.style.border = "8px solid white";
     });
   });
   descriptionBox.innerHTML = DESCRIPTIONS['ART OF THE ACTOR'];
+  cards[1].style.border = "8px solid white";
 });
