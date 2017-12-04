@@ -241,17 +241,29 @@ var DESCRIPTIONS = {
 };
 
 document.addEventListener('DOMContentLoaded', function() {
+  var resetHighlight = function() {
+    cards.forEach(function(c) {
+      c.style.color = "white";
+    });
+  };
+
   var descriptionBox = document.getElementsByClassName('program-description')[0];
   var cards = Array.from(document.getElementsByClassName('program-card'));
-  cards.slice(1).forEach(c => {
+  cards.slice(1).forEach(function(c) {
     c.addEventListener('click', function(e) {
+      resetHighlight();
       var title;
+      var selectedBox;
       if (e.target.classList[0] === 'program-card-title') {
         title = e.target.innerText;
+        selectedBox = e.target.parentElement;
       } else {
         title = e.target.children[0].innerText;
+        selectedBox = e.target;
       }
       descriptionBox.innerHTML = DESCRIPTIONS[title];
+      selectedBox.style.color = "black";
     });
   });
+  descriptionBox.innerHTML = DESCRIPTIONS['ART OF THE ACTOR'];
 });
