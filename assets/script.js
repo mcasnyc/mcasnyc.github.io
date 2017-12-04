@@ -26,6 +26,10 @@ var artOfTheActor = `
     <div>A copy of The Michael Chekhov Handbook For the Actor by
     Lenard Petit is complimentary in the cost of tuition.</div>
   </div>
+
+  <a class='register-button' href=''>
+    Apply Today
+  </a>
 </div>
 `;
 
@@ -104,6 +108,9 @@ var workshops = `
       </div>
     </div>
   </div>
+  <a class='register-button' href=''>
+    Register
+  </a>
 </div>
 `;
 
