@@ -414,26 +414,26 @@ mobile will be single column and expand down
 
 
 
-/* PHILOSOPHY */
+/* PHILOSOPHY / STUDIO */
 
-.phil-section {
+.page-section {
   padding: 40px;
 }
 
-.phil-section p {
+.page-section p {
   margin-top: 22px;
   margin-bottom: 0;
 }
 
-.phil-section p:first-of-type {
+.page-section p:first-of-type {
   margin-top: 0;
 }
 
-.phil-section-gray {
+.page-section-gray {
   background-color: #EFEFEF;
 }
 
-.phil-section-clear {
+.page-section-clear {
   padding-top: 0;
 }
 
@@ -442,6 +442,11 @@ mobile will be single column and expand down
   font-size: 26px;
   margin-bottom: 20px;
 }
+
+
+
+
+ /* PHILOSOPHY */
 
 .phil-quote {
   color: #bb1f26;
@@ -468,13 +473,54 @@ mobile will be single column and expand down
 
 .phil-bio-name {
   color: #bb1f26;
-  font-weight: 600;
 }
 
 
 
 
 
+/* STUDIO */
+
+.group {
+  margin-top: 22px;
+  margin-bottom: 0;
+}
+
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.video-grid div {
+  box-sizing: border-box;
+  padding: 20px;
+  width: 50%;
+}
+
+.page-nav-item {
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 0;
+  padding: 20px;
+  width: 32.5%;
+  position: relative;
+}
+
+.page-nav-item img {
+  filter: brightness(80%);
+}
+
+.page-nav-item label {
+  color: #FCFDFF;
+  font-size: 2.25vw;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: calc(50% - 30px);
+  width: 100%;
+  z-index: 1;
+}
 
 
 
