@@ -24,6 +24,12 @@ html {
   margin: 0;
 }
 
+h2, h3 {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+}
+
 body {
   background-color: #FCFDFF;
   color: #28343F;
@@ -185,6 +191,7 @@ footer img {
   color: #E8C905;
   font-family: 'Bree Serif', serif;
   font-size: 40px;
+  margin-bottom: 40px;
 }
 
 .page-body {
@@ -193,6 +200,10 @@ footer img {
   font-size: 17px;
   font-weight: 400;
   width: 88vw;
+}
+
+.page-body-narrow {
+  width: 80vw;
 }
 
 .page-content {
@@ -386,13 +397,8 @@ mobile will be single column and expand down
 
 /* CONTACT PAGE */
 
-.contact-title {
-  margin-left: 100px;
-}
-
 .contact-section {
   margin: 30px 0;
-  margin-left: 100px;
 }
 
 .contact-section span {
@@ -403,6 +409,71 @@ mobile will be single column and expand down
   color: #bb1f26;
   font-weight: bold;
 }
+
+
+
+
+
+/* PHILOSOPHY */
+
+.phil-section {
+  padding: 40px;
+}
+
+.phil-section p {
+  margin-top: 22px;
+  margin-bottom: 0;
+}
+
+.phil-section p:first-of-type {
+  margin-top: 0;
+}
+
+.phil-section-gray {
+  background-color: #EFEFEF;
+}
+
+.phil-section-clear {
+  padding-top: 0;
+}
+
+.section-header {
+  color: #bb1f26;
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+.phil-quote {
+  color: #bb1f26;
+  font-size: 22px;
+}
+
+.phil-quote-source {
+  text-align: right;
+}
+
+.phil-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.phil-grid img {
+  box-sizing: border-box;
+  height: 25%;
+  padding: 20px;
+  width: 25%;
+}
+
+.phil-bio-name {
+  color: #bb1f26;
+  font-weight: 600;
+}
+
+
+
+
 
 
 
