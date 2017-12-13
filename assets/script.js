@@ -171,7 +171,7 @@ var artistSalon = `
 
   <div class='description-section'>
     Next Salon event will be Saturday January 13, 2018!
-    <div><a class='description-link' href='info@michaelchekhvoactingstudio.com'>Email us </a>
+    <div><a class='description-link' href='mailto:info@michaelchekhvoactingstudio.com'>Email us </a>
     if you are interested in being involved or help curate an event.</div>
   </div>
 </div>
@@ -184,16 +184,12 @@ var privateInstruction = `
   </div>
 
   <div class='description-section'>
-    Private coaching and small group study. Inquire for availability and cost.
-  </div>
-
-  <div class='description-section'>
     PRIVATE COACHING for actors with experience in the technique.
     PRIVATE GROUPS, introductory or continued instruction for groups of two or more artists.
   </div>
 
   <div class='description-section'>
-    <a class='description-link' href='info@michaelchekhvoactingstudio.com'>Email us</a> for availability and cost.
+    <a class='description-link' href='mailto:info@michaelchekhvoactingstudio.com'>Email us</a> for availability and cost.
   </div>
 </div>
 `;
@@ -231,7 +227,7 @@ var beyondNewYork = `
   </div>
 
   <div class='description-section'>
-    <a class='description-link' href='info@michaelchekhvoactingstudio.com'>Contact us</a>
+    <a class='description-link' href='mailto:info@michaelchekhvoactingstudio.com'>Contact us</a>
     to invite Lenard to teach or direct at your University, School or Theater Company!
   </div>
 </div>
@@ -250,7 +246,7 @@ var DESCRIPTIONS = {
 document.addEventListener('DOMContentLoaded', function() {
   var resetHighlight = function() {
     cards.forEach(function(c) {
-      c.style.border = "0";
+      c.style.textDecoration = "none";
     });
   };
 
@@ -269,9 +265,9 @@ document.addEventListener('DOMContentLoaded', function() {
         selectedBox = e.target;
       }
       descriptionBox.innerHTML = DESCRIPTIONS[title];
-      selectedBox.style.border = "8px solid white";
+      selectedBox.style.textDecoration = "underline";
     });
   });
   descriptionBox.innerHTML = DESCRIPTIONS['ART OF THE ACTOR'];
-  cards[1].style.border = "8px solid white";
+  cards[1].style.textDecoration = "underline";
 });
