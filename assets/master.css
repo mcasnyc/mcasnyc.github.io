@@ -567,6 +567,13 @@ h4 {
   z-index: 1;
 }
 
+.studio-quote-source {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
 
 
 /* PHONE */
