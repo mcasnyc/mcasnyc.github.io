@@ -108,6 +108,104 @@ var workshops = `
       </div>
     </div>
   </div>
+
+  <div class='description-section'>
+    <div class='description-header'>
+      Clown For Actors
+      <div>
+        Next Dates TBA
+      </div>
+    </div>
+    <div class='description-class-section'>
+      This workshop is intended to give actors an opportunity to feel
+      themselves present in a creative state while researching the clown.
+      We will work with the dynamic principles of movement and technique
+      through psychological gesture, archetype, imagination, imaginary
+      body, imaginary center, atmosphere, and improvisation. A time to
+      explore performance skills, relationship to the audience, and basic
+      stagecraft. This is an intensive in being and doing, truth and play.
+    </div>
+    <div class='description-class-section'>
+      All performers are welcome.
+    </div>
+    <div class='description-class-section'>
+      Taught by Lenard Petit
+    </div>
+  </div>
+
+  <div class='description-section'>
+    <div class='description-header'>
+      The Dramatic Imagination
+      <div>
+        Next Dates TBA
+      </div>
+    </div>
+    <div class='description-class-section'>
+      This workshop is an active engagement with the Chekhov technique
+      to rummage through the needs of both the actor and the character.
+      We reach into the physical to find the radiating drama. The feelings,
+      the thoughts, and the actions of the characters come together.
+      The many parts of the Chekhov technique get passed through the
+      imagination of the actor. The outer world of the play becomes
+      the fully energized inner world of the actor.
+    </div>
+    <div class='description-class-section'>
+      This is application of the technique in a scene study workshop.
+      Introductory training in the Chekhov Technique is required.
+    </div>
+    <div class='description-class-section'>
+      Taught by Lenard Petit & Melania Levitsky
+    </div>
+    <div class='description-class-section'>
+      4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm / Cost: $390
+    </div>
+    <div class='description-class-section'>
+      $100 Deposit Payment with Registration
+    </div>
+  </div>
+
+  <div class='description-section'>
+    <div class='description-header'>
+      Transformation
+      <div>
+        Next Dates TBA
+      </div>
+    </div>
+    <div class='description-class-section'>
+      Applying the tools. Characterization as Chekhov called it. Imagine
+      playing the character you have always wanted to play. You can do
+      that in this workshop–using rehearsal techniques of Michael Chekhov
+      to illuminate the character for your transformation.
+    </div>
+    <div class='description-class-section'>
+      It is a process you will easily understand because you learn it
+      through play, and you can carry it away. Introductory training in
+      the Chekhov Technique is recommended, but not required.
+    </div>
+    <div class='description-class-section'>
+      $100 Deposit Payment with Registration
+    </div>
+  </div>
+
+  <div class='description-section'>
+    <div class='description-header'>
+      The Audition
+      <div>
+        Next Dates TBA
+      </div>
+    </div>
+    <div class='description-class-section'>
+      Technique and practice for preparing an audition. Monologues and
+      cold reading. Simple and provocative choices to serve the auditioner.
+    </div>
+    <div class='description-class-section'>
+      Introductory training in the Chekhov Technique is recommended, but not required.
+    </div>
+    <div class='description-class-section'>
+      $100 Deposit Payment with Registration
+    </div>
+  </div>
+
   <a class='register-button' href=''>
     Register
   </a>
