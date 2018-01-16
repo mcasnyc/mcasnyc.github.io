@@ -109,6 +109,8 @@ header {
 .submenu {
   display: none;
   font-size: 14px;
+  padding-bottom: 9px;
+  padding-right: 5px;
   position: absolute;
   opacity: 0;
 }
