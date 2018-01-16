@@ -576,6 +576,43 @@ h4 {
 
 
 
+
+/* LENARD */
+
+.lenard-attribution {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.image-float {
+  float: left;
+  margin: 0 30px 30px 0;
+  width: 200px;
+}
+
+
+
+
+/* FACULTY */
+
+.faculty-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.faculty-card {
+  box-sizing: border-box;
+  padding: 30px;
+  width: 50%;
+}
+
+.faculty-name {
+  margin-bottom: 14px;
+}
+
+
+
+
 /* PHONE */
 
 
