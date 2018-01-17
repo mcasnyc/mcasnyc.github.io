@@ -108,6 +108,7 @@ header {
   font-size: 14px;
   padding-bottom: 9px;
   padding-right: 5px;
+  padding-left: 10px;
   position: absolute;
   opacity: 0;
 }
@@ -600,7 +601,6 @@ h4 {
 }
 
 .studio-quote {
-  font-family: "Nothing You Could Do";
   font-size: 22px;
 }
 
