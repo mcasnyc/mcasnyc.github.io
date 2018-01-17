@@ -350,7 +350,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   var descriptionBox = document.getElementsByClassName('program-description')[0];
   var cards = Array.from(document.getElementsByClassName('program-card'));
-  cards.slice(1).forEach(function(c) {
+  cards.forEach(function(c) {
     c.addEventListener('click', function(e) {
       resetHighlight();
       var title;
@@ -367,5 +367,5 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
   descriptionBox.innerHTML = DESCRIPTIONS['ART OF THE ACTOR'];
-  cards[1].style.textDecoration = "underline";
+  cards[0].style.textDecoration = "underline";
 });

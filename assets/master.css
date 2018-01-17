@@ -1,8 +1,5 @@
 /* RESET & GENERAL */
 
-* {
-  max-width: 100%;
-}
 
 .cf:after {
   content: "";
@@ -202,6 +199,7 @@ footer img {
 }
 
 .home-quote {
+  font-family: "Nothing You Could Do";
   font-size: 2.7vw;
   margin: 0 auto;
   margin-top: 90px;
@@ -268,12 +266,20 @@ h4 {
   justify-content: center;
 }
 
+.art-of-the-actor {
+  background-color: gray;
+  height: 200px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
 .programs-grid {
   box-sizing: border-box;
-  width: 48%;
-  height: 600px;
   display: flex;
   flex-wrap: wrap;
+  height: 140px;
+  justify-content: space-between;
+  width: 100%;
 }
 
 .program-card {
@@ -283,12 +289,12 @@ h4 {
   color: white;
   display: flex;
   font-family: 'Open Sans', serif;
-  height: calc(24% - 20px);
+  height: 50%;
   justify-content: center;
-  margin: 10px 20px 10px 0;
+  margin: 10px 0;
   text-align: center;
   vertical-align: top;
-  width: 44%;
+  width: 30%;
   -webkit-transition: all 0.35s;
   transition: all 0.35s;
 }
@@ -345,7 +351,7 @@ h4 {
   justify-content: center;
   align-items: flex-start;
   margin: 10px;
-  width: 48%;
+  width: 100%;
 }
 
 .program-description {
@@ -354,7 +360,7 @@ h4 {
   max-height: 97%;
   overflow-y: scroll;
   padding: 30px;
-  width: 40vw;
+  width: 100%;
 }
 
 .description-placeholder {
@@ -422,13 +428,19 @@ h4 {
 
 .contact-grid {
   display: flex;
+  width: 70%;
 }
 
 .contact-grid-item {
   width: 50%;
 }
 
+.contact-grid-text {
+  margin-right: 60px;
+}
+
 .contact-section {
+  text-align: right;
   margin: 30px 0;
 }
 
@@ -446,7 +458,7 @@ h4 {
 }
 
 .contact-diagram {
-  width: 350px;
+  width: 380px;
 }
 
 
@@ -489,6 +501,7 @@ h4 {
 
 .phil-quote {
   color: #bb1f26;
+  font-family: "Nothing You Could Do";
   font-size: 22px;
 }
 
@@ -502,6 +515,16 @@ h4 {
   justify-content: center;
   margin: 20px auto;
   width: 94%;
+}
+
+.phil-img-grid {
+  width: 200%;
+}
+
+.phil-img {
+  box-sizing: border-box;
+  padding: 25px 15px;
+  width: 24.5%;
 }
 
 .phil-grid img {
@@ -524,7 +547,7 @@ h4 {
 .studio-greeting {
   color: #bb1f26;
   font-size: 22px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .group {
@@ -560,24 +583,31 @@ h4 {
 
 .page-nav-item img {
   filter: brightness(80%);
+  width: 100%;
 }
 
 .page-nav-item label {
   color: #FCFDFF;
+  cursor: pointer;
   font-size: 2.25vw;
-  left: 0;
+  left: calc(30% - 40px);;
   position: absolute;
   text-align: center;
   text-shadow: 2px 2px 2px black;
   top: calc(50% - 30px);
-  width: 100%;
+  width: 70%;
   z-index: 1;
+}
+
+.studio-quote {
+  font-family: "Nothing You Could Do";
+  font-size: 22px;
 }
 
 .studio-quote-source {
   display: flex;
   justify-content: flex-end;
-  padding-bottom: 20px;
+  padding-bottom: 24px;
   padding-top: 10px;
 }
 
@@ -586,14 +616,26 @@ h4 {
 
 /* LENARD */
 
+.lenard-section {
+  margin: 0 30px;
+  margin-bottom: 40px;
+}
+
+.lenard-quote {
+  font-family: "Nothing You Could Do";
+  font-size: 26px;
+}
+
 .lenard-attribution {
   display: flex;
+  font-family: "Nothing You Could Do";
+  font-size: 22px;
   justify-content: flex-end;
 }
 
 .image-float {
   float: left;
-  margin: 0 30px 30px 0;
+  margin: 0 30px 20px 0;
   width: 200px;
 }
 
@@ -610,10 +652,20 @@ h4 {
 .faculty-card {
   box-sizing: border-box;
   padding: 30px;
+  padding-bottom: 60px;
   width: 50%;
 }
 
+.faculty-img {
+  /* border-radius: 0 0 10px 0; */
+  float: left;
+  margin: 0 10px 5px 0;
+  width: 150px;
+}
+
 .faculty-name {
+  color: #bb1f26;
+  font-size: 24px;
   margin-bottom: 14px;
 }
 
