@@ -564,8 +564,9 @@ h4 {
 
 .video-grid div {
   box-sizing: border-box;
+  margin-left: 30px;
   padding: 20px;
-  width: 50%;
+  width: calc(100% - 460px);
 }
 
 .studio-link {
