@@ -278,7 +278,7 @@ h4 {
   box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
-  height: 140px;
+  height: 160px;
   justify-content: space-between;
   width: 100%;
 }
@@ -290,7 +290,7 @@ h4 {
   color: white;
   display: flex;
   font-family: 'Open Sans', serif;
-  height: 50%;
+  height: calc(50% - 20px);
   justify-content: center;
   margin: 10px 0;
   text-align: center;
@@ -348,10 +348,10 @@ h4 {
   display: flex;
   flex-wrap: wrap;
   font-size: 15px;
-  height: 592px;
+  height: 480px;
   justify-content: center;
   align-items: flex-start;
-  margin: 10px;
+  margin: 10px 0;
   width: 100%;
 }
 
@@ -672,44 +672,7 @@ h4 {
 
 
 
-
-/* PHONE */
-
-
-/*@media screen and (max-width: 576px) {
-  header {
-    border-bottom: 1px solid gray;
-    position: fixed;
-    top: 0;
-    background-color: lightgray;
-    z-index: 1;
-  }
-
-  .content-area {
-    position: relative;
-    top: 42vh;
-    width: 100%;
-  }
-
-  .menu-container {
-    min-width: 60vw;
-    width: 60%;
-    float: right;
-    padding-right: 10vw;
-  }
-
-  .menu {
-    padding: 0;
-  }
-
-  .menu li {
-    padding: 0;
-    float: right;
-  }
-}*/
-
-
-
+/* FRIENDS */
 
 .map-container {
   font-size: 26px;
@@ -745,3 +708,41 @@ h4 {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
+
+
+
+
+/* PHONE */
+
+
+/*@media screen and (max-width: 576px) {
+  header {
+    border-bottom: 1px solid gray;
+    position: fixed;
+    top: 0;
+    background-color: lightgray;
+    z-index: 1;
+  }
+
+  .content-area {
+    position: relative;
+    top: 42vh;
+    width: 100%;
+  }
+
+  .menu-container {
+    min-width: 60vw;
+    width: 60%;
+    float: right;
+    padding-right: 10vw;
+  }
+
+  .menu {
+    padding: 0;
+  }
+
+  .menu li {
+    padding: 0;
+    float: right;
+  }
+}*/
