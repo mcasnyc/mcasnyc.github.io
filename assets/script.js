@@ -364,6 +364,8 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       descriptionBox.innerHTML = DESCRIPTIONS[title];
       selectedBox.style.textDecoration = "underline";
+      // var element_to_scroll_to = document.getElementsByClassName('programs-grid')[0];
+      // element_to_scroll_to.scrollIntoView();
     });
   });
   descriptionBox.innerHTML = DESCRIPTIONS['ART OF THE ACTOR'];

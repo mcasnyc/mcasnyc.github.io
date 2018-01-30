@@ -200,8 +200,10 @@ footer img {
 }
 
 .home-quote {
+  color: #6D6D6D;
   font-family: "Nothing You Could Do";
-  font-size: 2.7vw;
+  font-weight: 600;
+  font-size: 3.0vw;
   margin: 0 auto;
   margin-top: 90px;
   transform: skew(-6deg);
@@ -268,7 +270,7 @@ h4 {
 }
 
 .art-of-the-actor {
-  background-color: gray;
+  background-color: #EFEFEF;
   height: 200px;
   margin-bottom: 10px;
   width: 100%;
@@ -413,11 +415,22 @@ h4 {
   padding: 12px 20px;
 }
 
+.programs-calendar-section {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.programs-video {
+  width: 40%;
+}
+
 .programs-calendar {
   background-color: #EFEFEF;
-  height: 500px;
-  margin: 40px 0 10px 0;
-  width: 68vw;
+  height: 235px;
+  /* margin: 40px 0 10px 0; */
+  margin-left: 40px 20px;
+  width: 54%;
 }
 
 
@@ -502,6 +515,7 @@ h4 {
 .phil-quote {
   color: #bb1f26;
   font-family: "Nothing You Could Do";
+  font-weight: 300;
   font-size: 22px;
 }
 
@@ -529,7 +543,7 @@ h4 {
 
 .phil-grid img {
   box-sizing: border-box;
-  height: 25%;
+  height: 100%;
   padding: 20px;
   width: 25%;
 }
@@ -538,6 +552,29 @@ h4 {
   color: #bb1f26;
 }
 
+.phil-video-section {
+  display: flex;
+  justify-content: space-around;
+}
+
+.phil-video {
+  width: 60%;
+}
+
+.phil-video-description {
+  padding-top: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.phil-video-attribution {
+  padding: 0 20px;
+  width: 40%;
+}
+
+.phil-video-attribution-image {
+  width: 100%;
+}
 
 
 
@@ -616,19 +653,16 @@ h4 {
 
 /* LENARD */
 
-.lenard-section {
-  margin: 0 30px;
-  margin-bottom: 40px;
-}
-
 .lenard-quote {
   font-family: "Nothing You Could Do";
+  font-weight: 300;
   font-size: 26px;
 }
 
 .lenard-attribution {
   display: flex;
   font-family: "Nothing You Could Do";
+  font-weight: 600;
   font-size: 22px;
   justify-content: flex-end;
 }
@@ -636,7 +670,31 @@ h4 {
 .image-float {
   float: left;
   margin: 0 30px 20px 0;
-  width: 200px;
+  width: 300px;
+}
+
+.lenard-grid {
+  display: flex;
+  margin: 0 30px;
+  margin-top: 60px;
+}
+
+.lenard-quote-section {
+  width: 70%;
+}
+
+.lenard-image-section {
+  margin: 0 60px;
+  width: 30%;
+}
+
+.lenard-image {
+  width: 100%;
+}
+
+.lenard-image-source {
+  font-size: 8px;
+  float: right;
 }
 
 
@@ -652,8 +710,8 @@ h4 {
 .faculty-card {
   box-sizing: border-box;
   padding: 30px;
-  padding-bottom: 60px;
-  width: 50%;
+  padding-bottom: 30px;
+  width: 100%;
 }
 
 .faculty-img {
@@ -672,6 +730,11 @@ h4 {
 
 
 /* FRIENDS */
+
+.map-text {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
 
 .map-container {
   font-size: 26px;

@@ -69,6 +69,50 @@ document.addEventListener('DOMContentLoaded', function() {
       type: 'Feature',
       geometry: {
         type: 'Point',
+        coordinates: [12.575201, 44.066164]
+      },
+      properties: {
+        title: 'BANYANTEATRO – Gianluca Reggiani',
+        link: 'mailto:reg.gia@alice.it'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [4.353096, 50.844686]
+      },
+      properties: {
+        title: 'Michael Chekhov Studio Brussels',
+        link: 'http://www.studiomichaelchekhov.org'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [12.499404, 41.903306]
+      },
+      properties: {
+        title: 'Michael Chekhov Studio Roma',
+        link: 'http://www.michaelchekhovroma.it/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [-73.788441, 42.250947]
+      },
+      properties: {
+        title: 'Michael Chekhov Association (MICHA)',
+        link: 'http://www.michaelchekhov.org'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
         coordinates: [-87.632413, 41.870657]
       },
       properties: {
