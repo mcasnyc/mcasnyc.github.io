@@ -523,6 +523,18 @@ h4 {
   text-align: right;
 }
 
+.phil-intro-grid {
+  display: flex;
+}
+
+.phil-intro-text {
+  width: 60%;
+}
+
+.phil-intro-video {
+  width: 40%;
+}
+
 .phil-grid {
   display: flex;
   flex-wrap: wrap;
