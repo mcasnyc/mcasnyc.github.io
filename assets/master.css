@@ -43,8 +43,22 @@ body {
 }
 
 .content-area {
-  padding-top: 110px;
-  padding-bottom: 90px;
+  padding-top: 58px;
+  padding-bottom: 88px;
+}
+
+@media screen and (min-width: 550px) {
+  .content-area {
+    padding-top: 86px;
+    padding-bottom: 76px;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .content-area {
+    padding-top: 110px;
+    padding-bottom: 90px;
+  }
 }
 
 
@@ -326,9 +340,9 @@ footer img {
 .page-title {
   color: #E8C905;
   font-family: 'Open Sans', serif;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 900;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .page-body {
@@ -355,6 +369,13 @@ h3:first-of-type {
 
 h4 {
   font-weight: 400;
+}
+
+@media screen and (min-width: 550px) {
+  .page-title {
+    font-size: 40px;
+    margin-bottom: 40px;
+  }
 }
 
 
@@ -540,19 +561,22 @@ h4 {
 
 .contact-grid {
   display: flex;
-  width: 70%;
+  flex-wrap: wrap;
+  font-size: 10px;
+  width: 100%;
 }
 
 .contact-grid-item {
-  width: 50%;
+  width: 100%;
 }
 
 .contact-grid-text {
+  margin-left: 10px;
   margin-right: 60px;
 }
 
 .contact-section {
-  text-align: right;
+  text-align: left;
   margin: 30px 0;
 }
 
@@ -570,7 +594,41 @@ h4 {
 }
 
 .contact-diagram {
-  width: 380px;
+  width: 80%;
+}
+
+@media screen and (min-width: 550px) {
+  .contact-grid {
+    flex-wrap: nowrap;
+    font-size: 12px;
+  }
+
+  .contact-section {
+    text-align: right;
+  }
+
+  .contact-grid-item {
+    width: 50%;
+  }
+
+  .contact-grid-text {
+    margin-left: 0;
+    margin-right: 20px;
+  }
+
+  .contact-diagram {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .contact-grid {
+    font-size: 17px;
+  }
+
+  .contact-grid-text {
+    margin-right: 60px;
+  }
 }
 
 
