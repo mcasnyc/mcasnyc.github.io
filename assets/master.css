@@ -407,7 +407,7 @@ h4 {
 
 .art-of-the-actor {
   background-color: #EFEFEF;
-  height: 200px;
+  height: 100%;
   margin-bottom: 10px;
   width: 100%;
 }
@@ -476,7 +476,7 @@ h4 {
 }
 
 .program-card-title {
-  font-size: 1.75vw;
+  font-size: 10.5px;
   margin: 0 10px;
 }
 
@@ -485,7 +485,7 @@ h4 {
   box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
-  font-size: 15px;
+  font-size: 13px;
   justify-content: center;
   align-items: flex-start;
   margin: 10px 0;
@@ -553,20 +553,49 @@ h4 {
 
 .programs-calendar-section {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   width: 100%;
 }
 
 .programs-video {
-  width: 40%;
+  height: 235px;
+  width: 100%;
 }
 
 .programs-calendar {
   background-color: #EFEFEF;
+  box-sizing: border-box;
   height: 235px;
-  /* margin: 40px 0 10px 0; */
-  margin-left: 40px 20px;
-  width: 54%;
+  margin-left: 0;
+  margin-top: 30px;
+  width: 100%;
+}
+
+@media screen and (min-width: 380px) {
+  .program-card-title {
+    font-size: 13px;
+  }
+}
+
+@media screen and (min-width: 550px) {
+  .programs-info {
+    font-size: 15px;
+  }
+
+  .programs-calendar-section {
+    flex-wrap: nowrap;
+  }
+
+  .programs-video {
+    width: 40%;
+  }
+
+  .programs-calendar {
+    margin-left: 40px;
+    margin-top: 0;
+    width: 60%;
+  }
 }
 
 
