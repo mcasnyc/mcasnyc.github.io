@@ -313,24 +313,33 @@ footer img {
 }
 
 .home-quote {
-  color: #6D6D6D;
-  font-family: "Nothing You Could Do";
-  font-weight: 600;
+  color: #E0C200;
+  font-family: 'Open Sans';
+  font-weight: 300;
   font-size: 7vw;
   margin: 0 auto;
   margin-top: 60px;
-  transform: skew(-6deg);
-  -webkit-transform: skew(-6deg);
   width: 80%;
 }
 
 .home-quote-source {
+  color: #6D6D6D;
   display: block;
   text-align: right;
+  font-family: "Nothing You Could Do";
   font-size: 4vw;
   margin-top: 20px;
   transform: skew(0deg);
   -webkit-transform: skew(6deg);
+}
+
+.home-image {
+  border: 10px solid black;
+  border-radius: 3px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 36px;
+  width: 74%;
 }
 
 @media screen and (min-width: 550px) {
@@ -341,6 +350,10 @@ footer img {
 
   .home-quote-source {
     font-size: 3vw;
+  }
+
+  .home-image {
+    display: none;
   }
 }
 
@@ -446,6 +459,7 @@ h4 {
 .program-card {
   align-items: center;
   background-color: #E8C905;
+  border-radius: 2px;
   box-sizing: border-box;
   color: white;
   display: flex;
@@ -763,8 +777,10 @@ h4 {
 
 .phil-quote {
   color: #bb1f26;
-  font-family: "Nothing You Could Do";
-  font-weight: 300;
+  font-family: "Encode Sans Expanded";
+  /* font-family: "Nothing You Could Do";
+  font-weight: 300; */
+  font-weight: 100;
   font-size: 16px;
 }
 
@@ -1021,8 +1037,8 @@ h4 {
 /* LENARD */
 
 .lenard-quote {
-  font-family: "Nothing You Could Do";
-  font-weight: 300;
+  font-family: "Encode Sans Expanded";
+  font-weight: 100;
   font-size: 26px;
 }
 
