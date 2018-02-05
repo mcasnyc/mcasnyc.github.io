@@ -316,9 +316,9 @@ footer img {
   color: #6D6D6D;
   font-family: "Nothing You Could Do";
   font-weight: 600;
-  font-size: 3.0vw;
+  font-size: 7vw;
   margin: 0 auto;
-  margin-top: 90px;
+  margin-top: 60px;
   transform: skew(-6deg);
   -webkit-transform: skew(-6deg);
   width: 80%;
@@ -327,10 +327,32 @@ footer img {
 .home-quote-source {
   display: block;
   text-align: right;
-  font-size: 22px;
+  font-size: 4vw;
   margin-top: 20px;
   transform: skew(0deg);
   -webkit-transform: skew(6deg);
+}
+
+@media screen and (min-width: 550px) {
+  .home-quote {
+    font-size: 3.5vw;
+    margin-top: 50px;
+  }
+
+  .home-quote-source {
+    font-size: 3vw;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .home-quote {
+    font-size: 3vw;
+    margin-top: 90px;
+  }
+
+  .home-quote-source {
+    font-size: 2.3vw;
+  }
 }
 
 
@@ -556,6 +578,8 @@ h4 {
   flex-wrap: wrap;
   justify-content: space-between;
   width: 100%;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .programs-video {
@@ -684,6 +708,7 @@ h4 {
 
 .page-section {
   padding: 20px;
+  margin-bottom: 10px;
 }
 
 .page-section p {
@@ -771,13 +796,15 @@ h4 {
 
 .phil-image-grid {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .phil-img {
   box-sizing: border-box;
   height: 100%;
-  padding: 10px 7px;
-  width: 25%;
+  padding: 0 5px;
+  margin-bottom: 10px;
+  width: 50%;
 }
 
 .phil-bio-name {
@@ -786,12 +813,13 @@ h4 {
 
 .phil-video-section {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   margin-top: 40px;
 }
 
 .phil-video {
-  width: 60%;
+  width: 100%;
 }
 
 .phil-video-description {
@@ -801,6 +829,7 @@ h4 {
 }
 
 .phil-video-attribution {
+  margin-top: 20px;
   padding: 0 20px;
   width: 40%;
 }
@@ -819,9 +848,10 @@ h4 {
   }
 
   .phil-intro-video {
+    height: 167px;
     float: right;
     margin: 0 0 30px 30px;
-    width: 40%;
+    width: 300px;
   }
 
   .phil-img {
@@ -832,7 +862,17 @@ h4 {
   }
 
   .phil-video-section {
+    flex-wrap: nowrap;
     margin-top: 60px;
+  }
+
+  .phil-video {
+    width: 60%;
+  }
+
+  .phil-video-attribution {
+    margin-top: 0;
+    width: 40%;
   }
 }
 
@@ -840,6 +880,12 @@ h4 {
   .phil-quote {
     font-size: 22px;
   }
+
+  .phil-intro-video {
+    height: 190px;
+    width: 340px;
+  }
+
 }
 
 
@@ -876,6 +922,7 @@ h4 {
 .studio-page-nav {
   display: flex;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 .page-nav-item {
@@ -899,7 +946,7 @@ h4 {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  font-size: 3.1vw;
+  font-size: 4vw;
   justify-content: center;
   height: calc(100% - 8px);
   position: absolute;
@@ -925,9 +972,14 @@ h4 {
   }
 
   .studio-video {
+    height: 167px;
     margin-right: 14px;
     margin-bottom: 0;
-    width: 60%;
+    width: 300px;
+  }
+
+  .studio-page-nav {
+    padding-top: 50px;
   }
 
   .page-nav-item {
@@ -945,10 +997,19 @@ h4 {
 }
 
 @media screen and (min-width: 750px) {
+  .studio-video {
+    height: 222px;
+    margin-right: 14px;
+    margin-bottom: 0;
+    width: 400px;
+  }
+
   .page-nav-item {
     padding: 20px;
   }
+
   .page-nav-item label {
+    font-size: 3vw;
     height: calc(100% - 40px);
     width: calc(100% - 40px);
   }
