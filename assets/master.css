@@ -281,6 +281,9 @@ footer img {
 /* HOME */
 
 .title {
+  position: absolute;
+  z-index: 1;
+  top: calc(24px + 6vw);
   padding: 3vw 20px;
   width: 100%;
   margin: 0 auto;
@@ -307,9 +310,6 @@ footer img {
 
 .home-banner {
   width: 100%;
-  position: absolute;
-  z-index: -1;
-  top: 24px;
 }
 
 .home-quote {
@@ -318,7 +318,7 @@ footer img {
   font-weight: 300;
   font-size: 7vw;
   margin: 0 auto;
-  margin-top: 60px;
+  margin-top: 3vw;
   width: 80%;
 }
 
@@ -343,9 +343,12 @@ footer img {
 }
 
 @media screen and (min-width: 550px) {
+  .title {
+    top: calc(24px + 8vw);
+  }
+
   .home-quote {
     font-size: 3.5vw;
-    margin-top: 50px;
   }
 
   .home-quote-source {
@@ -360,11 +363,16 @@ footer img {
 @media screen and (min-width: 750px) {
   .home-quote {
     font-size: 3vw;
-    margin-top: 90px;
   }
 
   .home-quote-source {
     font-size: 2.3vw;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .home-quote {
+    font-size: 3vw;
   }
 }
 
@@ -777,10 +785,8 @@ h4 {
 
 .phil-quote {
   color: #bb1f26;
-  font-family: "Encode Sans Expanded";
-  /* font-family: "Nothing You Could Do";
-  font-weight: 300; */
-  font-weight: 100;
+  font-family: "Open Sans";
+  font-weight: 300;
   font-size: 16px;
 }
 
