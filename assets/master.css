@@ -701,13 +701,7 @@ h4 {
 }
 
 .contact-grid-image {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.contact-image {
-  height: 100%;
-  width: 100%;
+  display: none;
 }
 
 .contact-image-source {
@@ -720,6 +714,7 @@ h4 {
   .contact-grid {
     flex-wrap: nowrap;
     font-size: 12px;
+    justify-content: space-between;
   }
 
   .contact-grid-item {
@@ -732,8 +727,13 @@ h4 {
   }
 
   .contact-grid-image {
-    height: auto;
+    display: block;
     width: 40%;
+  }
+
+  .contact-image {
+    height: calc(60vw / 1.36);
+    width: 100%;
   }
 }
 
