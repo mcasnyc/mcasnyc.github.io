@@ -335,12 +335,10 @@ footer img {
 }
 
 .home-image {
-  border: 10px solid black;
-  border-radius: 3px;
   display: block;
   margin: 0 auto;
   margin-bottom: 60px;
-  width: 74%;
+  width: 80%;
 }
 
 @media screen and (min-aspect-ratio: 1/1) {
@@ -858,6 +856,7 @@ h4 {
 }
 
 .phil-video {
+  height: auto;
   width: 100%;
 }
 
@@ -1074,9 +1073,8 @@ h4 {
 }
 
 .image-float {
-  float: left;
-  margin: 0 30px 20px 0;
-  width: 300px;
+  margin-bottom: 20px;
+  width: 100%;
 }
 
 .lenard-grid {
@@ -1102,6 +1100,14 @@ h4 {
 .lenard-image-source {
   font-size: 8px;
   float: right;
+}
+
+@media screen and (min-width: 550px) {
+  .image-float {
+    float: left;
+    margin: 0 30px 20px 0;
+    width: 300px;
+  }
 }
 
 @media screen and (min-width: 750px) {
