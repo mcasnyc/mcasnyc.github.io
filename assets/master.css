@@ -1127,16 +1127,21 @@ h4 {
 }
 
 .faculty-img {
-  /* border-radius: 0 0 10px 0; */
   float: left;
   margin: 0 10px 5px 0;
-  width: 150px;
+  width: 100px;
 }
 
 .faculty-name {
   color: #bb1f26;
   font-size: 24px;
   margin-bottom: 14px;
+}
+
+@media screen and (min-width: 550px) {
+  .faculty-img {
+    width: 150px;
+  }
 }
 
 
