@@ -328,7 +328,7 @@ footer img {
   text-align: right;
   font-family: "Nothing You Could Do";
   font-size: 4vw;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   margin-top: 20px;
   transform: skew(0deg);
   -webkit-transform: skew(6deg);
@@ -339,7 +339,17 @@ footer img {
   border-radius: 3px;
   display: block;
   margin: 0 auto;
+  margin-bottom: 60px;
   width: 74%;
+}
+
+@media screen and (min-aspect-ratio: 1/1) {
+  .home-quote-source {
+    margin-bottom: 60px;
+  }
+  .home-image {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 550px) {
@@ -355,9 +365,6 @@ footer img {
     font-size: 3vw;
   }
 
-  .home-image {
-    display: none;
-  }
 }
 
 @media screen and (min-width: 750px) {
