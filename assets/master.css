@@ -1089,7 +1089,8 @@ h4 {
 }
 
 .lenard-image-section {
-  margin: 60px auto;
+  margin: 30px auto;
+  margin-bottom: 50px;
   width: 55%;
 }
 
@@ -1102,11 +1103,54 @@ h4 {
   float: right;
 }
 
+.lenard-chart-container {
+  margin-top: 40px;
+}
+
+.section-sub-header {
+  margin: 0;
+  margin-bottom: 18px;
+}
+
+.lenard-chart {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 3vw;
+}
+
+.chart-image {
+  height: 80%;
+  margin: 20px auto;
+  width: 80%;
+}
+
+.chart-terms {
+  padding: 0 10px;
+}
+
+.chart-term {
+  border: 1px solid #28343F;
+  display: inline-block;
+  margin: 3px;
+  padding: 2px 10px;
+}
+
+.chart-definition {
+  background-color: #EFEFEF;
+  border-radius: 3px;
+  padding: 20px;
+  margin-top: 16px;
+}
+
 @media screen and (min-width: 550px) {
   .image-float {
     float: left;
     margin: 0 30px 20px 0;
     width: 300px;
+  }
+
+  .lenard-chart {
+    font-size: 2.3vw;
   }
 }
 
@@ -1122,6 +1166,22 @@ h4 {
   .lenard-image-section {
     margin: 0 60px;
     width: 30%;
+  }
+
+  .lenard-chart {
+    flex-wrap: nowrap;
+    font-size: 1.55vw;
+    justify-content: space-between;
+  }
+
+  .chart-image {
+    height: 45%;
+    margin: 0;
+    width: 45%;
+  }
+
+  .chart-explanation {
+    width: 45%;
   }
 }
 

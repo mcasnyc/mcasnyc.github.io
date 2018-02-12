@@ -24,7 +24,7 @@ the page name (e.g. studio page is `studio.html`)
     - e.g. `<a href='https://www.linklocation.com' target='_blank'>Link Text</a>`
 
 #### Editing Programs Info
-- **Program information should always be edited in the `script.js` file**
+- **Program information should always be edited in the `programs.js` file**
 - Each program "tab" has its own block of code. Each of these blocks have the
   same features/options:
   - A variable name, identified by `var ________ = `
