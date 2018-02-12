@@ -1071,17 +1071,18 @@ h4 {
 
 .lenard-grid {
   display: flex;
+  flex-wrap: wrap;
   margin: 0 30px;
   margin-top: 60px;
 }
 
 .lenard-quote-section {
-  width: 70%;
+  width: 100%;
 }
 
 .lenard-image-section {
-  margin: 0 60px;
-  width: 30%;
+  margin: 60px auto;
+  width: 55%;
 }
 
 .lenard-image {
@@ -1091,6 +1092,21 @@ h4 {
 .lenard-image-source {
   font-size: 8px;
   float: right;
+}
+
+@media screen and (min-width: 750px) {
+  .lenard-grid {
+    flex-wrap: nowrap;
+  }
+
+  .lenard-quote-section {
+    width: 70%;
+  }
+
+  .lenard-image-section {
+    margin: 0 60px;
+    width: 30%;
+  }
 }
 
 
