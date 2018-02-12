@@ -121,14 +121,14 @@ header {
   display: none;
   font-size: 10px;
   padding-right: 5px;
-  padding-left: 10px;
   position: absolute;
   opacity: 0;
 }
 
 .submenu-item {
   color: #bb1f26;
-  padding-right: 20px;
+  padding: 10px;
+  padding-top: 0;
 }
 
 .submenu-item:hover {
