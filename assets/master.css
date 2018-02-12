@@ -489,6 +489,16 @@ h4 {
   transition: all 0.35s;
 }
 
+.program-card-full-width {
+  background-color: inherit;
+  margin: 0;
+  width: 100%;
+}
+
+.program-card-hidden {
+  display: none;
+}
+
 .programs-img {
   width: 100%;
   height: 100%;

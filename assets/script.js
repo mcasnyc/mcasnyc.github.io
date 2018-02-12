@@ -21,6 +21,9 @@ var artOfTheActor = `
     <div class='description-header'>12 Week Autumn 2018 Intensive</div>
     <div>Mid September - Early December (Dates TBA)</div>
     <div>Monday - Wednesday 10:00 am to 5:00 pm</div>
+  </div>
+
+  <div class='description-section'>
     <div>Cost: $4,220.00 for each 12 weeks / or $2,110.00
     for each 6 weeks (payment plans available)</div>
     <div>A copy of The Michael Chekhov Handbook For the Actor by
@@ -358,14 +361,15 @@ document.addEventListener('DOMContentLoaded', function() {
       if (e.target.classList[0] === 'program-card-title') {
         title = e.target.innerText;
         selectedBox = e.target.parentElement;
+        selectedBox.style.textDecoration = "underline";
+      } else if (e.target.classList[0] === 'art-of-the-actor') {
+        title = e.target.parentElement.children[0].innerText;
       } else {
         title = e.target.children[0].innerText;
         selectedBox = e.target;
+        selectedBox.style.textDecoration = "underline";
       }
       descriptionBox.innerHTML = DESCRIPTIONS[title];
-      selectedBox.style.textDecoration = "underline";
-      // var element_to_scroll_to = document.getElementsByClassName('programs-grid')[0];
-      // element_to_scroll_to.scrollIntoView();
     });
   });
   descriptionBox.innerHTML = DESCRIPTIONS['ART OF THE ACTOR'];
