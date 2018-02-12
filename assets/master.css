@@ -700,18 +700,26 @@ h4 {
   font-weight: bold;
 }
 
-.contact-diagram {
-  width: 80%;
+.contact-grid-image {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.contact-image {
+  height: 100%;
+  width: 100%;
+}
+
+.contact-image-source {
+  font-size: 14px;
+  text-align: right;
+  width: 100%;
 }
 
 @media screen and (min-width: 550px) {
   .contact-grid {
     flex-wrap: nowrap;
     font-size: 12px;
-  }
-
-  .contact-section {
-    text-align: right;
   }
 
   .contact-grid-item {
@@ -723,8 +731,9 @@ h4 {
     margin-right: 20px;
   }
 
-  .contact-diagram {
-    width: 100%;
+  .contact-grid-image {
+    height: auto;
+    width: 40%;
   }
 }
 
