@@ -49,3 +49,8 @@ the page name (e.g. studio page is `studio.html`)
         This is useful when we simply want text to appear on the next line.
       - `<div class='description-header'>YOUR TEXT HERE</div>` gives us a way of adding
         a sub-header to a specific paragraph. This is automatically styled in bold.
+      - ```
+        <a class='register-button' target='_blank' href='YOUR LINK HERE'>
+          Apply Today
+        </a>
+        ```

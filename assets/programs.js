@@ -5,34 +5,55 @@ var artOfTheActor = `
   </div>
 
   <div class='description-section'>
-    <div class='description-header'>Profession actors's training in the Chekhov Technique</div>
-    <div>A 24 week Professional Actor's Training program in Michael
-    Chekhov Technique with Lenard Petit, and other Master
-    Teachers from the international Michael Chekhov Community.</div>
+    A professional actor's training in the Michael Chekhov Technique
+    with Lenard Petit, and other Master Teachers from the international
+    Chekhov community.
   </div>
 
   <div class='description-section'>
-    <div class='description-header'>12 Week Spring 2018 Intensive</div>
-    <div>February 19, to March 29, 2018 (6 week Technique Intensive & Clown)</div>
-    <div>April 1, to May 9, 2018 (6 week Rehearsal & Performance Skills)</div>
+    <div><strong>Art of the Actor</strong> is an intensive study of 24 weeks.</div>
+    The training in given in two 12 week intensives, Autumn and Spring.
+    You may apply to begin in the Autumn or the Spring. Upon acceptance
+    you are invited into the full 24 week training.
   </div>
 
-  <div class='description-section'>
-    <div class='description-header'>12 Week Autumn 2018 Intensive</div>
-    <div>Mid September - Early December (Dates TBA)</div>
-    <div>Monday - Wednesday 10:00 am to 5:00 pm</div>
+  <div class='description-class-section'>
+    <div class='description-header'>Spring 2018 (12 Weeks)</div>
+    Inquire about space for late applications at info@michaelchekhovactingstudio.com
   </div>
-
-  <div class='description-section'>
-    <div>Cost: $4,220.00 for each 12 weeks / or $2,110.00
-    for each 6 weeks (payment plans available)</div>
-    <div>A copy of The Michael Chekhov Handbook For the Actor by
-    Lenard Petit is complimentary in the cost of tuition.</div>
+  <div class='description-class-section'>
+    Technique Intensive & Clown,* February 19 - March 29, 2018
+    Rehearsal & Performance Skills** April 1 - May 9, 2018
   </div>
-
-  <a class='register-button' href=''>
+  <div class='description-class-section'>
+    <div>*For a shorter study you may apply for just the 6 week Technique Intensive & Clown</div>
+    **Rehearsal & Performance Skills is open to take independently by Art of the Actor Alumni or by invitation. 6 weeks of rehearsal and performance of a play for friends of the Studio.
+  </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-spring-2018'>
     Apply Today
   </a>
+
+  <div class='description-class-section'>
+    <div class='description-header'>Autumn 2018 (12 Weeks)</div>
+    September 17 - December 5, 2018
+  </div>
+
+  <div class='description-class-section'>
+    <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
+    Cost: $4,220.00 for each 12 weeks / or $2,110.00 for each 6 weeks
+    (payment plans available)
+  </div>
+
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-autumn-2018'>
+    Apply Today
+  </a>
+
+  <div class='description-section'>
+    <strong>A deposit of $260 must accompany your Application. Once you are
+    accepted into the program the fee becomes non-refundable and
+    will be credited towards your tuition. If you are not accepted
+    into the program the fee will be returned to you.</strong>
+  </div>
 </div>
 `;
 
@@ -42,176 +63,173 @@ var workshops = `
     Workshops
   </div>
 
-  <div class='description-section'>
-    <div class='description-header'>
-      Meet the Michael Chekhov Technique
-      <div>
-        January 18 to February 9, 2018
-      </div>
-    </div>
-    <div class='description-class-section'>
-      When you meet the Chekhov Technique you also meet your
-      own creative and expressive self. An introduction to the
-      working parts of the technique designed to energize and
-      provoke you, the actor, into playing fully in your body
-      and the life of the character. Playing, and improvisation
-      take place in a friendly and supportive space.
-    </div>
-    <div class='description-class-section'>
-      This workshop can be taken as an introduction, or as
-      a review.
-    </div>
-    <div class='description-class-section'>
-      <div>
-        Taught by Lenard Petit
-      </div>
-      <div>
-        4 weeks / 8 classes / Thursdays & Fridays /
-        10:00am-1:00pm / Cost: $390
-      </div>
-      <div>
-        $100 Deposit Payment with Registration
-      </div>
+  <div class='description-header'>
+    Meet the Michael Chekhov Technique
+    <div>
+      February 15 to March 9, 2018
     </div>
   </div>
-
-  <div class='description-section'>
-    <div class='description-header'>
-      Acting The Song
-      <div>
-        February 15 to March 9, 2018
-      </div>
+  <div class='description-class-section'>
+    When you meet the Chekhov Technique you also meet your
+    own creative and expressive self. An introduction to the
+    working parts of the technique designed to energize and
+    provoke you, the actor, into playing fully in your body
+    and the life of the character. Playing, and improvisation
+    take place in a friendly and supportive space. This workshop
+    can be taken as an introduction, or as a review.
+  </div>
+  <div class='description-class-section'>
+    Taught by Lenard Petit
+  </div>
+  <div class='description-class-section'>
+    <div>
+      4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
     </div>
-    <div class='description-class-section'>
-      What is the story that lives inside the singer while singing
-      the song? How do you make contact with your inner life
-      so you can unlock and express the dramatic narrative
-      while performing the song?  The meaning is in the images
-      and the images can live in the body of the singer and
-      flow outward to the audience. The song is a creative event;
-      it’s meaning is supported by creative activity living in the
-      singer. Chekhov Technique is a direct pathway to the performer’s
-      expression. This technique workshop is specifically geared
-      towards the expression of the singer. It is an introduction
-      to the Michael Chekhov Technique for musical theatre actors.
-    </div>
-    <div class='description-class-section'>
-      No previous training in the Chekhov Technique is required.
-    </div>
-    <div class='description-class-section'>
-      <div>
-        Taught by Lenard Petit
-      </div>
-      <div>
-        4 weeks / 8 classes / Tuesdays & Wednesdays / 10:00am-1:00pm
-        / Cost: $390
-      </div>
-      <div>
-        $100 Deposit Payment with Registration
-      </div>
+    <div>
+      Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueintro-workshop-february-2018'>
+    Register Today
+  </a>
 
-  <div class='description-section'>
-    <div class='description-header'>
-      Clown For Actors
-      <div>
-        Next Dates TBA
-      </div>
+  <div class='description-header'>
+    Clown For Actors
+    <div>
+      March 19, 20, 21, 2018
     </div>
-    <div class='description-class-section'>
-      This workshop is intended to give actors an opportunity to feel
-      themselves present in a creative state while researching the clown.
-      We will work with the dynamic principles of movement and technique
-      through psychological gesture, archetype, imagination, imaginary
-      body, imaginary center, atmosphere, and improvisation. A time to
-      explore performance skills, relationship to the audience, and basic
-      stagecraft. This is an intensive in being and doing, truth and play.
+  </div>
+  <div class='description-class-section'>
+    This workshop is intended to give actors an opportunity to feel
+    themselves present in a creative state while researching the clown.
+    We will work with the dynamic principles of movement and technique
+    through psychological gesture, archetype, imagination, imaginary
+    body, imaginary center, atmosphere, and improvisation. A time to
+    explore performance skills, relationship to the audience, and basic
+    stagecraft. This is an intensive in being and doing, truth and play.
+  </div>
+  <div class='description-class-section'>
+    All performers are welcome.
+  </div>
+  <div class='description-class-section'>
+    Taught by Lenard Petit
+  </div>
+  <div class='description-class-section'>
+    <div>
+      3 days / Monday, Tuesday, Wednesday / 10:00am-5:00pm
     </div>
-    <div class='description-class-section'>
-      All performers are welcome.
+    <div>
+      Cost: $450 / $100 Deposit Payment with Registration
     </div>
-    <div class='description-class-section'>
+  </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueintro-workshop-february-2018'>
+    Register Today
+  </a>
+
+  <div class='description-header'>
+    The Dramatic Imagination
+    <div>
+      Next Dates TBA
+    </div>
+  </div>
+  <div class='description-class-section'>
+    This workshop is an active engagement with the Chekhov technique
+    to rummage through the needs of both the actor and the character.
+    We reach into the physical to find the radiating drama. The feelings,
+    the thoughts, and the actions of the characters come together.
+    The many parts of the Chekhov technique get passed through the
+    imagination of the actor. The outer world of the play becomes
+    the fully energized inner world of the actor.
+  </div>
+  <div class='description-class-section'>
+    This is application of the technique in a scene study workshop.
+    Introductory training in the Chekhov Technique is required.
+  </div>
+  <div class='description-class-section'>
+    Taught by Lenard Petit & Melania Levitsky
+  </div>
+  <div class='description-class-section'>
+    4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm / Cost: $390
+  </div>
+  <div class='description-class-section'>
+    $100 Deposit Payment with Registration
+  </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueintro-workshop-february-2018'>
+    Register Today
+  </a>
+
+  <div class='description-header'>
+    Acting The Song
+    <div>
+      February 15 to March 9, 2018
+    </div>
+  </div>
+  <div class='description-class-section'>
+    What is the story that lives inside the singer while singing
+    the song? How do you make contact with your inner life
+    so you can unlock and express the dramatic narrative
+    while performing the song?  The meaning is in the images
+    and the images can live in the body of the singer and
+    flow outward to the audience. The song is a creative event;
+    it’s meaning is supported by creative activity living in the
+    singer. Chekhov Technique is a direct pathway to the performer’s
+    expression. This technique workshop is specifically geared
+    towards the expression of the singer. It is an introduction
+    to the Michael Chekhov Technique for musical theatre actors.
+  </div>
+  <div class='description-class-section'>
+    No previous training in the Chekhov Technique is required.
+  </div>
+  <div class='description-class-section'>
+    <div>
       Taught by Lenard Petit
     </div>
-  </div>
-
-  <div class='description-section'>
-    <div class='description-header'>
-      The Dramatic Imagination
-      <div>
-        Next Dates TBA
-      </div>
+    <div>
+      4 weeks / 8 classes / Tuesdays & Wednesdays / 10:00am-1:00pm
+      / Cost: $390
     </div>
-    <div class='description-class-section'>
-      This workshop is an active engagement with the Chekhov technique
-      to rummage through the needs of both the actor and the character.
-      We reach into the physical to find the radiating drama. The feelings,
-      the thoughts, and the actions of the characters come together.
-      The many parts of the Chekhov technique get passed through the
-      imagination of the actor. The outer world of the play becomes
-      the fully energized inner world of the actor.
-    </div>
-    <div class='description-class-section'>
-      This is application of the technique in a scene study workshop.
-      Introductory training in the Chekhov Technique is required.
-    </div>
-    <div class='description-class-section'>
-      Taught by Lenard Petit & Melania Levitsky
-    </div>
-    <div class='description-class-section'>
-      4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm / Cost: $390
-    </div>
-    <div class='description-class-section'>
+    <div>
       $100 Deposit Payment with Registration
     </div>
   </div>
 
-  <div class='description-section'>
-    <div class='description-header'>
-      Transformation
-      <div>
-        Next Dates TBA
-      </div>
-    </div>
-    <div class='description-class-section'>
-      Applying the tools. Characterization as Chekhov called it. Imagine
-      playing the character you have always wanted to play. You can do
-      that in this workshop–using rehearsal techniques of Michael Chekhov
-      to illuminate the character for your transformation.
-    </div>
-    <div class='description-class-section'>
-      It is a process you will easily understand because you learn it
-      through play, and you can carry it away. Introductory training in
-      the Chekhov Technique is recommended, but not required.
-    </div>
-    <div class='description-class-section'>
-      $100 Deposit Payment with Registration
+  <div class='description-header'>
+    Transformation
+    <div>
+      Next Dates TBA
     </div>
   </div>
-
-  <div class='description-section'>
-    <div class='description-header'>
-      The Audition
-      <div>
-        Next Dates TBA
-      </div>
-    </div>
-    <div class='description-class-section'>
-      Technique and practice for preparing an audition. Monologues and
-      cold reading. Simple and provocative choices to serve the auditioner.
-    </div>
-    <div class='description-class-section'>
-      Introductory training in the Chekhov Technique is recommended, but not required.
-    </div>
-    <div class='description-class-section'>
-      $100 Deposit Payment with Registration
-    </div>
+  <div class='description-class-section'>
+    Applying the tools. Characterization as Chekhov called it. Imagine
+    playing the character you have always wanted to play. You can do
+    that in this workshop–using rehearsal techniques of Michael Chekhov
+    to illuminate the character for your transformation.
+  </div>
+  <div class='description-class-section'>
+    It is a process you will easily understand because you learn it
+    through play, and you can carry it away. Introductory training in
+    the Chekhov Technique is recommended, but not required.
+  </div>
+  <div class='description-class-section'>
+    $100 Deposit Payment with Registration
   </div>
 
-  <a class='register-button' href=''>
-    Register
-  </a>
+  <div class='description-header'>
+    The Audition
+    <div>
+      Next Dates TBA
+    </div>
+  </div>
+  <div class='description-class-section'>
+    Technique and practice for preparing an audition. Monologues and
+    cold reading. Simple and provocative choices to serve the auditioner.
+  </div>
+  <div class='description-class-section'>
+    Introductory training in the Chekhov Technique is recommended, but not required.
+  </div>
+  <div class='description-class-section'>
+    $100 Deposit Payment with Registration
+  </div>
 </div>
 `;
 
