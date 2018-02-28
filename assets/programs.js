@@ -246,7 +246,7 @@ var chekhovPerformanceLab = `
   </div>
 
   <div class='description-section'>
-    First Thursday of every month, actors with prior training in
+    First Thursday of every month,  actors with prior training in
     Michael Chekhov are invited to bring material in to explore and
     develop through the Technique.
   </div>
@@ -263,7 +263,7 @@ var chekhovPerformanceLab = `
   </div>
 
   <div class='description-section'>
-    <div>Monthly: First Thursdays / 2:00 pm - 5:00 pm</div>
+    <div>Monthly: First Thursdays (September - May) / 2:00 pm - 5:00 pm</div>
     <div>Cost: $40 Single / $160 for Five</div>
     <div>
       Pay online
@@ -295,7 +295,6 @@ var artistSalon = `
   </div>
 
   <div class='description-section'>
-    Next Salon event will be Saturday January 13, 2018!
     <div><a class='description-link' href='mailto:info@michaelchekhvoactingstudio.com'>Email us </a>
     if you are interested in being involved or help curate an event.</div>
   </div>
