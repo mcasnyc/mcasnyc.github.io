@@ -127,7 +127,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-      Next Dates TBA
+      March 29 to April 20, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -137,10 +137,7 @@ var workshops = `
     the thoughts, and the actions of the characters come together.
     The many parts of the Chekhov technique get passed through the
     imagination of the actor. The outer world of the play becomes
-    the fully energized inner world of the actor.
-  </div>
-  <div class='description-class-section'>
-    This is application of the technique in a scene study workshop.
+    the fully energized inner world of the actor. This is a scene study workshop. 
     Introductory training in the Chekhov Technique is required.
   </div>
   <div class='description-class-section'>
@@ -152,14 +149,14 @@ var workshops = `
   <div class='description-class-section'>
     $100 Deposit Payment with Registration
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueintro-workshop-february-2018'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imagination-scene-study-march-2018'>
     Register Today
   </a>
 
   <div class='description-header'>
     Acting The Song
     <div>
-      February 15 to March 9, 2018
+      Next Dates TBA
     </div>
   </div>
   <div class='description-class-section'>
@@ -174,8 +171,6 @@ var workshops = `
     expression. This technique workshop is specifically geared
     towards the expression of the singer. It is an introduction
     to the Michael Chekhov Technique for musical theatre actors.
-  </div>
-  <div class='description-class-section'>
     No previous training in the Chekhov Technique is required.
   </div>
   <div class='description-class-section'>
@@ -183,13 +178,14 @@ var workshops = `
       Taught by Lenard Petit
     </div>
     <div>
-      4 weeks / 8 classes / Tuesdays & Wednesdays / 10:00am-1:00pm
-      / Cost: $390
+     Cost: TBA
     </div>
-    <div>
-      $100 Deposit Payment with Registration
-    </div>
-  </div>
+     <div class='description-class-section'>
+       $100 Deposit Payment with Registration
+     </div>
+  <a class='register-button' target='_blank' href=''>
+    Register Today
+  </a>
 
   <div class='description-header'>
     Transformation
@@ -208,9 +204,15 @@ var workshops = `
     through play, and you can carry it away. Introductory training in
     the Chekhov Technique is recommended, but not required.
   </div>
-  <div class='description-class-section'>
-    $100 Deposit Payment with Registration
-  </div>
+    <div>
+     Cost: TBA
+    </div>
+     <div class='description-class-section'>
+       $100 Deposit Payment with Registration
+     </div>
+  <a class='register-button' target='_blank' href=''>
+    Register Today
+  </a>
 
   <div class='description-header'>
     The Audition
@@ -225,9 +227,15 @@ var workshops = `
   <div class='description-class-section'>
     Introductory training in the Chekhov Technique is recommended, but not required.
   </div>
-  <div class='description-class-section'>
-    $100 Deposit Payment with Registration
-  </div>
+    <div>
+     Cost: TBA
+    </div>
+     <div class='description-class-section'>
+       $100 Deposit Payment with Registration
+     </div>
+  <a class='register-button' target='_blank' href=''>
+    Register Today
+  </a>
 </div>
 `;
 
