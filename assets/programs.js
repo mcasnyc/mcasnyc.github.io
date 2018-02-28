@@ -107,8 +107,6 @@ var workshops = `
     body, imaginary center, atmosphere, and improvisation. A time to
     explore performance skills, relationship to the audience, and basic
     stagecraft. This is an intensive in being and doing, truth and play.
-  </div>
-  <div class='description-class-section'>
     All performers are welcome.
   </div>
   <div class='description-class-section'>
@@ -122,7 +120,7 @@ var workshops = `
       Cost: $450 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueintro-workshop-february-2018'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-3-day-intensive'>
     Register Today
   </a>
 
