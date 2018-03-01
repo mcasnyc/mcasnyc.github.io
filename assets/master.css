@@ -754,7 +754,7 @@ h4 {
 /* PHILOSOPHY / STUDIO */
 
 .page-section {
-  padding: 20px;
+  padding: 20px 0;
   margin-bottom: 10px;
 }
 
@@ -783,7 +783,7 @@ h4 {
 
 @media screen and (min-width: 550px) {
   .page-section {
-    padding: 30px;
+    padding: 30px 0;
   }
 
   .section-header {
@@ -794,7 +794,7 @@ h4 {
 
 @media screen and (min-width: 750px) {
   .page-section {
-    padding: 40px;
+    padding: 40px 0;
   }
 
   .section-header {
@@ -973,6 +973,7 @@ h4 {
 .studio-page-nav {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
   width: 100%;
 }
 
@@ -980,8 +981,7 @@ h4 {
   box-sizing: border-box;
   display: inline-block;
   margin: 0;
-  padding: 4px;
-  width: 33.3%;
+  width: 31%;
   position: relative;
 }
 
@@ -1033,13 +1033,9 @@ h4 {
     padding-top: 50px;
   }
 
-  .page-nav-item {
-    padding: 14px;
-  }
-
   .page-nav-item label {
-    height: calc(100% - 28px);
-    width: calc(100% - 28px);
+    height: 100%;
+    width: 100%;
   }
 
   .studio-quote {
@@ -1055,14 +1051,10 @@ h4 {
     width: 400px;
   }
 
-  .page-nav-item {
-    padding: 20px;
-  }
-
   .page-nav-item label {
     font-size: 3vw;
-    height: calc(100% - 40px);
-    width: calc(100% - 40px);
+    height: 100%;
+    width: 100%;
   }
 }
 
