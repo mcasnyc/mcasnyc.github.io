@@ -1083,10 +1083,12 @@ h4 {
 }
 
 .lenard-grid {
+  background-color: #EFEFEF;
   display: flex;
   flex-wrap: wrap;
-  margin: 0 30px;
+  justify-content: space-between;
   margin-top: 60px;
+  padding: 30px;
 }
 
 .lenard-quote-section {
@@ -1094,8 +1096,8 @@ h4 {
 }
 
 .lenard-image-section {
-  margin: 30px auto;
-  margin-bottom: 50px;
+  margin-top: 30px;
+  /* margin-bottom: 50px; */
   width: 55%;
 }
 
@@ -1166,12 +1168,11 @@ h4 {
   }
 
   .lenard-quote-section {
-    width: 70%;
+    width: 65%;
   }
 
   .lenard-image-section {
-    margin: 0 60px;
-    width: 30%;
+    width: 28%;
   }
 
   .lenard-chart {
