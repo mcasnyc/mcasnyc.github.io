@@ -127,7 +127,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-      March 29 to April 20, 2018
+      April 5 to April 27, 2018
     </div>
   </div>
   <div class='description-class-section'>
