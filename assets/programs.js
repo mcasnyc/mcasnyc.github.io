@@ -96,7 +96,7 @@ var workshops = `
       Weekend / Friday-Sunday
     </div>
     <div>
-      Cost: $390 / $100 Deposit Payment with Registration
+      Cost: $360 / $100 Deposit Payment with Registration
     </div>
   </div>
   <a class='register-button' target='_blank'>
