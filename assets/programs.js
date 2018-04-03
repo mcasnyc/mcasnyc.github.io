@@ -7,31 +7,10 @@ var artOfTheActor = `
   <div class='description-section'>
     A professional actor's training in the Michael Chekhov Technique
     with Lenard Petit, and other Master Teachers from the international
-    Chekhov community.
+    Chekhov community. <strong>Art of the Actor</strong> is an intensive 
+    study of 24 weeks given in two 12 week intensives. You may apply to begin 
+    in the Autumn or the Spring. Upon acceptance you are invited into the full 24 week training.
   </div>
-
-  <div class='description-section'>
-    <div><strong>Art of the Actor</strong> is an intensive study of 24 weeks
-    given in two 12 week intensives.
-    You may apply to begin in the Autumn or the Spring. Upon acceptance
-    you are invited into the full 24 week training.
-  </div>
-
-  <div class='description-class-section'>
-    <div class='description-header'>Spring 2018 (12 Weeks)</div>
-    Inquire about space for late applications at info@michaelchekhovactingstudio.com
-  </div>
-  <div class='description-class-section'>
-    Technique Intensive & Clown,* February 19 - March 29, 2018
-    Rehearsal & Performance Skills** April 1 - May 9, 2018
-  </div>
-  <div class='description-class-section'>
-    <div>*For a shorter study you may apply for just the 6 week Technique Intensive & Clown</div>
-    **Rehearsal & Performance Skills is open to take independently by Art of the Actor Alumni or by invitation. 6 weeks of rehearsal and performance of a play for friends of the Studio.
-  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-spring-2018'>
-    Apply Today
-  </a>
 
   <div class='description-class-section'>
     <div class='description-header'>Autumn 2018 (12 Weeks)</div>
