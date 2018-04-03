@@ -19,7 +19,7 @@ var artOfTheActor = `
 
   <div class='description-class-section'>
     <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
-    Cost: $4,220.00 for each 12 weeks / or $2,110.00 for each 6 weeks
+    Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
     (payment plans available)
   </div>
 
@@ -45,7 +45,7 @@ var workshops = `
   <div class='description-header'>
     Meet the Michael Chekhov Technique
     <div>
-      February 15 to March 9, 2018
+      September TBA, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -68,14 +68,14 @@ var workshops = `
       Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueintro-workshop-february-2018'>
+  <a class='register-button' target='_blank' '>
     Register Today
   </a>
 
   <div class='description-header'>
     Clown For Actors
     <div>
-      March 19, 20, 21, 2018
+      November TBA, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -93,20 +93,20 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      3 days / Monday, Tuesday, Wednesday / 10:00am-5:00pm
+      Weekend / Friday-Sunday
     </div>
     <div>
-      Cost: $450 / $100 Deposit Payment with Registration
+      Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-3-day-intensive'>
+  <a class='register-button' target='_blank'>
     Register Today
   </a>
 
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-      April 5 to April 27, 2018
+     April 28 & 29, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -120,10 +120,10 @@ var workshops = `
     Introductory training in the Chekhov Technique is required.
   </div>
   <div class='description-class-section'>
-    Taught by Lenard Petit & Melania Levitsky
+    Taught by Lenard Petit
   </div>
   <div class='description-class-section'>
-    4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm / Cost: $390
+    **Just Added** Weekend / Saturday & Sunday / 10:00am-1:00pm / Cost: $275
   </div>
   <div class='description-class-section'>
     $100 Deposit Payment with Registration
