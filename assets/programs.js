@@ -11,8 +11,8 @@ var artOfTheActor = `
   </div>
 
   <div class='description-section'>
-    <div><strong>Art of the Actor</strong> is an intensive study of 24 weeks.</div>
-    The training in given in two 12 week intensives, Autumn and Spring.
+    <div><strong>Art of the Actor</strong> is an intensive study of 24 weeks
+    given in two 12 week intensives.
     You may apply to begin in the Autumn or the Spring. Upon acceptance
     you are invited into the full 24 week training.
   </div>
