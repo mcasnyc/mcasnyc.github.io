@@ -106,7 +106,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     April 28 & 29, 2018
+     April 28 & 29, 2018 **new**inquire by April 9th** 
     </div>
   </div>
   <div class='description-class-section'>
@@ -123,7 +123,7 @@ var workshops = `
     Taught by Lenard Petit
   </div>
   <div class='description-class-section'>
-    **Just Added** Weekend / Saturday & Sunday / 10:00am-1:00pm / Cost: $275
+    Weekend / Saturday & Sunday / 10:00am-5:00pm / Cost: $275
   </div>
   <div class='description-class-section'>
     $100 Deposit Payment with Registration
