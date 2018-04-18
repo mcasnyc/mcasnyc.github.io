@@ -45,7 +45,7 @@ var workshops = `
   <div class='description-header'>
     Meet the Michael Chekhov Technique
     <div>
-      September TBA, 2018
+      Autumn, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -75,7 +75,7 @@ var workshops = `
   <div class='description-header'>
     Clown For Actors
     <div>
-      November TBA, 2018
+      Autumn, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -106,7 +106,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     April 28 & 29, 2018 **new**inquire by April 9th** 
+     Autumn, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -123,10 +123,10 @@ var workshops = `
     Taught by Lenard Petit
   </div>
   <div class='description-class-section'>
-    Weekend / Saturday & Sunday / 10:00am-5:00pm / Cost: $275
+    4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
   </div>
   <div class='description-class-section'>
-    $100 Deposit Payment with Registration
+    Cost: $390 / $100 Deposit Payment with Registration
   </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imagination-scene-study-march-2018'>
     Register Today
