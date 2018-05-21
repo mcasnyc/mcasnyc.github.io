@@ -19,8 +19,8 @@ var artOfTheActor = `
 
   <div class='description-class-section'>
     <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
-    Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
-    (payment plans available) Accepting applications now through July 10th, 2018.
+    <div>Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
+    (payment plans available)</div> Accepting applications now through July 10th, 2018.
   </div>
 
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-autumn-2018'>
