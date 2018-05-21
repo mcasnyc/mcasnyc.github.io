@@ -74,6 +74,35 @@ var workshops = `
   </a>
 
   <div class='description-header'>
+    The Dramatic Imagination
+    <div>
+     November 1 to 16 & 29, 30, 2018 (No class on Thanksgiving Week) 
+    </div>
+  </div>
+  <div class='description-class-section'>
+    This workshop is an active engagement with the Chekhov technique
+    to rummage through the needs of both the actor and the character.
+    We reach into the physical to find the radiating drama. The feelings,
+    the thoughts, and the actions of the characters come together.
+    The many parts of the Chekhov technique get passed through the
+    imagination of the actor. The outer world of the play becomes
+    the fully energized inner world of the actor. This is a scene study workshop. 
+    Introductory training in the Chekhov Technique is required.
+  </div>
+  <div class='description-class-section'>
+    Taught by Lenard Petit
+  </div>
+  <div class='description-class-section'>
+    4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
+  </div>
+  <div class='description-class-section'>
+    Cost: $390 / $100 Deposit Payment with Registration
+  </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imagination-scene-study-march-2018'>
+    Register Today
+  </a>
+
+<div class='description-header'>
     Clown For Actors
     <div>
       Autumn, 2018
@@ -101,35 +130,6 @@ var workshops = `
     </div>
   </div>
   <a class='register-button' target='_blank'>
-    Register Today
-  </a>
-
-  <div class='description-header'>
-    The Dramatic Imagination
-    <div>
-     November 1 to 16 & 29, 30, 2018 (No class on Thanksgiving Week) 
-    </div>
-  </div>
-  <div class='description-class-section'>
-    This workshop is an active engagement with the Chekhov technique
-    to rummage through the needs of both the actor and the character.
-    We reach into the physical to find the radiating drama. The feelings,
-    the thoughts, and the actions of the characters come together.
-    The many parts of the Chekhov technique get passed through the
-    imagination of the actor. The outer world of the play becomes
-    the fully energized inner world of the actor. This is a scene study workshop. 
-    Introductory training in the Chekhov Technique is required.
-  </div>
-  <div class='description-class-section'>
-    Taught by Lenard Petit
-  </div>
-  <div class='description-class-section'>
-    4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
-  </div>
-  <div class='description-class-section'>
-    Cost: $390 / $100 Deposit Payment with Registration
-  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imagination-scene-study-march-2018'>
     Register Today
   </a>
 
@@ -243,7 +243,7 @@ var chekhovPerformanceLab = `
   </div>
 
   <div class='description-section'>
-    <div>Monthly: First Thursdays (September - May) / 2:00 pm - 5:00 pm</div>
+    <div>Monthly: First Thursdays (October - May) / 2:00 pm - 5:00 pm</div>
     <div>Cost: $40 Single / $160 for Five</div>
     <div>
       Pay online
@@ -313,8 +313,17 @@ var mcasAtLotusBay = `
     Lenard Petit and partner Meg Pantera bought the property in 2012,
     taking on a house that was much neglected. They since have brought
     it into a new life. Now a beautiful and restful space for artists
-    to retreat and create in the country. The first retreat was held
-    in August, 2017! Stay tuned for 2018 dates.
+    to retreat and create in the country. 
+  </div>
+
+ <div class='description-section'>
+   Second Annual Retreat: A Mid-Summer Night's Dream. 
+   July 28th - August 2nd, 2018 (4 working days / 5 nights)
+   Come join us for our second annual summer retreat with 
+   Michael Chekhov Acting Studio at Lotus Bay. This retreat 
+   is organized for experienced Chekhov actors and teachers 
+   to develop rehearsal techniques with Lenard at our lovely 
+   summer getaway in Lotus Bay, NY.
   </div>
 </div>
 `;
