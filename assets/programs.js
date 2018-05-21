@@ -325,6 +325,28 @@ var mcasAtLotusBay = `
    to develop rehearsal techniques with Lenard at our lovely 
    summer getaway in Lotus Bay, NY.
   </div>
+
+ <div class='description-section'>
+   "The Archetypal Imagination." Come to understand Michael 
+   Chekhov Technique as a collection of Archetypes. The working 
+   focus of the retreat is to explore archetypes as a threshold 
+   into inspired acting using the playful text of the “Mechanicals" 
+   from A Midsummer Night’s Dream, by William Shakespeare. A public 
+   performance of the Mechanicals is being considered, sharing the 
+   week's work with the local community on our open air stage.
+   Seeking actors with a working knowledge of Michael Chekhov Technique, 
+   who want to directly apply it to rehearsal skills and take a Retreat 
+   on the shores of Great Lake, Erie. Refresh your Artist–the Actors' Retreat 
+   is a delightful mix of study and retreat. Good people, good food, nature and play!
+ </div>
+
+ <div class='description-section'>
+   Full Week Cost $860 (Includes Meals & Housing) Limited to 10 people. 
+  </div>
+
+ <a class='register-button' target='_blank' href=''>
+    Register Here
+  </a>
 </div>
 `;
 
