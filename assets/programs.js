@@ -20,7 +20,7 @@ var artOfTheActor = `
   <div class='description-class-section'>
     <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
     Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
-    (payment plans available)
+    (payment plans available) Accepting applications now through July 10th, 2018.
   </div>
 
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-autumn-2018'>
@@ -31,7 +31,7 @@ var artOfTheActor = `
     <strong>A deposit of $260 must accompany your Application. Once you are
     accepted into the program the fee becomes non-refundable and
     will be credited towards your tuition. If you are not accepted
-    into the program the fee will be returned to you.</strong>
+    into the program the fee will be returned to you. </strong>
   </div>
 </div>
 `;
@@ -45,7 +45,7 @@ var workshops = `
   <div class='description-header'>
     Meet the Michael Chekhov Technique
     <div>
-      Autumn, 2018
+      September 27 to October 19, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -106,7 +106,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     Autumn, 2018
+     November 1 to 16 & 29, 30, 2018 (No class on Thanksgiving Week) 
     </div>
   </div>
   <div class='description-class-section'>
