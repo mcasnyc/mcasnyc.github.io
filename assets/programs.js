@@ -344,7 +344,7 @@ var mcasAtLotusBay = `
    Full Week Cost $860 (Includes Meals & Housing) Limited to 10 people. 
   </div>
 
- <a class='register-button' target='_blank' href=''>
+ <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/actors-retreat-at-lotus-bay-2018'>
     Register Here
   </a>
 </div>
