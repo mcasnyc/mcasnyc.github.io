@@ -69,7 +69,7 @@ var workshops = `
       Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' '>
+  <a class='register-button' target='_blank'https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueworkshop2018'>
     Register Today
   </a>
 
