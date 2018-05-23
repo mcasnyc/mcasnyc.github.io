@@ -69,7 +69,7 @@ var workshops = `
       Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueworkshop2018'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueworkshop2018'>
     Register Today
   </a>
 
@@ -98,7 +98,7 @@ var workshops = `
   <div class='description-class-section'>
     Cost: $390 / $100 Deposit Payment with Registration
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imagination-scene-study-march-2018'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imaginationscene-study2018'>
     Register Today
   </a>
 
