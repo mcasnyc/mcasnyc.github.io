@@ -12,19 +12,27 @@ var artOfTheActor = `
     in the Autumn or the Spring. Upon acceptance you are invited into the full 24 week training.
   </div>
 
+  <div class='description-section'>
+    This course is a psycho-physical approach to acting based on the artistic 
+    principles left to us by Michael Chekhov. The work is imaginative rather than 
+    personal, physical rather than intellectual. The technique was developed as a way   
+    for actors to access universal and archetypal human conditions. We work with energy, 
+    we are creative, expressive and positive.
+  </div>
+
   <div class='description-class-section'>
-    <div class='description-header'>Autumn 2018 (12 Weeks)</div>
-    September 17 - December 5, 2018
+    <div class='description-header'>Spring 2018 (12 Weeks)</div>
+    February 18 - May 4, 2018
   </div>
 
   <div class='description-class-section'>
     <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
     <div>Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
     (payment plans available)</div> 
-    <div>Accepting applications now through July 10th, 2018.</div> 
+    <div>Accepting applications now through January 10th, 2018.</div> 
   </div>
 
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-autumn-2018'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/applyart-of-the-actor-spring-2019'>
     Apply Today
   </a>
 
