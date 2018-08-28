@@ -317,7 +317,7 @@ var mcasAtLotusBay = `
   </div>
 
   <div class='description-section'>
-    A Summer Retreat Center for Actors on the shores of Lake Erie.
+    A Retreat Center for Actors on the shores of Lake Erie.
     Lenard Petit and partner Meg Pantera bought the property in 2012,
     taking on a house that was much neglected. They since have brought
     it into a new life. Now a beautiful and restful space for artists
@@ -325,25 +325,20 @@ var mcasAtLotusBay = `
   </div>
 
  <div class='description-section'>
-   Second Annual Retreat: A Mid-Summer Night's Dream. 
-   July 28th - August 2nd, 2018 (4 working days / 5 nights)
-   Come join us for our second annual summer retreat with 
-   Michael Chekhov Acting Studio at Lotus Bay. This retreat 
-   is organized for experienced Chekhov actors and teachers 
-   to develop rehearsal techniques with Lenard at our lovely 
-   summer getaway in Lotus Bay, NY.
+   First Autumn Retreat: Investigation, Incorporation, & the Unconscious  
+   October 10th - 15th, 2018 (4 working days / 5 nights)
   </div>
 
  <div class='description-section'>
-   "The Archetypal Imagination." Come to understand Michael 
-   Chekhov Technique as a collection of Archetypes. The working 
-   focus of the retreat is to explore archetypes as a threshold 
-   into inspired acting using the playful text of the “Mechanicals" 
-   from A Midsummer Night’s Dream, by William Shakespeare. A public 
-   performance of the Mechanicals is being considered, sharing the 
-   week's work with the local community on our open air stage.
-   Seeking actors with a working knowledge of Michael Chekhov Technique, 
-   who want to directly apply it to rehearsal skills and take a Retreat 
+   Come join us for our first autumn retreat with Michael Chekhov 
+   Acting Studio at Lotus Bay. After two successful Summer retreats 
+   we are ready to offer an autumnal experience.   This retreat is 
+   organized for actors and teachers to develop rehearsal techniques 
+   with Lenard at our lovely getaway in Lotus Bay, NY.
+   Investigations into the Michael Chekhov Technique. Incorporating images 
+   as the means of rehearsing a play. Working with the Unconscious as a source of inspiration. 
+   Seeking actors with a knowledge of Michael Chekhov Technique, 
+   who want to apply it to rehearsal skills and take a Retreat 
    on the shores of Great Lake, Erie. Refresh your Artist–the Actors' Retreat 
    is a delightful mix of study and retreat. Good people, good food, nature and play!
  </div>
@@ -352,10 +347,19 @@ var mcasAtLotusBay = `
    Full Week Cost $860 (Includes Meals & Housing) Limited to 10 people. 
   </div>
 
- <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/actors-retreat-at-lotus-bay-2018'>
+ <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/autumn-actors-retreat-at-lotus-bay-2018'>
     Register Here
   </a>
 </div>
+
+
+ <div class='description-section'>
+   Past Retreats:
+   *Second Annual Summer Retreat: A Mid-Summer Night's Dream 
+   (July 28th - August 2nd, 2018) 
+   *First Annual Summer Retreat: Desire Under the Elms 
+   (August 3rd - 7th, 2017)
+  </div>
 `;
 
 var beyondNewYork = `
