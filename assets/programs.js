@@ -22,7 +22,7 @@ var artOfTheActor = `
 
   <div class='description-class-section'>
     <div class='description-header'>Spring 2018 (12 Weeks)</div>
-    February 18 - May 4, 2018
+    February 18 - May 12, 2018
   </div>
 
   <div class='description-class-section'>
