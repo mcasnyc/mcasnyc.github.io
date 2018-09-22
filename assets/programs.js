@@ -82,6 +82,32 @@ var workshops = `
   </a>
 
   <div class='description-header'>
+    Investigation, Incorporation, & the Unconscious
+    <div>
+      October 17, 24 & November 7, 14th, 2018
+    </div>
+  </div>
+  <div class='description-class-section'>
+    Investigations into the Michael Chekhov Technique. 
+    Incorporating images as the means of rehearsing a play. 
+    Working with the Unconscious as a source of inspiration.
+  </div>
+  <div class='description-class-section'>
+    Taught by Lenard Petit
+  </div>
+  <div class='description-class-section'>
+    <div>
+      4 classes / Wednesdays / 2:00pm-5:00pm
+    </div>
+    <div>
+      Cost: $265 / $100 Deposit Payment with Registration
+    </div>
+  </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/investigation-incorporation-the-unconscious'>
+    Register Today
+  </a>
+
+  <div class='description-header'>
     The Dramatic Imagination
     <div>
      November 1 to 16 & 29, 30, 2018 (No class on Thanksgiving Week) 
