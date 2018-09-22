@@ -139,7 +139,7 @@ var workshops = `
 <div class='description-header'>
     Clown For Actors
     <div>
-      Autumn, 2018
+      Nov 17 & 18, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -157,10 +157,10 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      Weekend / Friday-Sunday
+      Weekend / Saturday & Sunday 10:00am-5:00pm
     </div>
     <div>
-      Cost: $360 / $100 Deposit Payment with Registration
+      Cost: TBA / $100 Deposit Payment with Registration
     </div>
   </div>
   <a class='register-button' target='_blank'>
@@ -170,7 +170,7 @@ var workshops = `
   <div class='description-header'>
     Acting The Song
     <div>
-      Next Dates TBA
+      November 5, 6, 7 & 12, 13, 14, 2018
     </div>
   </div>
   <div class='description-class-section'>
