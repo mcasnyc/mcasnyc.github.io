@@ -54,7 +54,7 @@ var workshops = `
   <div class='description-header'>
     Meet the Michael Chekhov Technique
     <div>
-      September 27 to October 19, 2018
+      November 28 to December 20, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -71,13 +71,13 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
+      4 weeks / 8 classes / Wednesdays & Thursdays / 2:00pm-5:00pm
     </div>
     <div>
       Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-michael-chekhov-techniqueworkshop2018'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/mmctnov18'>
     Register Today
   </a>
 
