@@ -160,17 +160,17 @@ var workshops = `
       Weekend / Saturday & Sunday 10:00am-5:00pm
     </div>
     <div>
-      Cost: TBA / $100 Deposit Payment with Registration
+      Cost: $300 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'>
+  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-1118'>
     Register Today
   </a>
 
   <div class='description-header'>
     Acting The Song
     <div>
-      November 5, 6, 7 & 12, 13, 14, 2018
+      December 5, 6, 7 & 12, 13, 14, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -192,12 +192,12 @@ var workshops = `
       Taught by Lenard Petit
     </div>
     <div>
-     Cost: TBA
+     Cost: $320
     </div>
      <div class='description-class-section'>
        $100 Deposit Payment with Registration
      </div>
-  <a class='register-button' target='_blank' href=''>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/acting-the-songdec18'>
     Register Today
   </a>
 
