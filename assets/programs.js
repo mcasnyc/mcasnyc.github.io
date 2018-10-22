@@ -82,32 +82,6 @@ var workshops = `
   </a>
 
   <div class='description-header'>
-    Investigation, Incorporation, & the Unconscious
-    <div>
-      October 17, 24 & November 7, 14th, 2018
-    </div>
-  </div>
-  <div class='description-class-section'>
-    Investigations into the Michael Chekhov Technique. 
-    Incorporating images as the means of rehearsing a play. 
-    Working with the Unconscious as a source of inspiration.
-  </div>
-  <div class='description-class-section'>
-    Taught by Lenard Petit
-  </div>
-  <div class='description-class-section'>
-    <div>
-      4 classes / Wednesdays / 2:00pm-5:00pm
-    </div>
-    <div>
-      Cost: $265 / $100 Deposit Payment with Registration
-    </div>
-  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/investigation-incorporation-the-unconscious'>
-    Register Today
-  </a>
-
-  <div class='description-header'>
     The Dramatic Imagination
     <div>
      November 1 to 16 & 29, 30, 2018 (No class on Thanksgiving Week) 
@@ -124,7 +98,7 @@ var workshops = `
     Introductory training in the Chekhov Technique is required.
   </div>
   <div class='description-class-section'>
-    Taught by Lenard Petit
+    Taught by Lenard Petit & Melania Levitsky
   </div>
   <div class='description-class-section'>
     4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
@@ -164,6 +138,32 @@ var workshops = `
     </div>
   </div>
   <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-1118'>
+    Register Today
+  </a>
+
+<div class='description-header'>
+    Living in the Questions *Evenings*
+    <div>
+    November 26-December 17, 2018
+    </div>
+  </div>
+  <div class='description-class-section'>
+    Living in the Questions is a workshop in Michael Chekhov Technique from teachers Emma Wade and Gabriel Rodriguez
+    focused on three generative questions: What? How? Who? In learning to embody these questions, you, the performing 
+    artist, develop a nourishing relationship with your imagination and the ability to make strong, specific choices. 
+  </div>
+  <div class='description-class-section'>
+    Taught by Emma Wade and Gabriel Rodriguez
+  </div>
+  <div class='description-class-section'>
+    <div>
+      Evening / 4 Mondays 7:00pm-9:30pm
+    </div>
+    <div>
+      Cost: $230 / $100 Deposit Payment with Registration
+    </div>
+  </div>
+  <a class='register-button' target='_blank'href='https://'>
     Register Today
   </a>
 
