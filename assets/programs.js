@@ -157,13 +157,13 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      Evening / 4 Mondays 7:00pm-9:30pm
+      Evening / 4 Mondays 7:00pm-9:15pm
     </div>
     <div>
       Cost: $230 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href='https://'>
+  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/living-in-the-questions'>
     Register Today
   </a>
 
