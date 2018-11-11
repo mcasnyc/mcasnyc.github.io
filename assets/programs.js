@@ -54,7 +54,7 @@ var workshops = `
   <div class='description-header'>
     Meet the Michael Chekhov Technique
     <div>
-      November 28 to December 20, 2018
+      November 27 to December 20, 2018
     </div>
   </div>
   <div class='description-class-section'>
@@ -71,7 +71,7 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      4 weeks / 8 classes / Wednesdays & Thursdays / 2:00pm-5:00pm
+      4 weeks / 8 classes / Tuesdays & Thursdays / 2:00pm-5:00pm
     </div>
     <div>
       Cost: $390 / $100 Deposit Payment with Registration
