@@ -54,7 +54,7 @@ var workshops = `
   <div class='description-header'>
     Meet the Michael Chekhov Technique
     <div>
-      November 27 to December 20, 2018
+      Stay tuned for 2019 dates.
     </div>
   </div>
   <div class='description-class-section'>
@@ -84,7 +84,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     November 1 to 16 & 29, 30, 2018 (No class on Thanksgiving Week) 
+     Stay tuned for 2019 dates.
     </div>
   </div>
   <div class='description-class-section'>
@@ -113,7 +113,7 @@ var workshops = `
 <div class='description-header'>
     Clown For Actors
     <div>
-      Nov 17 & 18, 2018
+      Stay tuned for 2019 dates.
     </div>
   </div>
   <div class='description-class-section'>
@@ -170,7 +170,7 @@ var workshops = `
   <div class='description-header'>
     Acting The Song
     <div>
-      December 5, 6, 7 & 12, 13, 14, 2018
+      Stay tuned for 2019 dates.
     </div>
   </div>
   <div class='description-class-section'>
@@ -351,18 +351,17 @@ var mcasAtLotusBay = `
   </div>
 
  <div class='description-section'>
-   First Autumn Retreat: Investigation, Incorporation, & the Unconscious  
-   October 10th - 15th, 2018 (4 working days / 5 nights)
+   3rd Annual Summer Retreat (Date Announced Soon) 
+   (4 working days / 5 nights)
   </div>
 
  <div class='description-section'>
-   Come join us for our first autumn retreat with Michael Chekhov 
+   Come join us for our third annual Summer retreat with Michael Chekhov 
    Acting Studio at Lotus Bay. After two successful Summer retreats 
-   we are ready to offer an autumnal experience.   This retreat is 
+   we are excited for another Summer. This retreat is 
    organized for actors and teachers to develop rehearsal techniques 
    with Lenard at our lovely getaway in Lotus Bay, NY.
-   Investigations into the Michael Chekhov Technique. Incorporating images 
-   as the means of rehearsing a play. Working with the Unconscious as a source of inspiration. 
+  
    Seeking actors with a knowledge of Michael Chekhov Technique, 
    who want to apply it to rehearsal skills and take a Retreat 
    on the shores of Great Lake, Erie. Refresh your Artist–the Actors' Retreat 
