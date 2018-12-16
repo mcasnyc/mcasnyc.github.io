@@ -21,15 +21,15 @@ var artOfTheActor = `
   </div>
 
   <div class='description-class-section'>
-    <div class='description-header'>Spring 2018 (12 Weeks)</div>
-    February 18 - May 12, 2018
+    <div class='description-header'>Spring 2019 (12 Weeks)</div>
+    February 18 - May 12, 2019
   </div>
 
   <div class='description-class-section'>
     <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
     <div>Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
     (payment plans available)</div> 
-    <div>Accepting applications now through January 10th, 2018.</div> 
+    <div>Accepting applications now through January 10th, 2019.</div> 
   </div>
 
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/applyart-of-the-actor-spring-2019'>
@@ -54,7 +54,7 @@ var workshops = `
   <div class='description-header'>
     Meet the Michael Chekhov Technique
     <div>
-      Stay tuned for 2019 dates.
+      February 14 - March 8, 2019
     </div>
   </div>
   <div class='description-class-section'>
@@ -71,20 +71,20 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      4 weeks / 8 classes / Tuesdays & Thursdays / 2:00pm-5:00pm
+      4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
     </div>
     <div>
       Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/mmctnov18'>
+  <a class='register-button' target='_blank' href='https://'>
     Register Today
   </a>
 
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     Stay tuned for 2019 dates.
+     March 21 - APril 12, 2019 
     </div>
   </div>
   <div class='description-class-section'>
@@ -106,14 +106,14 @@ var workshops = `
   <div class='description-class-section'>
     Cost: $390 / $100 Deposit Payment with Registration
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imaginationscene-study2018'>
+  <a class='register-button' target='_blank' href='https://'>
     Register Today
   </a>
 
 <div class='description-header'>
     Clown For Actors
     <div>
-      Stay tuned for 2019 dates.
+      April 1 - 3 & 8 - 10, 2019 
     </div>
   </div>
   <div class='description-class-section'>
@@ -131,13 +131,13 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      Weekend / Saturday & Sunday 10:00am-5:00pm
+      6 Days / 2 weeks / Monday - Wednesday 10:00am-5:00pm
     </div>
     <div>
-      Cost: $300 / $100 Deposit Payment with Registration
+      Cost: TBA / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-1118'>
+  <a class='register-button' target='_blank'href='https://'>
     Register Today
   </a>
 
