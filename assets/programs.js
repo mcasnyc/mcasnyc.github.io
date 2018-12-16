@@ -77,14 +77,14 @@ var workshops = `
       Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/mmctfeb19'>
     Register Today
   </a>
 
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     March 21 - APril 12, 2019 
+     March 21 - April 12, 2019 
     </div>
   </div>
   <div class='description-class-section'>
