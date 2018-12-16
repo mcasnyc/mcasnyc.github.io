@@ -288,29 +288,49 @@ var chekhovPerformanceLab = `
 </div>
 `;
 
-var artistSalon = `
+var artOfTheActor =  `
 <div>
   <div class='description-title'>
-    Artist Salon
+    Comprehensive Training
   </div>
 
   <div class='description-section'>
-    A series of intimate evenings presenting works-in-progress for
-    friends of the studio. Interested in presenting? Email a
-    description for consideration.
+    A professional actor's training in the Michael Chekhov Technique
+    with Lenard Petit, and other Master Teachers from the international
+    Chekhov community. <strong>Art of the Actor</strong> is an intensive 
+    study of 24 weeks given in two 12 week intensives. You may apply to begin 
+    in the Autumn or the Spring. Upon acceptance you are invited into the full 24 week training.
   </div>
 
   <div class='description-section'>
-    This impulse is to hold evenings for informal presentation,
-    discussion, or creation to appreciate art and its sustaining
-    power – a haven where artists can meet and share their creative
-    works. In the old sense of gathering and community, this is
-    the Artist’s Salon.
+    This course is a psycho-physical approach to acting based on the artistic 
+    principles left to us by Michael Chekhov. The work is imaginative rather than 
+    personal, physical rather than intellectual. The technique was developed as a way   
+    for actors to access universal and archetypal human conditions. We work with energy, 
+    we are creative, expressive and positive.
   </div>
 
+  <div class='description-class-section'>
+    <div class='description-header'>Spring 2019 (12 Weeks)</div>
+    February 18 - May 12, 2019
+  </div>
+
+  <div class='description-class-section'>
+    <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
+    <div>Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
+    (payment plans available)</div> 
+    <div>Accepting applications now through January 10th, 2019.</div> 
+  </div>
+
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/applyart-of-the-actor-spring-2019'>
+    Apply Today
+  </a>
+
   <div class='description-section'>
-    <div><a class='description-link' href='mailto:info@michaelchekhvoactingstudio.com'>Email us </a>
-    if you are interested in being involved or help curate an event.</div>
+    <strong>A deposit of $260 must accompany your Application. Once you are
+    accepted into the program the fee becomes non-refundable and
+    will be credited towards your tuition. If you are not accepted
+    into the program the fee will be returned to you. </strong>
   </div>
 </div>
 `;
