@@ -106,7 +106,7 @@ var workshops = `
   <div class='description-class-section'>
     Cost: $390 / $100 Deposit Payment with Registration
   </div>
-  <a class='register-button' target='_blank' href='https://'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imaginationscene-studymarch-2019'>
     Register Today
   </a>
 
@@ -197,7 +197,7 @@ var workshops = `
      <div class='description-class-section'>
        $100 Deposit Payment with Registration
      </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/acting-the-songdec18'>
+  <a class='register-button' target='_blank' href='https://'>
     Register Today
   </a>
 
