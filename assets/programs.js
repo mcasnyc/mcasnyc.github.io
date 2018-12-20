@@ -144,7 +144,7 @@ var workshops = `
 <div class='description-header'>
     Living in the Questions *Evenings*
     <div>
-    Next Dates TBA
+    Stay tuned for 2019 dates. 
     </div>
   </div>
   <div class='description-class-section'>
@@ -204,7 +204,7 @@ var workshops = `
   <div class='description-header'>
     Transformation
     <div>
-      Next Dates TBA
+      Stay tuned for 2019 dates. 
     </div>
   </div>
   <div class='description-class-section'>
@@ -231,7 +231,7 @@ var workshops = `
   <div class='description-header'>
     The Audition
     <div>
-      Next Dates TBA
+      Stay tuned for 2019 dates.
     </div>
   </div>
   <div class='description-class-section'>
