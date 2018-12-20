@@ -134,17 +134,17 @@ var workshops = `
       6 Days / 2 weeks / Monday - Wednesday 10:00am-5:00pm
     </div>
     <div>
-      Cost: TBA / $100 Deposit Payment with Registration
+      Cost: $680 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href='https://'>
+  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-6-day-intensive'>
     Register Today
   </a>
 
 <div class='description-header'>
     Living in the Questions *Evenings*
     <div>
-    November 26-December 17, 2018
+    Next Dates TBA
     </div>
   </div>
   <div class='description-class-section'>
