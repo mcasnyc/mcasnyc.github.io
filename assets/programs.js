@@ -113,7 +113,7 @@ var workshops = `
 <div class='description-header'>
     Clown For Actors
     <div>
-      April 1 - 3 & 8 - 10, 2019 
+      March 18-20 & 25-27, 2019 
     </div>
   </div>
   <div class='description-class-section'>
