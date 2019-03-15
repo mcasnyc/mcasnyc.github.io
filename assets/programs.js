@@ -351,7 +351,7 @@ var mcasAtLotusBay = `
   </div>
 
  <div class='description-section'>
-   3rd Annual Summer Retreat (Date Announced Soon) 
+   3rd Annual Summer Retreat August 10-15, 2019 
    (4 working days / 5 nights)
   </div>
 
@@ -369,10 +369,10 @@ var mcasAtLotusBay = `
  </div>
 
  <div class='description-section'>
-   Full Week Cost $860 (Includes Meals & Housing) Limited to 10 people. 
+   See registration link for price info. (Includes Meals & Housing) Limited to 12 people. 
   </div>
 
- <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/autumn-actors-retreat-at-lotus-bay-2018'>
+ <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/actors-retreat-at-lotus-bay-2019'>
     Register Here
   </a>
 </div>
