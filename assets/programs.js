@@ -64,7 +64,7 @@ var workshops = `
     provoke you, the actor, into playing fully in your body
     and the life of the character. Playing, and improvisation
     take place in a friendly and supportive space. This workshop
-    can be taken as an introduction, or as a review.
+    can be taken as an introduction, or as a review. 
   </div>
   <div class='description-class-section'>
     Taught by Lenard Petit
@@ -82,7 +82,7 @@ var workshops = `
   </a>
 
 <div class='description-header'>
-    Special Program: Embodied VOiceWork
+    Special Program: Embodied VoiceWork
     <div>
       May 13 - May 30, 2019
     </div>
