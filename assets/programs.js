@@ -52,9 +52,9 @@ var workshops = `
   </div>
 
   <div class='description-header'>
-    Meet the Michael Chekhov Technique
+    Weekend Intro: Meet the Michael Chekhov Technique
     <div>
-      February 14 - March 8, 2019
+      April 13 - April 14, 2019
     </div>
   </div>
   <div class='description-class-section'>
@@ -71,13 +71,13 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
+      Saturday 1:00pm-6:00pm, Sunday 10:00am-5:00pm
     </div>
     <div>
-      Cost: $390 / $100 Deposit Payment with Registration
+      Cost: $200 / $50 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/mmctfeb19'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/weekend-intro-workshop-april-2019?fbclid=IwAR2Jd5OSiiy3Fwu-5BxDnF0J_uO1pkwY9Drvo08haX9YWCp-aSVBjg2hlho'>
     Register Today
   </a>
 
