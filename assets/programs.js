@@ -81,6 +81,40 @@ var workshops = `
     Register Today
   </a>
 
+<div class='description-header'>
+    Special Program: Embodied VOiceWork
+    <div>
+      May 13 - May 30, 2019
+    </div>
+  </div>
+  <div class='description-class-section'>
+    Embodied VoiceWork is a method exploring the resources and power within the process of freeing your voice. 
+    Through listening and sensing, each person will come into deeper relationship with their body and their own music. 
+    Through free vocal improvisation we come to understand non-verbal singing as a language. We will explore the vocabulary 
+    of the essentials of the language: resonance, tone and interval. Solo work evolves into duet, quartet and group work. 
+    This work is about listening. This work is about making connection with the wisdom of your body and your breath. 
+    It is about connecting into deep impulse and then giving voice to what is heard and felt. This work opens our ears and 
+    sensitizes us to the liminal world of music. It cultivates a healthy, powerful vocal technique and opens individuals to a 
+    powerful experience of emotional, energetical and expressive aliveness. EVW is a method applied in arts education, 
+    music therapy and human potential work.  This workshop is open to anyone, both professional actors and singers, 
+    as well as someone who has trepidations about singing at all but is called to explore. It is open to people who have 
+    studied this work before as well as newbies. It is highly complimentary to the Michael Chekhov Acting technique. 
+  </div>
+  <div class='description-class-section'>
+    Taught by Lisa Sokolov
+  </div>
+  <div class='description-class-section'>
+    <div>
+      3 Weeks / Monday, Wednesday, & Thursday / 10am-1pm
+    </div>
+    <div>
+      Cost: $650 / $100 Deposit Payment with Registration
+    </div>
+  </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/embodiedvoicework'>
+    Register Today
+  </a>
+
   <div class='description-header'>
     The Dramatic Imagination
     <div>
