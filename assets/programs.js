@@ -21,18 +21,18 @@ var artOfTheActor = `
   </div>
 
   <div class='description-class-section'>
-    <div class='description-header'>Spring 2019 (12 Weeks)</div>
-    February 18 - May 12, 2019
+    <div class='description-header'>Autumn 2019 (12 Weeks)</div>
+    September - December, 2019
   </div>
 
   <div class='description-class-section'>
     <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
     <div>Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
     (payment plans available)</div> 
-    <div>Accepting applications now through January 10th, 2019.</div> 
+    <div>Accepting applications now for September, 2019.</div> 
   </div>
 
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/applyart-of-the-actor-spring-2019'>
+  <a class='register-button' target='_blank' href=''>
     Apply Today
   </a>
 
@@ -84,7 +84,7 @@ var workshops = `
 <div class='description-header'>
     Special Program: Embodied VoiceWork
     <div>
-      May 13 - May 30, 2019
+      May 20 - May 30, 2019 *note date and cost change*
     </div>
   </div>
   <div class='description-class-section'>
@@ -105,10 +105,10 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      3 Weeks / Monday, Wednesday, & Thursday / 10am-1pm
+      2 Weeks / Monday, Wednesday, & Thursday / 10am-1pm
     </div>
     <div>
-      Cost: $650 / $100 Deposit Payment with Registration
+      Cost: $440 / $100 Deposit Payment with Registration
     </div>
   </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/embodiedvoicework'>
