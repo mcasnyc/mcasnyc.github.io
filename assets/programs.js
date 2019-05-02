@@ -52,9 +52,9 @@ var workshops = `
   </div>
 
   <div class='description-header'>
-    Weekend Intro: Meet the Michael Chekhov Technique
+    4 Week Intro: Meet the Michael Chekhov Technique
     <div>
-      April 13 - April 14, 2019
+      September, 2019
     </div>
   </div>
   <div class='description-class-section'>
@@ -71,13 +71,13 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      Saturday 1:00pm-6:00pm, Sunday 10:00am-5:00pm
+      4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
     </div>
     <div>
-      Cost: $200 / $50 Deposit Payment with Registration
+      Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/weekend-intro-workshop-april-2019?fbclid=IwAR2Jd5OSiiy3Fwu-5BxDnF0J_uO1pkwY9Drvo08haX9YWCp-aSVBjg2hlho'>
+  <a class='register-button' target='_blank' href=''>
     Register Today
   </a>
 
@@ -118,7 +118,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     March 21 - April 12, 2019 
+     October, 2019 
     </div>
   </div>
   <div class='description-class-section'>
@@ -140,14 +140,14 @@ var workshops = `
   <div class='description-class-section'>
     Cost: $390 / $100 Deposit Payment with Registration
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imaginationscene-studymarch-2019'>
+  <a class='register-button' target='_blank' href=''>
     Register Today
   </a>
 
 <div class='description-header'>
     Clown For Actors
     <div>
-      March 18-20 & 25-27, 2019 
+      November, 2019 
     </div>
   </div>
   <div class='description-class-section'>
@@ -165,13 +165,13 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      6 Days / 2 weeks / Monday - Wednesday 10:00am-5:00pm
+      Weekend
     </div>
     <div>
-      Cost: $680 / $100 Deposit Payment with Registration
+      Cost: TBA / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-6-day-intensive'>
+  <a class='register-button' target='_blank'href=''>
     Register Today
   </a>
 
