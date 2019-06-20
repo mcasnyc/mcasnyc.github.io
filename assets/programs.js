@@ -364,7 +364,7 @@ var mcasAtLotusBay = `
    with Lenard at our lovely getaway in Lotus Bay, NY. 
 
   Participants will work with faculty Lenard Petit and Akil Davis. A studio into Investigations, Incorporation and the Unconscious will be 
-  found through archetypes. Lenard will lead psycological gesture and Akil will bring masks as the working connection to 
+  found through archetypes. Lenard will lead psychological gesture and Akil will bring masks as the working connection to 
   the Source of inspiration. 
 
    Seeking professional actors and teachers
