@@ -111,6 +111,32 @@ var workshops = `
   </a>
 
 <div class='description-header'>
+    Living in the Questions *Evenings*
+    <div>
+    Stay tuned for October 2019 dates. 
+    </div>
+  </div>
+  <div class='description-class-section'>
+    Living in the Questions is a workshop in Michael Chekhov Technique from teachers Emma Wade and Gabriel Rodriguez
+    focused on three generative questions: What? How? Who? In learning to embody these questions, you, the performing 
+    artist, develop a nourishing relationship with your imagination and the ability to make strong, specific choices. 
+  </div>
+  <div class='description-class-section'>
+    Taught by Emma Wade and Gabriel Rodriguez
+  </div>
+  <div class='description-class-section'>
+    <div>
+      Evening / 7:00pm-9:15pm
+    </div>
+    <div>
+      Cost: TBA / $100 Deposit Payment with Registration
+    </div>
+  </div>
+  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/living-in-the-questions'>
+    Register Today
+  </a>
+
+<div class='description-header'>
     Clown For Actors
     <div>
       November, 2019 
@@ -138,32 +164,6 @@ var workshops = `
     </div>
   </div>
   <a class='register-button' target='_blank'href=''>
-    Register Today
-  </a>
-
-<div class='description-header'>
-    Living in the Questions *Evenings*
-    <div>
-    Stay tuned for October 2019 dates. 
-    </div>
-  </div>
-  <div class='description-class-section'>
-    Living in the Questions is a workshop in Michael Chekhov Technique from teachers Emma Wade and Gabriel Rodriguez
-    focused on three generative questions: What? How? Who? In learning to embody these questions, you, the performing 
-    artist, develop a nourishing relationship with your imagination and the ability to make strong, specific choices. 
-  </div>
-  <div class='description-class-section'>
-    Taught by Emma Wade and Gabriel Rodriguez
-  </div>
-  <div class='description-class-section'>
-    <div>
-      Evening / 7:00pm-9:15pm
-    </div>
-    <div>
-      Cost: TBA / $100 Deposit Payment with Registration
-    </div>
-  </div>
-  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/living-in-the-questions'>
     Register Today
   </a>
 
