@@ -351,7 +351,8 @@ var mcasAtLotusBay = `
   </div>
 
  <div class='description-section'>
-   3rd Annual Summer Retreat August 10-15, 2019 
+  Investigations, Incorporation and the Unconscious
+  3rd Annual Summer Retreat August 10-15, 2019 
    (4 working days / 5 nights)
   </div>
 
@@ -360,10 +361,14 @@ var mcasAtLotusBay = `
    Acting Studio at Lotus Bay. After two successful Summer retreats 
    we are excited for another Summer. This retreat is 
    organized for actors and teachers to develop rehearsal techniques 
-   with Lenard at our lovely getaway in Lotus Bay, NY.
-  
-   Seeking actors with a knowledge of Michael Chekhov Technique, 
-   who want to apply it to rehearsal skills and take a Retreat 
+   with Lenard at our lovely getaway in Lotus Bay, NY. 
+
+  Participants will work with faculty Lenard Petit and Akil Davis. A studio into Investigations, Incorporation and the Unconscious will be 
+  found through archetypes. Lenard will lead psycological gesture and Akil will bring masks as the working connection to 
+  the Source of inspiration. 
+
+   Seeking professional actors and teachers
+   who want to apply Michael Chekhov Technique to rehearsal skills and take a Retreat 
    on the shores of Great Lake, Erie. Refresh your Artist–the Actors' Retreat 
    is a delightful mix of study and retreat. Good people, good food, nature and play!
  </div>
