@@ -32,7 +32,7 @@ var artOfTheActor = `
     <div>Accepting applications now for September 2019.</div> 
   </div>
 
-  <a class='register-button' target='_blank' href=''>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-autumn-2017'>
     Apply Today
   </a>
 
