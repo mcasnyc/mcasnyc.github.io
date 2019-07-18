@@ -373,13 +373,6 @@ var mcasAtLotusBay = `
    is a delightful mix of study and retreat. Good people, good food, nature and play!
  </div>
 
- <div class='description-section'>
-   See registration link for price info. (Includes Meals & Housing) Limited to 12 people. 
-  </div>
-
- <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/actors-retreat-at-lotus-bay-2019'>
-    Register Here
-  </a>
 </div>
 
 
