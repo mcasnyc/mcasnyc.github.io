@@ -110,9 +110,9 @@ var workshops = `
   </a>
 
 <div class='description-header'>
-    Living in the Questions *Evenings*
+    Living in the Questions *Wednesday Evenings*
     <div>
-    Stay tuned for October 2019 dates. 
+    October 2 - November 6, 2019  
     </div>
   </div>
   <div class='description-class-section'>
@@ -131,7 +131,7 @@ var workshops = `
       Cost: TBA / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/living-in-the-questions'>
+  <a class='register-button' target='_blank'href='https://'>
     Register Today
   </a>
 
