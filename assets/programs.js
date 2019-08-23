@@ -7,9 +7,8 @@ var artOfTheActor = `
   <div class='description-section'>
     A professional actor's training in the Michael Chekhov Technique
     with Lenard Petit, and other Master Teachers from the international
-    Chekhov community. <strong>Art of the Actor</strong> is an intensive 
-    study of 24 weeks given in two 12 week intensives. You may apply to begin 
-    in the Autumn or the Spring. Upon acceptance you are invited into the full 24 week training.
+    Chekhov community. <strong>Art of the Actor</strong> is a comprehensive training given in two intensives. You may apply to begin 
+    in the Autumn or the Spring. Upon acceptance you are invited into the full training.
   </div>
 
   <div class='description-section'>
@@ -21,15 +20,15 @@ var artOfTheActor = `
   </div>
 
   <div class='description-class-section'>
-    <div class='description-header'>Autumn 2019 (12 Weeks)</div>
-    September 16 - December 4, 2019
+    <div class='description-header'>Autumn 2019 (10 Weeks)</div>
+    October 14 - December 18, 2019
   </div>
 
   <div class='description-class-section'>
-    <div>Schedule: Monday - Wednesday 10:00 am to 5:00 pm</div>
-    <div>Cost: $4,220.00 for each 12 weeks / $8,440 for full 24 weeks
+    <div>Basic Schedule: Monday - Wednesday 10:00 am to 5:00 pm, and extra class days in the last 3 weeks.</div>
+    <div>Cost: $4,220.00 for each intensive / $8,440 for full training
     (payment plans available)</div> 
-    <div>Accepting applications now for September 2019.</div> 
+    <div>Accepting applications now on a rolling basis.</div> 
   </div>
 
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-autumn-2017'>
