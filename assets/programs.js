@@ -128,10 +128,10 @@ var workshops = `
       Evening / 7:00pm-9:15pm
     </div>
     <div>
-      Cost: TBA / $100 Deposit Payment with Registration
+      Cost: $210 / $50 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href='https://'>
+  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/living-in-the-questionsoct2019'>
     Register Today
   </a>
 
