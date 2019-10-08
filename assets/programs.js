@@ -86,20 +86,21 @@ var workshops = `
     </div>
   </div>
   <div class='description-class-section'>
-    Art of the Actor is our comprehensive training in Michael Chekhov Acting Technique with Lenard Petit, 
-    and other Master Teachers from the international Chekhov community. This course is a psycho-physical 
+    The Art of the Actor Immersion is an three week full-on training in Michael Chekhov Acting Technique with Lenard Petit, 
+    and other Master Teachers from our studio faculty. This course is a psycho-physical 
     approach to acting based on the artistic principles left to us by Michael Chekhov. The work is imaginative 
     rather than personal, physical rather than intellectual. The technique was developed as a way for actors to 
     access universal and archetypal human conditions. We work with energy, we are creative, expressive and positive.
-    This December we are offering a new 3 week Art of the Actor Immersion. This is an accelerated version of our 
-    Autumn 12 week Art of the Actor Comprehensive Training. Click the image above to learn more about 12 and 24 week trainings. 
+    This December we are offering this new 3 week Art of the Actor Immersion. This is for those who want an depth training but 
+    do not have the time for our 12 and 24 week Art of the Actor trainings, this course is fast passed and offers the distilled essentials 
+    from our Autumn 12 week session. See below to learn more about 12 and 24 week trainings. 
   </div>
   <div class='description-class-section'>
     <div>
       3 weeks / 5 days a week / Monday - Friday / 10:00am-5:00pm
     </div>
     <div>
-      Cost: $2,260 / $260 Deposit Payment with Registration
+      Cost: $2,260 / $260 Deposit with Application
     </div>
   </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/december-2019'>
@@ -107,9 +108,9 @@ var workshops = `
   </a>
 
   <div class='description-header'>
-    4 Week Intro: Meet the Michael Chekhov Technique
+    Weekend Intro: Meet the Michael Chekhov Technique
     <div>
-      September 26 - October 18, 2019
+      November 9 & 10, 2019
     </div>
   </div>
   <div class='description-class-section'>
@@ -126,13 +127,13 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      4 weeks / 8 classes / Thursdays & Fridays / 10:00am-1:00pm
+      Weekend / Saturday & Sunday / 10:00am-5:00pm
     </div>
     <div>
-      Cost: $390 / $100 Deposit Payment with Registration
+      Cost: $275 / $50 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/mmctsept19'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/mmctweekend-november-19'>
     Register Today
   </a>
 
@@ -192,9 +193,9 @@ var workshops = `
   </a>
 
 <div class='description-header'>
-    Clown For Actors
+    Clown For Actors 
     <div>
-      November, 2019 
+      November 22-24, 2019 
     </div>
   </div>
   <div class='description-class-section'>
@@ -215,17 +216,17 @@ var workshops = `
       Weekend
     </div>
     <div>
-      Cost: TBA / $100 Deposit Payment with Registration
+      Cost: $330 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href=''>
+  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-1119'>
     Register Today
   </a>
 
   <div class='description-header'>
     Acting The Song
     <div>
-      November 11, 12, 13 & 18, 19, 20
+      November 11, 12, 13 & 18, 19, 20, 2019
     </div>
   </div>
   <div class='description-class-section'>
@@ -332,7 +333,7 @@ var chekhovPerformanceLab = `
   </div>
 
   <div class='description-section'>
-    <div>Monthly: First Thursdays (October - December 2019) / 2:00 pm - 5:00 pm</div>
+    <div>Monthly: First Thursdays (November 2019) / 2:00 pm - 5:00 pm</div>
     <div>Cost: $40 Single / $160 for Five</div>
     <div>
       Pay online
@@ -406,21 +407,19 @@ var mcasAtLotusBay = `
   </div>
 
  <div class='description-section'>
-  Investigations, Incorporation and the Unconscious
-  3rd Annual Summer Retreat August 10-15, 2019 
+  TBA soon! 4th Annual Summer Retreat July, 2019 
    (4 working days / 5 nights)
   </div>
 
  <div class='description-section'>
-   Come join us for our third annual Summer retreat with Michael Chekhov 
-   Acting Studio at Lotus Bay. After two successful Summer retreats 
-   we are excited for another Summer. This retreat is 
+   Come join us for our fouth annual Summer retreat with Michael Chekhov 
+   Acting Studio at Lotus Bay. This retreat is 
    organized for actors and teachers to develop rehearsal techniques 
    with Lenard at our lovely getaway in Lotus Bay, NY. 
 
-  Participants will work with faculty Lenard Petit and Akil Davis. A studio into Investigations, Incorporation and the Unconscious will be 
-  found through archetypes. Lenard will lead psychological gesture and Akil will bring masks as the working connection to 
-  the Source of inspiration. 
+  Participants in 2019 worked with faculty Lenard Petit and Akil Davis. Study was taken into Investigations, Incorporation and the Unconscious will be 
+  found through Archetypes. Lenard lead psychological gesture and Akil with masks as the working connection to 
+  the Source of inspiration. Stay tuned for 2020 details!
 
    Seeking professional actors and teachers
    who want to apply Michael Chekhov Technique to rehearsal skills and take a Retreat 
@@ -433,6 +432,8 @@ var mcasAtLotusBay = `
 
  <div class='description-section'>
    Past Retreats:
+   *Third Annual Summer Retreat: Investigations, Incorporation and the Unconscious
+   (August 10 - 15, 2019)
    *Second Annual Summer Retreat: A Mid-Summer Night's Dream 
    (July 28th - August 2nd, 2018) 
    *First Annual Summer Retreat: Desire Under the Elms 
