@@ -460,7 +460,7 @@ var beyondNewYork = `
 `;
 
 var DESCRIPTIONS = {
-  'ART OF THE ACTOR': artOfTheActor,
+  'COMPREHENSIVE TRAINING': artOfTheActor,
   'WORKSHOPS': workshops,
   'CHEKHOV PERFORMANCE LAB': chekhovPerformanceLab,
   'ARTIST SALON': artistSalon,
