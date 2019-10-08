@@ -8,20 +8,21 @@ var artOfTheActor = `
     </div>
   </div>
   <div class='description-class-section'>
-    Art of the Actor is our comprehensive training in Michael Chekhov Acting Technique with Lenard Petit, 
-    and other Master Teachers from the international Chekhov community. This course is a psycho-physical 
+    The Art of the Actor Immersion is an three week full-on training in Michael Chekhov Acting Technique with Lenard Petit, 
+    and other Master Teachers from our studio faculty. This course is a psycho-physical 
     approach to acting based on the artistic principles left to us by Michael Chekhov. The work is imaginative 
     rather than personal, physical rather than intellectual. The technique was developed as a way for actors to 
     access universal and archetypal human conditions. We work with energy, we are creative, expressive and positive.
-    This December we are offering a new 3 week Art of the Actor Immersion. This is an accelerated version of our 
-    Autumn 12 week Art of the Actor Comprehensive Training. See below to learn more about 12 and 24 week trainings. 
+    This December we are offering this new 3 week Art of the Actor Immersion. This is for those who want an depth training but 
+    do not have the time for our 12 and 24 week Art of the Actor trainings, this course is fast passed and offers the distilled essentials 
+    from our Autumn 12 week session. See below to learn more about 12 and 24 week trainings. 
   </div>
   <div class='description-class-section'>
     <div>
       3 weeks / 5 days a week / Monday - Friday / 10:00am-5:00pm
     </div>
     <div>
-      Cost: $2,260 / $260 Deposit Payment with Registration
+      Cost: $2,260 / $260 Deposit with Application
     </div>
   </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/december-2019'>
@@ -34,7 +35,7 @@ var artOfTheActor = `
 
   <div class='description-section'>
     A professional actor's training in the Michael Chekhov Technique
-    with Lenard Petit, and other Master Teachers from the international
+    with Lenard Petit, and a Master Teachers from New York and the international
     Chekhov community. <strong>Art of the Actor</strong> is a comprehensive training given in two intensives. You may apply to begin 
     in the Autumn or the Spring. Upon acceptance you are invited into the full training.
   </div>
