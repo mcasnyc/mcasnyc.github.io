@@ -4,7 +4,7 @@ var artOfTheActor = `
 <div class='description-header'>
     *NEW* Art Of The Actor Immersion: 90 hours
     <div>
-      December 2 - December 20, 2020
+      December 2 - December 20, 2019
     </div>
   </div>
   <div class='description-class-section'>
