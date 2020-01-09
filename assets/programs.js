@@ -1,34 +1,6 @@
 var artOfTheActor = `
 <div>
 
-<div class='description-header'>
-    *NEW* Art Of The Actor Immersion: 90 hours
-    <div>
-      December 2 - December 20, 2019
-    </div>
-  </div>
-  <div class='description-class-section'>
-    The Art of the Actor Immersion is an three week full-on training in Michael Chekhov Acting Technique with Lenard Petit, 
-    and other Master Teachers from our studio faculty. This course is a psycho-physical 
-    approach to acting based on the artistic principles left to us by Michael Chekhov. The work is imaginative 
-    rather than personal, physical rather than intellectual. The technique was developed as a way for actors to 
-    access universal and archetypal human conditions. We work with energy, we are creative, expressive and positive.
-    This December we are offering this new 3 week Art of the Actor Immersion. This is for those who want an depth training but 
-    do not have the time for our 12 and 24 week Art of the Actor trainings, this course is fast passed and offers the distilled essentials 
-    from our Autumn 12 week session. See below to learn more about 12 and 24 week trainings. 
-  </div>
-  <div class='description-class-section'>
-    <div>
-      3 weeks / 5 days a week / Monday - Friday / 10:00am-5:00pm
-    </div>
-    <div>
-      Cost: $2,260 / $260 Deposit with Application
-    </div>
-  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/december-2019'>
-    Apply Today
-  </a>
-
   <div class='description-title'>
     Art of the Actor
   </div>
