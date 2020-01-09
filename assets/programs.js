@@ -51,38 +51,10 @@ var workshops = `
     Workshops
   </div>
 
-<div class='description-header'>
-    *NEW* Art Of The Actor Immersion: 90 hours
-    <div>
-      December 2 - December 20, 2020
-    </div>
-  </div>
-  <div class='description-class-section'>
-    The Art of the Actor Immersion is an three week full-on training in Michael Chekhov Acting Technique with Lenard Petit, 
-    and other Master Teachers from our studio faculty. This course is a psycho-physical 
-    approach to acting based on the artistic principles left to us by Michael Chekhov. The work is imaginative 
-    rather than personal, physical rather than intellectual. The technique was developed as a way for actors to 
-    access universal and archetypal human conditions. We work with energy, we are creative, expressive and positive.
-    This December we are offering this new 3 week Art of the Actor Immersion. This is for those who want an depth training but 
-    do not have the time for our 12 and 24 week Art of the Actor trainings, this course is fast passed and offers the distilled essentials 
-    from our Autumn 12 week session. See below to learn more about 12 and 24 week trainings. 
-  </div>
-  <div class='description-class-section'>
-    <div>
-      3 weeks / 5 days a week / Monday - Friday / 10:00am-5:00pm
-    </div>
-    <div>
-      Cost: $2,260 / $260 Deposit with Application
-    </div>
-  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/december-2019'>
-    Apply Today
-  </a>
-
   <div class='description-header'>
-    Weekend Intro: Meet the Michael Chekhov Technique
+    4 Week Intro: Meet the Michael Chekhov Technique
     <div>
-      November 9 & 10, 2019
+      February 27-March 20, 2020
     </div>
   </div>
   <div class='description-class-section'>
@@ -99,20 +71,20 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      Weekend / Saturday & Sunday / 10:00am-5:00pm
+      4 Weeks / 8 classses/ Thursday & Friday / 10:00am-1:00pm
     </div>
     <div>
-      Cost: $275 / $50 Deposit Payment with Registration
+      Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/mmctweekend-november-19'>
+  <a class='register-button' target='_blank' href='https://'>
     Register Today
   </a>
 
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     October 31 - November 22, 2019 
+     April 2 - April 24, 2020 
     </div>
   </div>
   <div class='description-class-section'>
@@ -134,14 +106,14 @@ var workshops = `
   <div class='description-class-section'>
     Cost: $390 / $100 Deposit Payment with Registration
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imaginationscene-studyoctober-2019'>
+  <a class='register-button' target='_blank' href='https://'>
     Register Today
   </a>
 
 <div class='description-header'>
-    Living in the Questions *Wednesday Evenings*
+    Living in the Questions *Evenings*
     <div>
-    October 2 - November 6, 2019  
+    Spring Dates TBA, 2020  
     </div>
   </div>
   <div class='description-class-section'>
@@ -160,14 +132,14 @@ var workshops = `
       Cost: $210 / $50 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/living-in-the-questionsoct2019'>
+  <a class='register-button' target='_blank'href='https://'>
     Register Today
   </a>
 
 <div class='description-header'>
-    Clown For Actors 
+    Clown For Actors Intensive
     <div>
-      November 22-24, 2019 
+      April TBA, 2020 (Inquire by Email)
     </div>
   </div>
   <div class='description-class-section'>
@@ -185,20 +157,20 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      Weekend
+      Intensive
     </div>
     <div>
-      Cost: $330 / $100 Deposit Payment with Registration
+      Cost: $TBA / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank'href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actors-1119'>
+  <a class='register-button' target='_blank'href='https://'>
     Register Today
   </a>
 
   <div class='description-header'>
     Acting The Song
     <div>
-      November 11, 12, 13 & 18, 19, 20, 2019
+      Thursday & Firday Afternoon 2pm-5pm / April 16, 17, 23 & 24, 30, & May 1, 2020
     </div>
   </div>
   <div class='description-class-section'>
@@ -225,14 +197,14 @@ var workshops = `
      <div class='description-class-section'>
        $100 Deposit Payment with Registration
      </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/acting-the-song'>
+  <a class='register-button' target='_blank' href='https://'>
     Register Today
   </a>
 
   <div class='description-header'>
     Transformation
     <div>
-      Stay tuned for 2019 dates. 
+      Stay tuned for 2020 dates. 
     </div>
   </div>
   <div class='description-class-section'>
@@ -259,7 +231,7 @@ var workshops = `
   <div class='description-header'>
     The Audition
     <div>
-      Stay tuned for 2019 dates.
+      Stay tuned for 2020 dates.
     </div>
   </div>
   <div class='description-class-section'>
@@ -379,7 +351,7 @@ var mcasAtLotusBay = `
   </div>
 
  <div class='description-section'>
-  TBA soon! 4th Annual Summer Retreat July, 2019 
+  Our 4th Annual Summer Retreat Dates are July 15-Juy 20, 2020! Email to Inquire. 
    (4 working days / 5 nights)
   </div>
 
@@ -391,7 +363,7 @@ var mcasAtLotusBay = `
 
   Participants in 2019 worked with faculty Lenard Petit and Akil Davis. Study was taken into Investigations, Incorporation and the Unconscious will be 
   found through Archetypes. Lenard lead psychological gesture and Akil with masks as the working connection to 
-  the Source of inspiration. Stay tuned for 2020 details!
+  the Source of inspiration. Email us for 2020 details!
 
    Seeking professional actors and teachers
    who want to apply Michael Chekhov Technique to rehearsal skills and take a Retreat 
