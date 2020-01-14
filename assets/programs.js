@@ -77,7 +77,7 @@ var workshops = `
       Cost: $390 / $100 Deposit Payment with Registration
     </div>
   </div>
-  <a class='register-button' target='_blank' href='https://'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/mmctfeb20'>
     Register Today
   </a>
 
