@@ -139,7 +139,7 @@ var workshops = `
 <div class='description-header'>
     Clown For Actors Intensive
     <div>
-      April TBA, 2020 (Inquire by Email)
+      March 16, 17, 18 & 23, 24, 25, 2020 (Inquire by Email)
     </div>
   </div>
   <div class='description-class-section'>
@@ -197,7 +197,7 @@ var workshops = `
      <div class='description-class-section'>
        $100 Deposit Payment with Registration
      </div>
-  <a class='register-button' target='_blank' href='https://'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/acting-the-song-spring-2020'>
     Register Today
   </a>
 
