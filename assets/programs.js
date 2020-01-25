@@ -170,7 +170,7 @@ var workshops = `
   <div class='description-header'>
     Acting The Song
     <div>
-      Thursday & Firday Afternoon 2pm-5pm / April 16, 17, 23 & 24, 30, & May 1, 2020
+      Thursday & Friday Afternoon 2pm-5pm / April 16, 17, 23, 24, 30, & May 1, 2020
     </div>
   </div>
   <div class='description-class-section'>
@@ -189,7 +189,7 @@ var workshops = `
   </div>
   <div class='description-class-section'>
     <div>
-      Taught by Lenard Petit, Paino Accompaniment Brad Ross
+      Taught by Lenard Petit, 
     </div>
     <div>
      Cost: $320
