@@ -22,11 +22,16 @@ var artOfTheActor = `
 
   <div class='description-class-section'>
     <div class='description-header'>Spring 2020 (12 Weeks)</div>
-    February 17 - May 9, 2020
+    February 17 - May 9, 2020 
+  </div>
+
+ <div class='description-class-section'>
+    <div class='description-header'>Autumn 2020 (12 Weeks)</div>
+    September28 - December 16, 2020 
   </div>
 
   <div class='description-class-section'>
-    <div>Basic Schedule: Monday - Wednesday 10:00 am to 5:00 pm, and extra class days in the last 3 weeks.</div>
+    <div>Basic Schedule: Monday - Wednesday 10:00 am to 5:00 pm </div>
     <div>Cost: $4,220.00 for each intensive / $8,440 for full Autumn & Spring training
     (payment plans available)</div> 
     <div>Accepting applications now on a rolling basis.</div> 
@@ -84,7 +89,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     April 2 - April 24, 2020 
+     April 2 - May 1, 2020 [NO CLASS APril 9 & 10]
     </div>
   </div>
   <div class='description-class-section'>
@@ -393,7 +398,7 @@ var beyondNewYork = `
 
   <div class='description-section'>
     Artistic Director Lenard Petit extends the Michael Chekhov Acting
-    Studio to workshops across the country and internationally.
+    Studio to workshops across the country and internationally. This Summer 2020 he will be in Hamburg, Galway, & Rome. 
   </div>
 
   <div class='description-section'>
