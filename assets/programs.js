@@ -282,7 +282,7 @@ var chekhovPerformanceLab = `
   </div>
 
   <div class='description-section'>
-    <div>Monthly: First Thursdays (November 2019) / 2:00 pm - 5:00 pm</div>
+    <div>Monthly: First Thursdays (March 5 & April 2 2020) / 2:00 pm - 5:00 pm</div>
     <div>Cost: $40 Single / $160 for Five</div>
     <div>
       Pay online
