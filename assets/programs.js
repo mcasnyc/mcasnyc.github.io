@@ -26,8 +26,8 @@ var artOfTheActor = `
   </div>
 
  <div class='description-class-section'>
-    <div class='description-header'>Autumn 2020 (12 Weeks)</div>
-    September28 - December 16, 2020 
+    <div class='description-header'>Autumn 2020 TBA</div>
+   
   </div>
 
   <div class='description-class-section'>
@@ -89,7 +89,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     April 2 - May 1, 2020 [NO CLASS APril 9 & 10]
+     CANCELLED April 2 - May 1, 2020 [NO CLASS APril 9 & 10]
     </div>
   </div>
   <div class='description-class-section'>
@@ -111,14 +111,14 @@ var workshops = `
   <div class='description-class-section'>
     Cost: $390 / $100 Deposit Payment with Registration
   </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/the-dramatic-imaginationscene-studyapril-2020'>
+  <a class='register-button' target='_blank' href='https://'>
     Register Today
   </a>
 
 <div class='description-header'>
     Living in the Questions *Evenings*
     <div>
-    Spring Dates TBA, 2020  
+    TBA, 2020  
     </div>
   </div>
   <div class='description-class-section'>
@@ -175,7 +175,7 @@ var workshops = `
   <div class='description-header'>
     Acting The Song
     <div>
-      Thursday & Friday Afternoon 2pm-5pm / April 16, 17, 23, 24, 30, & May 1, 2020
+      CANCELLED Thursday & Friday Afternoon 2pm-5pm / April 16, 17, 23, 24, 30, & May 1, 2020
     </div>
   </div>
   <div class='description-class-section'>
@@ -202,7 +202,7 @@ var workshops = `
      <div class='description-class-section'>
        $100 Deposit Payment with Registration
      </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/acting-the-song-spring-2020'>
+  <a class='register-button' target='_blank' href='https://'>
     Register Today
   </a>
 
@@ -282,7 +282,7 @@ var chekhovPerformanceLab = `
   </div>
 
   <div class='description-section'>
-    <div>Monthly: First Thursdays (March 5 & April 2 2020) / 2:00 pm - 5:00 pm</div>
+    <div>Monthly: First Thursdays (April 2 2020) / 2:00 pm - 5:00 pm</div>
     <div>Cost: $40 Single / $160 for Five</div>
     <div>
       Pay online
