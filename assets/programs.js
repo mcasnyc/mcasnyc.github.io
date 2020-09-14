@@ -1,10 +1,10 @@
 var artOfTheActor = `
 <div>
-  <div class='description-section'>
+  <div class='description-title'>
  New Online Offerings: 
   </div>
 
-  <div class='description-title'>
+  <div class='description-section'>
     By The Book Beyond The Book -- Online Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
     Fridays 11:00am-12:30pm Eastern Time (US & Canada). Starting October 2020. 
 </div>
@@ -13,7 +13,7 @@ var artOfTheActor = `
   </a>
   
 
-<div class='description-title'>
+<div class='description-section'>
     The Image Incorporated -- Online Technique Class with Lenard Petit -- Wednesdays 11:00am-12:30pm Eastern Time (US & Canada) --8 Sessions Starting October 7th, 2020
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-power'>
@@ -73,10 +73,10 @@ var artOfTheActor = `
 var workshops = `
 <div>
 
-<div class='description-section'>
+<div class='description-title'>
  New Online Offerings: 
   </div>
-  <div class='description-title'>
+  <div class='description-section'>
     By The Book Beyond The Book -- Online Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
     Fridays 11:00am-12:30pm Eastern Time (US & Canada). Starting October 2020. 
 </div>
@@ -84,7 +84,7 @@ var workshops = `
     Sign Up Today
   </a>
   
-<div class='description-title'>
+<div class='description-section'>
     The Image Incorporated -- Online Technique Class with Lenard Petit -- Wednesdays 11:00am-12:30pm Eastern Time (US & Canada) --8 Sessions Starting October 7th, 2020
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-power'>
