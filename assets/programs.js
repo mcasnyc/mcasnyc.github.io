@@ -2,7 +2,7 @@ var artOfTheActor = `
 <div>
 
   <div class='description-title'>
-    Art of the Actor
+    Art of the Actor (On Pause) Please see our online programs. 
   </div>
 
   <div class='description-section'>
@@ -21,8 +21,8 @@ var artOfTheActor = `
   </div>
 
   <div class='description-class-section'>
-    <div class='description-header'>Spring 2020 (12 Weeks)</div>
-    February 17 - May 9, 2020 
+    <div class='description-header'>TBA Spring 2021 (12 Weeks)</div>
+    TBA, 2021 
   </div>
 
  <div class='description-class-section'>
@@ -59,7 +59,7 @@ var workshops = `
   <div class='description-header'>
     4 Week Intro: Meet the Michael Chekhov Technique
     <div>
-      February 27-March 20, 2020
+      (In Person Workshops On Pause), 2020
     </div>
   </div>
   <div class='description-class-section'>
@@ -89,7 +89,7 @@ var workshops = `
   <div class='description-header'>
     The Dramatic Imagination
     <div>
-     CANCELLED April 2 - May 1, 2020 [NO CLASS APril 9 & 10]
+     (In Person Workshops On Pause), 2020 
     </div>
   </div>
   <div class='description-class-section'>
@@ -118,7 +118,7 @@ var workshops = `
 <div class='description-header'>
     Living in the Questions *Evenings*
     <div>
-    TBA, 2020  
+    (In Person Workshops On Pause), 2020  
     </div>
   </div>
   <div class='description-class-section'>
@@ -144,7 +144,7 @@ var workshops = `
 <div class='description-header'>
     Clown For Actors Intensive
     <div>
-      March 16, 17, 18 & 23, 24, 25, 2020 (Inquire by Email)
+      (In Person Workshops On Pause)
     </div>
   </div>
   <div class='description-class-section'>
@@ -175,7 +175,7 @@ var workshops = `
   <div class='description-header'>
     Acting The Song
     <div>
-      CANCELLED Thursday & Friday Afternoon 2pm-5pm / April 16, 17, 23, 24, 30, & May 1, 2020
+      (In Person Workshops On Pause)
     </div>
   </div>
   <div class='description-class-section'>
@@ -209,7 +209,7 @@ var workshops = `
   <div class='description-header'>
     Transformation
     <div>
-      Stay tuned for 2020 dates. 
+      (In Person Workshops On Pause)
     </div>
   </div>
   <div class='description-class-section'>
@@ -236,7 +236,7 @@ var workshops = `
   <div class='description-header'>
     The Audition
     <div>
-      Stay tuned for 2020 dates.
+      (In Person Workshops On Pause)
     </div>
   </div>
   <div class='description-class-section'>
@@ -282,7 +282,7 @@ var chekhovPerformanceLab = `
   </div>
 
   <div class='description-section'>
-    <div>Monthly: First Thursdays (April 2 2020) / 2:00 pm - 5:00 pm</div>
+    <div>(In Person Workshops On Pause) Monthly: First Thursdays  / 2:00 pm - 5:00 pm</div>
     <div>Cost: $40 Single / $160 for Five</div>
     <div>
       Pay online
@@ -356,7 +356,7 @@ var mcasAtLotusBay = `
   </div>
 
  <div class='description-section'>
-  Our 4th Annual Summer Retreat Dates are July 15-Juy 20, 2020! Email to Inquire. 
+  Our 4th Annual Summer Retreat Dates are July, 2020 [Canceled]! Email to Inquire. 
    (4 working days / 5 nights)
   </div>
 
