@@ -1,6 +1,6 @@
 var artOfTheActor = `
 <div>
-  <div class='description-title'>
+  <div class='description-section'>
  New Online Offerings: 
   </div>
 
