@@ -1,11 +1,22 @@
 var artOfTheActor = `
 <div>
+  <div class='description-title'>
+ New Online Offerings: 
+  </div>
 
   <div class='description-title'>
-    New Online Offering: By The Book Beyond The Book -- Online Study of Michael Chekhov's Book, To The Actor facilitated by Emma Wade
+    By The Book Beyond The Book -- Online Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
     Fridays 11:00am-12:30pm Eastern Time (US & Canada). Starting October 2020. 
 
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
+    Sign Up Today
+  </a>
+  </div>
+
+<div class='description-title'>
+    The Image Incorporated -- Online Technique Class with Lenard Petit -- Wednesdays 11:00am-12:30pm Eastern Time (US & Canada) --8 Sessions Starting October 7th, 2020
+
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-power'>
     Sign Up Today
   </a>
   </div>
