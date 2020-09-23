@@ -20,6 +20,13 @@ var artOfTheActor = `
     Sign Up Today
   </a>
  
+<div class='description-section'>
+    Body Mind Lab -- A Focus On Eyes -- Online Somatic Series with Naoko Maeshiba -- 3 Saturdays 11:00am-1:00pm Eastern Time (US & Canada) Starting October 17th, 2020
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-october2020'>
+    Sign Up Today
+  </a>
+
 
 <div class='description-title'>
     Art of the Actor (On Pause) 
