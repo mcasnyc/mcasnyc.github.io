@@ -4,9 +4,16 @@ var artOfTheActor = `
  New Online Offerings: 
   </div>
 
+<div class='description-section'>
+    Sense Perception & Expression with Lenard Petit -- THREE Wednesdays 10:00am-12:00pm Eastern Time (US & Canada), December 16, 23, 30, 2020. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perception'>
+    Sign Up Today
+  </a>
+
   <div class='description-section'>
-    By The Book Beyond The Book -- Online Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-    bi-weekly Fridays 11:00am-12:30pm Eastern Time (US & Canada). Starting October 2020. 
+    By The Book Beyond The Book -- Guieded Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+    Part 2 = 4 meetings in December/January on Chapters 2 & 3. Email if you are interested. emma@michaelchekhovactingstudio.com
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
@@ -14,16 +21,16 @@ var artOfTheActor = `
   
 
 <div class='description-section'>
-    The Image Incorporated -- Online Technique Class with Lenard Petit -- Wednesdays 11:00am-12:30pm Eastern Time (US & Canada) --8 Sessions Starting October 7th, 2020
+    The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) --6 Sessions DATES TBA, January 2021
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-power'>
+  <a class='register-button' target='_blank' href='https://'>
     Sign Up Today
   </a>
  
 <div class='description-section'>
-    Body Mind Lab -- A Focus On Eyes -- Online Somatic Series with Naoko Maeshiba -- 3 Saturdays 11:00am-1:00pm Eastern Time (US & Canada) Starting October 17th, 2020
+    Body Mind Lab -- Online Somatic Series with Naoko Maeshiba -- Next Lab TBA, 2020
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-october2020'>
+  <a class='register-button' target='_blank' href='https://'>
     Sign Up Today
   </a>
 
