@@ -4,35 +4,41 @@ var artOfTheActor = `
  New Online Offerings: 
   </div>
 
+  
+
 <div class='description-section'>
-    Sense Perception & Expression with Lenard Petit -- THREE Wednesdays 10:00am-12:00pm Eastern Time (US & Canada), December 16, 23, 30, 2020. Space Limited.
+    The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
+    6 Sessions starting January 13th, 2021. See Sign-up link for more info. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-powerjan21'>
+    Sign Up Today
+  </a>
+ 
+<div class='description-section'>
+    Body Mind Lab -- Online Somatic Series with Naoko Maeshiba -- 3 Sessions in January, Februry & March, 2021. 
+    Saturdyas 1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-jan21'>
+    Sign Up Today
+  </a>
+
+<div class='description-section'>
+    By The Book Beyond The Book -- Guieded Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+    Part 2 = 4 meetings in January on Chapters 2 & 3. Email if you are interested. emma@michaelchekhovactingstudio.com
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
+    Sign Up Today
+  </a>
+
+<div class='description-section'>
+    [Sold Out] Sense Perception & Expression with Lenard Petit -- THREE Wednesdays 10:00am-12:00pm Eastern Time (US & Canada), December 16, 23, 30, 2020. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perception'>
     Sign Up Today
   </a>
 
-  <div class='description-section'>
-    By The Book Beyond The Book -- Guieded Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-    Part 2 = 4 meetings in December/January on Chapters 2 & 3. Email if you are interested. emma@michaelchekhovactingstudio.com
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
-    Sign Up Today
-  </a>
   
 
-<div class='description-section'>
-    The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) --6 Sessions DATES TBA, January 2021
- </div>
-  <a class='register-button' target='_blank' href='https://'>
-    Sign Up Today
-  </a>
- 
-<div class='description-section'>
-    Body Mind Lab -- Online Somatic Series with Naoko Maeshiba -- Next Lab TBA, 2020
- </div>
-  <a class='register-button' target='_blank' href='https://'>
-    Sign Up Today
-  </a>
 
 
 <div class='description-title'>
