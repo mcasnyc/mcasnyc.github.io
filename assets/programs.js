@@ -7,7 +7,7 @@ var artOfTheActor = `
   
 
 <div class='description-section'>
-    The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
+    [Sold Out] The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
     6 Sessions starting January 13th, 2021. See Sign-up link for more info. 
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-powerjan21'>
@@ -24,7 +24,7 @@ var artOfTheActor = `
 
 <div class='description-section'>
     By The Book Beyond The Book -- Guieded Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-    Part 2 = 4 meetings in January on Chapters 2 & 3. Email if you are interested. emma@michaelchekhovactingstudio.com
+    Part 2 = 4 meetings starting January29th on Chapters 2 & 3. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
