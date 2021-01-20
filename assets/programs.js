@@ -4,17 +4,7 @@ var artOfTheActor = `
  New Online Offerings: 
   </div>
 
-  
-
-<div class='description-section'>
-    [Sold Out] The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
-    6 Sessions starting January 13th, 2021. See Sign-up link for more info. 
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-powerjan21'>
-    Sign Up Today
-  </a>
- 
-<div class='description-section'>
+  <div class='description-section'>
     Body Mind Lab -- Online Somatic Series with Naoko Maeshiba -- 3 Sessions in January, Februry & March, 2021. 
     Saturdyas 1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
  </div>
@@ -31,12 +21,19 @@ var artOfTheActor = `
   </a>
 
 <div class='description-section'>
-    [Sold Out] Sense Perception & Expression with Lenard Petit -- THREE Wednesdays 10:00am-12:00pm Eastern Time (US & Canada), December 16, 23, 30, 2020. Space Limited.
+    Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perception'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb21'>
     Sign Up Today
   </a>
 
+<div class='description-section'>
+    [Sold Out] The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
+    6 Sessions starting January 13th, 2021. See Sign-up link for more info. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-powerjan21'>
+    Sign Up Today
+  </a>
   
 
 
