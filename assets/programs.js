@@ -93,27 +93,35 @@ var workshops = `
 <div class='description-title'>
  New Online Offerings: 
   </div>
+  
   <div class='description-section'>
-    By The Book Beyond The Book -- Online Study of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-    bi-weekly Fridays 11:00am-12:30pm Eastern Time (US & Canada). Starting October 2020. 
+    Eyes, Seeing & Self Image -- Online Somatic Series with Naoko Maeshiba -- THREE Saturdays Februry 13, 20, 27, 2021. 
+    1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-jan21'>
+    Sign Up Today
+  </a>
+<div class='description-section'>
+    Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb21'>
+    Sign Up Today
+  </a>
+<div class='description-section'>
+    By The Book Beyond The Book -- Gueided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+    Part 2 = 4 meetings starting January29th on Chapters 2 & 3. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
+<div class='description-section'>
+    [Sold Out] The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
+    6 Sessions starting January 13th, 2021. See Sign-up link for more info. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-powerjan21'>
+    Sign Up Today
+  </a>
   
-<div class='description-section'>
-    The Image Incorporated -- Online Technique Class with Lenard Petit -- Wednesdays 11:00am-12:30pm Eastern Time (US & Canada) --8 Sessions Starting October 7th, 2020
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-power'>
-    Sign Up Today
-  </a>
-
-<div class='description-section'>
-    Body Mind Lab -- A Focus On Eyes -- Online Somatic Series with Naoko Maeshiba -- 3 Saturdays 11:00am-1:00pm Eastern Time (US & Canada) Starting October 17th, 2020
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-october2020'>
-    Sign Up Today
-  </a>
 
   <div class='description-title'>
     Workshops
