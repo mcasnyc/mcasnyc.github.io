@@ -336,7 +336,7 @@ var chekhovPerformanceLab = `
   </div>
 
   <div class='description-section'>
-    First Thursday of every month,  actors with prior training in
+    (ON PAUSE) First Thursday of every month,  actors with prior training in
     Michael Chekhov are invited to bring material in to explore and
     develop through the Technique.
   </div>
@@ -371,7 +371,7 @@ var artistSalon = `
   </div>
 
   <div class='description-section'>
-    A series of intimate evenings presenting works-in-progress for
+    (ON PAUSE) A series of intimate evenings presenting works-in-progress for
     friends of the studio. Interested in presenting? Email a
     description for consideration.
   </div>
@@ -403,7 +403,7 @@ var privateInstruction = `
   </div>
 
   <div class='description-section'>
-    <a class='description-link' href='mailto:info@michaelchekhvoactingstudio.com'>Email us</a> for availability and cost.
+    <a class='description-link' href='mailto:info@michaelchekhvoactingstudio.com'>Email us</a> for availability and cost. Online coaching now available. 
   </div>
 </div>
 `;
@@ -469,7 +469,7 @@ var beyondNewYork = `
 
   <div class='description-section'>
     Artistic Director Lenard Petit extends the Michael Chekhov Acting
-    Studio to workshops across the country and internationally. This Summer 2020 he will be in Hamburg, Galway, & Rome. 
+    Studio to workshops across the country and internationally. 
   </div>
 
   <div class='description-section'>
