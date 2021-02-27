@@ -5,7 +5,7 @@ var artOfTheActor = `
   </div>
 
   <div class='description-section'>
-    Eyes, Seeing & Self Image -- Online Somatic Series with Naoko Maeshiba -- THREE Saturdays Februry 13, 20, 27, 2021. 
+    Body As Environment -- Online Somatic Series with Naoko Maeshiba -- THREE Saturdays March 13, 20, 27, 2021. 
     1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-jan21'>
@@ -13,17 +13,17 @@ var artOfTheActor = `
   </a>
 
 <div class='description-section'>
-    Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb21'>
+   By The Book Beyond The Book -- Gueided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+   Chapter 3 "Improvisation & Ensemble" = 4 meetings of Fridays starting mid March on Chapters 3. See Sign-up link for more info.
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
 
 <div class='description-section'>
-    By The Book Beyond The Book -- Gueided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-    Part 2 = 4 meetings starting January29th on Chapters 2 & 3. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
+    [Sold Out] Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb21'>
     Sign Up Today
   </a>
 
@@ -95,25 +95,28 @@ var workshops = `
   </div>
   
   <div class='description-section'>
-    Eyes, Seeing & Self Image -- Online Somatic Series with Naoko Maeshiba -- THREE Saturdays Februry 13, 20, 27, 2021. 
+    Body As Environment -- Online Somatic Series with Naoko Maeshiba -- THREE Saturdays March 13, 20, 27, 2021. 
     1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-jan21'>
     Sign Up Today
   </a>
+
 <div class='description-section'>
-    Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb21'>
-    Sign Up Today
-  </a>
-<div class='description-section'>
-    By The Book Beyond The Book -- Gueided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-    Part 2 = 4 meetings starting January29th on Chapters 2 & 3. See Sign-up link for more info.
+   By The Book Beyond The Book -- Gueided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+   Chapter 3 "Improvisation & Ensemble" = 4 meetings of Fridays starting mid March on Chapters 3. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
+
+<div class='description-section'>
+    [Sold Out] Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb21'>
+    Sign Up Today
+  </a>
+
 <div class='description-section'>
     [Sold Out] The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
     6 Sessions starting January 13th, 2021. See Sign-up link for more info. 
@@ -121,7 +124,6 @@ var workshops = `
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-powerjan21'>
     Sign Up Today
   </a>
-  
 
   <div class='description-title'>
     Workshops
