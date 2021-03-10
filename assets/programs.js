@@ -17,13 +17,19 @@ var artOfTheActor = `
 
 <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Chapter 3 "Improvisation & Ensemble" = 4 meetings of Fridays starting mid March on Chapters 3. See Sign-up link for more info.
+   Chapter 3 "Improvisation & Ensemble" = 4 meetings of Fridays starting March 19th on Chapters 3. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
 
-Stay Tuned for a Spring Class on Archytypes with Lenard Petit! 
+<div class='description-section'>
+    The Archetypal Imagination with Lenard Petit -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
+    6 Sessions starting AMrch 24th. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archetypes'>
+    Sign Up Today
+  </a>
 
 <div class='description-section'>
     [Sold Out] Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
@@ -100,7 +106,7 @@ var workshops = `
   </div>
   
   
-  <div class='description-section'>
+    <div class='description-section'>
     Body As Environment -- Online Somatic Series with Naoko Maeshiba -- THREE Saturdays March 13, 20, 27, 2021. 
     Body as a dynamic, transformative entity. A challenge for you, the performer to examine your boundaries of physical expression, 
     and discover the primal, potent state of the body.
@@ -113,13 +119,19 @@ var workshops = `
 
 <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Chapter 3 "Improvisation & Ensemble" = 4 meetings of Fridays starting mid March on Chapters 3. See Sign-up link for more info.
+   Chapter 3 "Improvisation & Ensemble" = 4 meetings of Fridays starting March 19th on Chapters 3. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
 
-Stay Tuned for a Spring Class on Archytypes with Lenard Petit! 
+<div class='description-section'>
+    The Archetypal Imagination with Lenard Petit -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
+    6 Sessions starting AMrch 24th. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archetypes'>
+    Sign Up Today
+  </a>
 
 <div class='description-section'>
     [Sold Out] Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
