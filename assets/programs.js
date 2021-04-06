@@ -4,12 +4,19 @@ var artOfTheActor = `
  New Online Offerings: 
   </div>
 
-  <div class='description-section'>
-    Body As Environment -- Online Somatic Series with Naoko Maeshiba -- THREE Saturdays March 13, 20, 27, 2021. 
-    Body as a dynamic, transformative entity. A challenge for you, the performer to examine your boundaries of physical expression, 
-    and discover the primal, potent state of the body.
+<div class='description-section'>
+    Spacial Dynamics® for Actors with Melania Levitsky -- 4 classes May 4, 11, 18, & 25.  
+    An intro course to Spacial Dynamics® designed with the Actor in mind. This a movement and body/spacial awareness class for actors of all experience levels. 
+    Tuesdays 11:00am - 12:30pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/spacial-dynamics'>
+    Sign Up Today
+  </a>
 
-    1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
+  <div class='description-section'>
+    Body Mind Lab, Online Somatic Classes with Naoko Maeshiba -- Next Dates TBA. 
+
+    Saturdyas 1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-jan21'>
     Sign Up Today
@@ -17,15 +24,15 @@ var artOfTheActor = `
 
 <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Chapter 3 "Improvisation & Ensemble" = 4 meetings of Fridays starting March 19th on Chapters 3. See Sign-up link for more info.
+   Next Session is Chapter 4 = Meets Four Fridays Dates TBA. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
 
 <div class='description-section'>
-    The Archetypal Imagination with Lenard Petit -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
-    6 Sessions starting AMrch 24th. Space Limited.
+    [Sold Out] The Archetypal Imagination with Lenard Petit -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
+    6 Sessions starting March 24th. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archetypes'>
     Sign Up Today
