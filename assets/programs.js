@@ -127,46 +127,25 @@ var workshops = `
  New Online Offerings: 
   </div>
   
-  
-    <div class='description-section'>
-    Body As Environment -- Online Somatic Series with Naoko Maeshiba -- THREE Saturdays March 13, 20, 27, 2021. 
-    Body as a dynamic, transformative entity. A challenge for you, the performer to examine your boundaries of physical expression, 
-    and discover the primal, potent state of the body.
-
-    1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-jan21'>
-    Sign Up Today
-  </a>
-
-<div class='description-section'>
+  <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Chapter 3 "Improvisation & Ensemble" = 4 meetings of Fridays starting March 19th on Chapters 3. See Sign-up link for more info.
+   Next Session is Chapter 4 = Meets Four Fridays in May, 2021. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
-
 <div class='description-section'>
-    The Archetypal Imagination with Lenard Petit -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
-    6 Sessions starting AMrch 24th. Space Limited.
+    Architecture of the Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
+    6 meetings starting June 2nd. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archetypes'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-the-pg'>
     Sign Up Today
   </a>
-
 <div class='description-section'>
-    [Sold Out] Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
+    Working The Basics with Emma Wade -- Intro/Review Technique Class -- Tuesdays 8:30pm-10:00pm Eastern Time (US & Canada) -- 
+    4 meetings starting June 1st. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb21'>
-    Sign Up Today
-  </a>
-
-<div class='description-section'>
-    [Sold Out] The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
-    6 Sessions starting January 13th, 2021. See Sign-up link for more info. 
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-powerjan21'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/working-the-basics'>
     Sign Up Today
   </a>
 
