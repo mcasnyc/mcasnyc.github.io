@@ -5,17 +5,31 @@ var artOfTheActor = `
   </div>
 
 <div class='description-section'>
-    Spacial Dynamics® for Actors with Melania Levitsky -- 4 classes May 4, 11, 18, & 25.  
-    An intro course to Spacial Dynamics® designed with the Actor in mind. This a movement and body/spacial awareness class for actors of all experience levels. 
-    Tuesdays 11:00am - 12:30pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
+   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+   Next Session is Chapter 4 = Meets Four Fridays in May, 2021. See Sign-up link for more info.
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
+    Sign Up Today
+  </a>
+
+<div class='description-section'>
+    Architecture of the Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
+    6 meetings starting June 2nd. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/spacial-dynamics'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-the-pg'>
+    Sign Up Today
+  </a>
+
+<div class='description-section'>
+    Working The Basics with Emma Wade -- Intro/Review Technique Class -- Tuesdays 8:30pm-10:00pm Eastern Time (US & Canada) -- 
+    4 meetings starting June 1st. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/working-the-basics'>
     Sign Up Today
   </a>
 
   <div class='description-section'>
-    Body Mind Lab, Online Somatic Classes with Naoko Maeshiba -- Next Dates TBA. 
-
+    Body Mind Lab, Online Somatic Classes with Naoko Maeshiba -- Next Dates TBA June/July. 
     Saturdyas 1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-jan21'>
@@ -23,10 +37,11 @@ var artOfTheActor = `
   </a>
 
 <div class='description-section'>
-   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 4 = Meets Four Fridays Dates TBA. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
+    [In Session] Spacial Dynamics® for Actors with Melania Levitsky -- 4 classes May 4, 11, 18, & 25.  
+    An intro course to Spacial Dynamics® designed with the Actor in mind. This a movement and body/spacial awareness class for actors of all experience levels. 
+    Tuesdays 11:00am - 12:30pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/spacial-dynamics'>
     Sign Up Today
   </a>
 
