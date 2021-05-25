@@ -13,7 +13,7 @@ var artOfTheActor = `
   </a>
 
 <div class='description-section'>
-    Architecture of the Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
+    [Wait List] Architecture of the Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
     6 meetings starting June 2nd. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-the-pg'>
