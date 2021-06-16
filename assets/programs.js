@@ -91,12 +91,7 @@ var artOfTheActor = `
   </div>
 
   <div class='description-class-section'>
-    <div class='description-header'>TBA Spring 2021 (12 Weeks)</div>
-    TBA, 2021 
-  </div>
-
- <div class='description-class-section'>
-    <div class='description-header'>Autumn 2020 TBA</div>
+    <div class='description-header'>TBA Fall 2021</div>
    
   </div>
 
@@ -104,7 +99,7 @@ var artOfTheActor = `
     <div>Basic Schedule: Monday - Wednesday 10:00 am to 5:00 pm </div>
     <div>Cost: $4,220.00 for each intensive / $8,440 for full Autumn & Spring training
     (payment plans available)</div> 
-    <div>Accepting applications now on a rolling basis.</div> 
+    <div>Stay tuned for the return of this program.</div> 
   </div>
 
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-spring-2020'>
