@@ -6,14 +6,22 @@ var artOfTheActor = `
 
 <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 4 = Meets Four Fridays in May, 2021. See Sign-up link for more info.
+   Next Session is Chapter 5 = Meets Four Fridays in July, 2021. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
 
+  <div class='description-section'>
+    Body Mind Lab, Online Somatic Classes with Naoko Maeshiba -- July 13 - August 17, 2021. 
+    Tuesdays 11:00am - 12:30pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-summer21'>
+    Sign Up Today
+  </a>
+  
 <div class='description-section'>
-    [Wait List] Architecture of the Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
+    [Sold Out] Architecture of the Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
     6 meetings starting June 2nd. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-the-pg'>
@@ -21,18 +29,10 @@ var artOfTheActor = `
   </a>
 
 <div class='description-section'>
-    Working The Basics with Emma Wade -- Intro/Review Technique Class -- Tuesdays 8:30pm-10:00pm Eastern Time (US & Canada) -- 
+    [In Session] Working The Basics with Emma Wade -- Intro/Review Technique Class -- Tuesdays 8:30pm-10:00pm Eastern Time (US & Canada) -- 
     4 meetings starting June 1st. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/working-the-basics'>
-    Sign Up Today
-  </a>
-
-  <div class='description-section'>
-    Body Mind Lab, Online Somatic Classes with Naoko Maeshiba -- Next Dates TBA June/July. 
-    Saturdyas 1:00pm - 3:00pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-jan21'>
     Sign Up Today
   </a>
 
