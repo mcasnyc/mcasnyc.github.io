@@ -91,18 +91,18 @@ var workshops = `
   </div>
 
 <div class='description-section'>
-    Activating Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
-    6 meetings starting September 15th. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/activating-psychological-gesture'>
+   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+   Next Session is Chapter 7: Creative Individuality = Meets Two Saturdays - September 18 & 25, 2021. See Sign-up link for more info.
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
   
-<div class='description-section'>
-   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 7: Creative Individuality = Meets Two Saturdays in September, 2021. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
+    <div class='description-section'>
+    Clown for Actors with Drew Richardson -- Technique Class -- 7:00pm-9:00pm Eastern Time (US & Canada) -- 
+    4 meetings Wednesdays October 20 - November 10, 2021. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actorsdrew21'>
     Sign Up Today
   </a>
   
