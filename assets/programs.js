@@ -4,19 +4,27 @@ var artOfTheActor = `
  New Online Offerings: 
   </div>
   
-<div class='description-section'>
-   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 7: Creative Individuality = Meets Two Saturdays - September 18 & 25, 2021. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
-    Sign Up Today
-  </a>
-  
     <div class='description-section'>
     Clown for Actors with Drew Richardson -- Technique Class -- 7:00pm-9:00pm Eastern Time (US & Canada) -- 
     4 meetings Wednesdays October 20 - November 10, 2021. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actorsdrew21'>
+    Sign Up Today
+  </a>
+  
+  <div class='description-section'>
+   Grounding Techniques -- With Naoko Maeshiba --an introduction to Feldenkrais Method and it's application. 
+   Weekend Workshop - October 23 & 24, 2021. See Sign-up link for more info.
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/weekendnaoko21'>
+    Sign Up Today
+  </a>
+  
+  <div class='description-section'>
+   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+   Next Session is Chapter 8: Composition = Meets 4 weeks - TBA, 2021. See Sign-up link for more info.
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
   
