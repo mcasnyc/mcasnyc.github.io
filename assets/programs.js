@@ -22,7 +22,7 @@ var artOfTheActor = `
   
   <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 8: Composition = Meets 4 weeks - TBA, 2021. See Sign-up link for more info.
+   Next Session is Chapter 8: Composition of the Perfomance = Meets 4 weeks - Oct 30, Nov 6 & 20, 27, 2021. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
@@ -30,9 +30,25 @@ var artOfTheActor = `
   
   <div class='description-section'>
     Working The Basics with Emma Wade -- Intro/Review Technique Class -- 8:00pm-9:30pm Eastern Time (US & Canada) -- 
-    4 meetings TBA Dates October 2021. Space Limited.
+    4 meetings Starting November 2nd, 2021. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/working-the-basics'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/working-the-basicsfall21'>
+    Sign Up Today
+  </a>
+  
+  <div class='description-section'>
+    The Image Incorporated with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
+    6 meetings starting November 10th. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-incorperated'>
+    Sign Up Today
+  </a>
+  
+     <div class='description-section'>
+   Dead or Alive -- With Marjolein Baars & Emma Wade --a practice in Life and Death on the stage or Zoom screen. 
+   Weekend Workshop - November 13 & 14, 2021. See Sign-up link for more info.
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/dead-or-alive'>
     Sign Up Today
   </a>
   
