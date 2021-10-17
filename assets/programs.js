@@ -13,14 +13,6 @@ var artOfTheActor = `
   </a>
   
   <div class='description-section'>
-   Grounding Techniques -- With Naoko Maeshiba --an introduction to Feldenkrais Method and it's application. 
-   Weekend Workshop - October 23 & 24, 2021. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/weekendnaoko21'>
-    Sign Up Today
-  </a>
-  
-  <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
    Next Session is Chapter 8: Composition of the Perfomance = Meets 4 weeks - Oct 30, Nov 6 & 20, 27, 2021. See Sign-up link for more info.
 </div>
