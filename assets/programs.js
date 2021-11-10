@@ -12,14 +12,6 @@ var artOfTheActor = `
     Sign Up Today
   </a>
   
-     <div class='description-section'>
-   Dead or Alive -- With Marjolein Baars & Emma Wade --a practice in Life and Death on the stage or Zoom screen. 
-   Weekend Workshop - November 13 & 14, 2021. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/dead-or-alive'>
-    Sign Up Today
-  </a>
-  
   <div class='description-section'>
    [Drop-ins Welcome] By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
    Next Session is Chapter 8: Composition of the Perfomance = Meets 4 weeks - Oct 30, Nov 6 & 20, 27, 2021. See Sign-up link for more info.
@@ -42,13 +34,7 @@ var artOfTheActor = `
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actorsdrew21'>
     Sign Up Today
   </a>
-<div class='description-section'>
-    [In Session] Activating Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
-    6 meetings starting September 15th. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/activating-psychological-gesture'>
-    Sign Up Today
-  </a>
+
 
 <div class='description-title'>
     Art of the Actor (On Pause) 
@@ -109,14 +95,6 @@ var workshops = `
     Sign Up Today
   </a>
   
-     <div class='description-section'>
-   Dead or Alive -- With Marjolein Baars & Emma Wade --a practice in Life and Death on the stage or Zoom screen. 
-   Weekend Workshop - November 13 & 14, 2021. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/dead-or-alive'>
-    Sign Up Today
-  </a>
-  
   <div class='description-section'>
    [Drop-ins Welcome] By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
    Next Session is Chapter 8: Composition of the Perfomance = Meets 4 weeks - Oct 30, Nov 6 & 20, 27, 2021. See Sign-up link for more info.
@@ -126,7 +104,7 @@ var workshops = `
   </a>
   
   
-  Online Offerings: 
+  Past Online Offerings: 
   </div>
 <div class='description-section'>
     Clown for Actors with Drew Richardson -- Technique Class -- 7:00pm-9:00pm Eastern Time (US & Canada) -- 
@@ -146,7 +124,7 @@ var workshops = `
   
   <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 8: Composition of the Perfomance = Meets 4 weeks - Oct 30, Nov 6 & 20, 27, 2021. See Sign-up link for more info.
+   See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
@@ -160,14 +138,6 @@ var workshops = `
     Sign Up Today
   </a>
   
-  <div class='description-section'>
-    The Image Incorporated with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
-    6 meetings starting November 10th. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-incorperated'>
-    Sign Up Today
-  </a>
-  
      <div class='description-section'>
    Dead or Alive -- With Marjolein Baars & Emma Wade --a practice in Life and Death on the stage or Zoom screen. 
    Weekend Workshop - November 13 & 14, 2021. See Sign-up link for more info.
@@ -176,6 +146,13 @@ var workshops = `
     Sign Up Today
   </a>
   
+  <div class='description-section'>
+    [Sold Out] Activating Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
+    6 meetings starting September 15th. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/activating-psychological-gesture'>
+    Sign Up Today
+  </a>
 <div class='description-section'>
     [Sold Out] Architecture of the Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
     6 meetings starting June 2nd. Space Limited.
