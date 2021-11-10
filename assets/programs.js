@@ -104,7 +104,9 @@ var workshops = `
   </a>
   
   
-  Past Online Offerings: 
+<div class='description-title'>
+ Past Online Offerings: 
+  </div>
   </div>
 <div class='description-section'>
     Clown for Actors with Drew Richardson -- Technique Class -- 7:00pm-9:00pm Eastern Time (US & Canada) -- 
