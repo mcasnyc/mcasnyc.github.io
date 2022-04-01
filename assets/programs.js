@@ -4,8 +4,15 @@ var artOfTheActor = `
  New Online Offerings: Spring 2022
   </div>
 
+ <div class='description-section'>
+  Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), May 3-June 7. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-pgspring22'>
+    Sign Up Today
+  </a>
+  
   <div class='description-section'>
-  Sense Perception & Expression with Lenard Petit -- *expanded to SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), March 22-April 26. Space Limited.
+  [CLASS FULL] Sense Perception & Expression with Lenard Petit -- *expanded to SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), March 22-April 26. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb22'>
     Sign Up Today
@@ -13,7 +20,7 @@ var artOfTheActor = `
 
   <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 9: Diffrent Types of Perfomance = Meets 2 weeks - March 19 & 26th 2022. See Sign-up link for more info.
+   Next Session is Chapter 9: Diffrent Types of Perfomance = Meets 2 weeks - March 26th & April 2 2022. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
