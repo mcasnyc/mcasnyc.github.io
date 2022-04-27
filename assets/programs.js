@@ -42,6 +42,7 @@ var artOfTheActor = `
     Email Marjolein to Apply: tinyhero@planet.nl
   </a>
   </div>
+    </div>
 
 <div class='description-title'>
     Art of the Actor (On Pause) 
@@ -528,12 +529,12 @@ var mcasAtLotusBay = `
   </div>
 
  <div class='description-section'>
-  Our 4th Annual Summer Retreat Dates are July, 2020 [Canceled]! Email to Inquire. 
+  Stay Tuned For The Return of Our Retreats. 
    (4 working days / 5 nights)
   </div>
 
  <div class='description-section'>
-   Come join us for our fouth annual Summer retreat with Michael Chekhov 
+   Come join us for our Summer retreat with Michael Chekhov 
    Acting Studio at Lotus Bay. This retreat is 
    organized for actors and teachers to develop rehearsal techniques 
    with Lenard at our lovely getaway in Lotus Bay, NY. 
