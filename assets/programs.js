@@ -34,7 +34,6 @@ var artOfTheActor = `
   <div class='description-section'>
    Expect The Unexpected: Workshop for artists, actors, musicians, dancers, designers, teachers and all creative people
    with Lenard Petit, Marjolein Baars & Peter Paul Gerbrands / JULY 11-15 2022 / Amsterdam, the Netherlands. 
-   learn more here. 
   </div>
     <a class='register-button' target='_blank' href='https://tinyhero.nl/wp-content/uploads/2022/04/Expect-the-Unexpected-LR.pdf'>
     Learn More
