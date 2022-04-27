@@ -41,7 +41,7 @@ var artOfTheActor = `
    </div>
     Email Marjolein to Apply: tinyhero@planet.nl
   </a>
-
+  </div>
 
 <div class='description-title'>
     Art of the Actor (On Pause) 
