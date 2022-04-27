@@ -1,7 +1,7 @@
 var artOfTheActor = `
 <div>
   <div class='description-title'>
- New Online Offerings: Spring 2022
+ New Online Offerings 2022
   </div>
 
  <div class='description-section'>
@@ -27,6 +27,22 @@ var artOfTheActor = `
     Sign Up Today
   </a>
 
+<div class='description-title'>
+    Join us IN-PERSON in Amsterdam this Summer!
+  </div>
+  
+  <div class='description-section'>
+   Expect The Unexpected: Workshop for artists, actors, musicians, dancers, designers, teachers and all creative people
+   with Lenard Petit, Marjolein Baars & Peter Paul Gerbrands / JULY 11-15 2022 / Amsterdam, the Netherlands. 
+   learn more here. 
+  </div>
+    <a class='register-button' target='_blank' href='https://tinyhero.nl/wp-content/uploads/2022/04/Expect-the-Unexpected-LR.pdf'>
+    Learn More
+  </a>
+   </div>
+    <a class='register-button' target='_blank' href='tinyhero@planet.nl'>
+    Message To Apply
+  </a>
 
 
 <div class='description-title'>
