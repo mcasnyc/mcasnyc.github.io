@@ -40,8 +40,7 @@ var artOfTheActor = `
     Learn More
   </a>
    </div>
-    <a class='register-button' target='_blank' href='tinyhero@planet.nl'>
-    Message To Apply
+    Email Marjolein to Apply: tinyhero@planet.nl
   </a>
 
 
