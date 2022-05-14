@@ -1,16 +1,33 @@
 var artOfTheActor = `
 <div>
+<div class='description-title'>
+    Join us IN-PERSON in Amsterdam this Summer!
+  </div>
+  
+  <div class='description-section'>
+   Expect The Unexpected: Workshop for artists, actors, musicians, dancers, designers, teachers and all creative people
+   with Lenard Petit, Marjolein Baars & Peter Paul Gerbrands / JULY 11-15 2022 / Amsterdam, the Netherlands. 
+   How will you take on your work in relation to the world around you in 2022? What do you have to give and receive as an artist, creator?
+   This week aims to build a new relationship between the world you are in and the world you want to create.
+     </div>
+      <div class='description-section'>
+   Train with the four elements, ease, form, beauty and the whole as means to research this new relationship and our bodies
+   as instruments to serve the creative process. Practice perception, explore different feedback loops and what it takes to be present. 
+   Transform your creative capacities through relationship with objects, each other, the context, living dynamics and the whole.
+   5 days. Work with each facilitator each day. Work as an ensemble.
+   We are excited to offer you this trio teaching collaboration. Lenard, Marjolein and Peter Paul share a love for transformation
+   and the openness to learn from the creative processes. They share Michael Chekhov Acting Technique as a common ground and approach 
+   to the week's work. Email Marjolein to Apply: tinyhero@planet.nl
+  </div>
+    <a class='register-button' target='_blank' href='https://michaelchekhov.nl/expect-the-unexpected/'>
+    Learn More
+  </a>
+   </div>
+
+<div>
   <div class='description-title'>
  New Online Offerings 2022
   </div>
-
- <div class='description-section'>
-  Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), May 3-June 7. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-pgspring22'>
-    Sign Up Today
-  </a>
-  
   
   <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
@@ -20,26 +37,19 @@ var artOfTheActor = `
     Sign Up Today
   </a>
   
+ <div class='description-section'>
+  [CLASS FULL] Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), May 3-June 7. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-pgspring22'>
+    Sign Up Today
+  </a>
+  
   <div class='description-section'>
   [CLASS FULL] Sense Perception & Expression with Lenard Petit -- *expanded to SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), March 22-April 26. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb22'>
     Sign Up Today
   </a>
-
-<div class='description-title'>
-    Join us IN-PERSON in Amsterdam this Summer!
-  </div>
-  
-  <div class='description-section'>
-   Expect The Unexpected: Workshop for artists, actors, musicians, dancers, designers, teachers and all creative people
-   with Lenard Petit, Marjolein Baars & Peter Paul Gerbrands / JULY 11-15 2022 / Amsterdam, the Netherlands. 
-   Email Marjolein to Apply: tinyhero@planet.nl
-  </div>
-    <a class='register-button' target='_blank' href='https://michaelchekhov.nl/expect-the-unexpected/'>
-    Learn More
-  </a>
-   </div>
   
   </a>
   </div>
