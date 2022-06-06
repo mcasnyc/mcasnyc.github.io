@@ -55,50 +55,6 @@ var artOfTheActor = `
   </div>
     </div>
 
-<div class='description-title'>
-    Art of the Actor (On Pause) 
-  </div>
-
-  <div class='description-section'>
-    A professional actor's training in the Michael Chekhov Technique
-    with Lenard Petit, and a Master Teachers from New York and the international
-    Chekhov community. <strong>Art of the Actor</strong> is a comprehensive training 
-    previously given in two intensives: Autumn and Spring. This program is not currently offered. 
-  </div>
-
-  <div class='description-section'>
-    This course is a psycho-physical approach to acting based on the artistic 
-    principles left to us by Michael Chekhov. The work is imaginative rather than 
-    personal, physical rather than intellectual. The technique was developed as a way   
-    for actors to access universal and archetypal human conditions. We work with energy, 
-    we are creative, expressive and positive.
-  </div>
-
-  <div class='description-class-section'>
-    <div class='description-header'>TBA 2022</div>
-   
-  </div>
-
-  <div class='description-class-section'>
-    <div>Basic Schedule: Monday - Wednesday 10:00 am to 5:00 pm </div>
-    <div>Cost: $4,220.00 for each intensive / $8,440 for full Autumn & Spring training
-    (payment plans available)</div> 
-    <div>Stay tuned for the return of this program.</div> 
-  </div>
-
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/apply-art-of-the-actor-spring-2020'>
-    Apply Today
-  </a>
-
-  <div class='description-section'>
-    <strong>A deposit of $260 must accompany your Application. Once you are
-    accepted into the program the fee becomes non-refundable and
-    will be credited towards your tuition. If you are not accepted
-    into the program the fee will be returned to you. </strong>
-  </div>
-</div>
-`;
-
 var workshops = `
 <div>
 
