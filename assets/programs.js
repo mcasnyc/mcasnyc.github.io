@@ -54,6 +54,10 @@ var artOfTheActor = `
   </a>
   </div>
     </div>
+      </div>
+</div>
+`;
+
 
 var workshops = `
 <div>
