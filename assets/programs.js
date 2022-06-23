@@ -26,7 +26,7 @@ var artOfTheActor = `
 
 <div>
   <div class='description-title'>
- New Online Offerings 2022
+Online Offerings 2022
   </div>
   
   <div class='description-section'>
