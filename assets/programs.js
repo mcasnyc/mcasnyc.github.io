@@ -30,24 +30,17 @@ var artOfTheActor = `
   </div>
   
   <div class='description-section'>
-   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 10: How To Approch The Part & Chapter 11: Concluding Notes = Meets over 5 weeks - May 21st & June 18th, 2022. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
-    Sign Up Today
-  </a>
-  
- <div class='description-section'>
-  [CLASS FULL] Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), May 3-June 7. Space Limited.
+  Archetypal Imagination with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), August 2-September 6. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-pgspring22'>
-    Sign Up Today
+  <a class='register-button' target='_blank' href=''>
+    Registration Opens Saturday 6.25
   </a>
   
   <div class='description-section'>
-  [CLASS FULL] Sense Perception & Expression with Lenard Petit -- *expanded to SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), March 22-April 26. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb22'>
+   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+   Next Session is Chapter 10: How To Approch The Part & Chapter 11: Concluding Notes = Meets over 5 weeks - May 21st - June 18th, 2022. See Sign-up link for more info.
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
     Sign Up Today
   </a>
   
@@ -66,7 +59,13 @@ var workshops = `
  Online Offerings: 
   </div>
   
- 
+   <div class='description-section'>
+  Archetypal Imagination with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), August 2-September 6. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href=''>
+    Registration Opens Saturday 6.25
+  </a>
+  
  <div class='description-section'>
   Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), May 3-June 7. Space Limited.
  </div>
