@@ -32,8 +32,8 @@ Online Offerings 2022
   <div class='description-section'>
   Archetypal Imagination with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), August 2-September 6. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href=''>
-    Registration Opens Saturday 6.25
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archetypesaug22'>
+    Sign Up Today
   </a>
   
   <div class='description-section'>
