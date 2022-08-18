@@ -7,7 +7,7 @@ Online Offerings 2022
   
    <div class='description-section'>
  Meet The Technique with Dawn Arnold & Emma Wade -- NINE weeks Mondays & Wednesdays 10:00am-12:00pm Eastern Time (US & Canada),
-  October 17 - December 14. Space Limited.
+  October 17 - December 14. Space Limited. $720 ($680 EARLYBIRD through Sept. 15th.)
  </div>
     <div class='description-section'>
  When you meet the Chekhov Technique you meet your own creative and expressive self. 
