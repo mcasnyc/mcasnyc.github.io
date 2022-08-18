@@ -6,11 +6,20 @@ Online Offerings 2022
   </div>
   
    <div class='description-section'>
-  [New] Meet The Technique with Dawn Arnold & Emma Wade -- NINE weeks Mondays & Wednesdays 10:00am-12:00pm Eastern Time (US & Canada),
+ Meet The Technique with Dawn Arnold & Emma Wade -- NINE weeks Mondays & Wednesdays 10:00am-12:00pm Eastern Time (US & Canada),
   October 17 - December 14. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='linkhere'>
-    Link Opens Aug 19
+    <div class='description-section'>
+ When you meet the Chekhov Technique you meet your own creative and expressive self. 
+ This training is an introduction to the working parts of the technique designed to energize and provoke you, 
+ the actor, into playing fully in your body and the life of the character. In addition to technique you will develop 
+ your actor's practice in a shared and improvisational space. Each participant will work on a 2min monologue and scenes 
+ from Anton Chekhov's The Cherry Orchard Translated by Michael Frayn. This workshop is an introductory training, but can also 
+ be taken as further study for Chekhovian trained actors to deepen their understanding into Michael Chekhov's Technique for Actors. 
+ Taught by Dawn Arnold & Emma Wade. This class is a collaboration between Michael Chekhov Studios - Chicago and New York.
+  </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-technique'>
+    Sign Up Today
   </a>
   
   <div class='description-section'>
