@@ -2,38 +2,27 @@ var artOfTheActor = `
 
 <div>
   <div class='description-title'>
-Online Offerings 2022
+Online Offerings 2023
   </div>
+  
+  
+  <div class='description-section'>
+  The Image Incorporated with Lenard Petit & Emma Wade. A class devoted to the Chekhov Technique, all comers are welcome, 
+  both experienced or new to the technique. The class will focus on the Power of Incorporating Images.  -- 
+  SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), February 15-March 22, 2023. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/imagepowerfeb23'>
+    Sign Up Today
+  </a>
   
    <div class='description-section'>
- Meet The Technique with Dawn Arnold & Emma Wade -- NINE weeks Mondays & Wednesdays 10:00am-12:00pm Eastern Time (US & Canada),
-  October 17 - December 14. Space Limited. $720 ($680 EARLYBIRD through Sept. 15th.)
+  *New* Chekhov Perfomance Lab with Lenard Petit & TBA Faculty -- First 3 weeks in March 2023. 
+  Performance Lab is designed to support application and performance exploration in an intimate group class. 
+  Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times.
+  Two Labs are offered at this time one on Mondays and one on Fridays. 
+ 
  </div>
-    <div class='description-section'>
- When you meet the Chekhov Technique you meet your own creative and expressive self. 
- This training is an introduction to the working parts of the technique designed to energize and provoke you, 
- the actor, into playing fully in your body and the life of the character. In addition to technique you will develop 
- your actor's practice in a shared and improvisational space. Each participant will work on a 2min monologue and scenes 
- from Anton Chekhov's The Cherry Orchard Translated by Michael Frayn. This workshop is an introductory training, but can also 
- be taken as further study for Chekhovian trained actors to deepen their understanding into Michael Chekhov's Technique for Actors. 
- Taught by Dawn Arnold & Emma Wade. This class is a collaboration between Michael Chekhov Studios - Chicago and New York.
-  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/meet-the-technique'>
-    Sign Up Today
-  </a>
-  
-  <div class='description-section'>
-  [Class Full] Archetypal Imagination with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), August 2-September 6. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archetypesaug22'>
-    Sign Up Today
-  </a>
-  
-  <div class='description-section'>
-   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 10: How To Approch The Part & Chapter 11: Concluding Notes = Meets over 5 weeks - May 21st - June 18th, 2022. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-2023'>
     Sign Up Today
   </a>
   
@@ -47,24 +36,29 @@ Online Offerings 2022
 
 var workshops = `
 <div>
-
-   <div class='description-section'>
-  [New] Meet The Technique with Dawn Arnold & Emma Wade -- NINE weeks Mondays & Wednesdays 10:00am-12:00pm Eastern Time (US & Canada),
-  October 17 - December 14. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='linkhere'>
-    Link Opens Aug 19
-  </a>
   
 <div class='description-title'>
  Online Offerings: 
   </div>
   
-   <div class='description-section'>
-  [Class Full] Archetypal Imagination with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), August 2-September 6. Space Limited.
+  <div class='description-section'>
+  The Image Incorporated with Lenard Petit & Emma Wade. A class devoted to the Chekhov Technique, all comers are welcome, 
+  both experienced or new to the technique. The class will focus on the Power of Incorporating Images.  -- 
+  SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), February 15-March 22, 2023. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href=''>
-    Registration Closed
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/imagepowerfeb23'>
+    Sign Up Today
+  </a>
+  
+   <div class='description-section'>
+  *New* Chekhov Perfomance Lab with Lenard Petit & TBA Faculty -- First 3 weeks in March 2023. 
+  Performance Lab is designed to support application and performance exploration in an intimate group class. 
+  Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times.
+  Two Labs are offered at this time one on Mondays and one on Fridays. 
+ 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-2023'>
+    Sign Up Today
   </a>
   
 <div class='description-title'>
