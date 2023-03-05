@@ -5,24 +5,29 @@ var artOfTheActor = `
 Online Offerings 2023
   </div>
   
-  
-  <div class='description-section'>
-  The Image Incorporated with Lenard Petit & Emma Wade. A class devoted to the Chekhov Technique, all comers are welcome, 
-  both experienced or new to the technique. The class will focus on the Power of Incorporating Images.  -- 
-  SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), February 15-March 22, 2023. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/imagepowerfeb23'>
-    Sign Up Today
-  </a>
-  
-   <div class='description-section'>
-  *New* Chekhov Perfomance Lab with Lenard Petit & TBA Faculty -- First 3 weeks in March 2023. 
+     <div class='description-section'>
+  *New* Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
   Performance Lab is designed to support application and performance exploration in an intimate group class. 
-  Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times.
-  Two Labs are offered at this time one on Mondays and one on Fridays. 
+  Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times. 
  
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-2023'>
+    Sign Up Today
+  </a>
+  
+      <div class='description-section'>
+  Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), TBA. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href=''>
+    Sign Up Soon Open
+  </a>
+  
+  <div class='description-section'>
+  [In Session] The Image Incorporated with Lenard Petit & Emma Wade. A class devoted to the Chekhov Technique, all comers are welcome, 
+  both experienced or new to the technique. The class will focus on the Power of Incorporating Images.  -- 
+  SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), February 15-March 22, 2023. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href=''>
     Sign Up Today
   </a>
   
@@ -41,25 +46,8 @@ var workshops = `
  Online Offerings: 
   </div>
   
-  <div class='description-section'>
-  The Image Incorporated with Lenard Petit & Emma Wade. A class devoted to the Chekhov Technique, all comers are welcome, 
-  both experienced or new to the technique. The class will focus on the Power of Incorporating Images.  -- 
-  SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), February 15-March 22, 2023. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/imagepowerfeb23'>
-    Sign Up Today
-  </a>
   
-   <div class='description-section'>
-  *New* Chekhov Perfomance Lab with Lenard Petit & TBA Faculty -- First 3 weeks in March 2023. 
-  Performance Lab is designed to support application and performance exploration in an intimate group class. 
-  Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times.
-  Two Labs are offered at this time one on Mondays and one on Fridays. 
- 
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-2023'>
-    Sign Up Today
-  </a>
+  
   
 <div class='description-title'>
  Past Online Offerings: 
@@ -67,37 +55,29 @@ var workshops = `
   
   <div class='description-section'>
    By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 10: How To Approch The Part & Chapter 11: Concluding Notes = Meets over 5 weeks - May 21st & June 18th, 2022. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
-    Sign Up Today
+    Closed
   </a>
    <div class='description-section'>
-  Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), May 3-June 7. Space Limited.
+  Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada). Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-pgspring22'>
-    Sign Up Today
+  <a class='register-button' target='_blank' href=''>
+    Closed
   </a>
     <div class='description-section'>
-  [CLASS FULL] Sense Perception & Expression with Lenard Petit -- *expanded to SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada), March 22-April 26. Space Limited.
+  Sense Perception & Expression with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada). Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb22'>
-    Sign Up Today
-  </a>
-  <div class='description-section'>
-   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   Next Session is Chapter 9: Diffrent Types of Perfomance = Meets 2 weeks - March 26th & April 2 2022. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
-    Sign Up Today
+  <a class='register-button' target='_blank' href=''>
+    Closed
   </a>
   
   <div class='description-section'>
     The Image Incorporated with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
-    6 meetings starting November 17th. Space Limited.
+    6 meetings. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-incorperated'>
-    Sign Up Today
+    Closed
   </a>
   </div>
 <div class='description-section'>
@@ -105,7 +85,7 @@ var workshops = `
     4 meetings Wednesdays October 20 - November 10, 2021. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actorsdrew21'>
-    Sign Up Today
+    Closed
   </a>
   
   <div class='description-section'>
@@ -113,23 +93,15 @@ var workshops = `
    Weekend Workshop - October 23 & 24, 2021. See Sign-up link for more info.
 </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/weekendnaoko21'>
-    Sign Up Today
-  </a>
-  
-  <div class='description-section'>
-   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-   See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
-    Sign Up Today
+    Closed
   </a>
   
   <div class='description-section'>
     Working The Basics with Emma Wade -- Intro/Review Technique Class -- 8:00pm-9:30pm Eastern Time (US & Canada) -- 
-    4 meetings Starting November 2nd, 2021. Space Limited.
+    4 meetings. Space Limited.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/working-the-basicsfall21'>
-    Sign Up Today
+    Closed
   </a>
   
   <div class='description-section'>
