@@ -6,7 +6,7 @@ Online Offerings 2023
   </div>
   
      <div class='description-section'>
-  *New* Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
+  Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
   Performance Lab is designed to support application and performance exploration in an intimate group class. 
   Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times. 
  
@@ -46,7 +46,31 @@ var workshops = `
  Online Offerings: 
   </div>
   
+  <div class='description-section'>
+  Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
+  Performance Lab is designed to support application and performance exploration in an intimate group class. 
+  Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times. 
+ 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-2023'>
+    Sign Up Today
+  </a>
   
+      <div class='description-section'>
+  Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), TBA. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href=''>
+    Sign Up Soon Open
+  </a>
+  
+  <div class='description-section'>
+  [In Session] The Image Incorporated with Lenard Petit & Emma Wade. A class devoted to the Chekhov Technique, all comers are welcome, 
+  both experienced or new to the technique. The class will focus on the Power of Incorporating Images.  -- 
+  SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), February 15-March 22, 2023. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href=''>
+    Sign Up Today
+  </a>
   
   
 <div class='description-title'>
@@ -54,48 +78,45 @@ var workshops = `
   </div>
   
   <div class='description-section'>
-   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
-    Closed
-  </a>
-   <div class='description-section'>
-  Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada). Space Limited.
+    Image Incorporated with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
+    6 meetings. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href=''>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-incorperated'>
     Closed
   </a>
-    <div class='description-section'>
+
+   <div class='description-section'>
   Sense Perception & Expression with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada). Space Limited.
  </div>
   <a class='register-button' target='_blank' href=''>
     Closed
   </a>
   
-  <div class='description-section'>
-    The Image Incorporated with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
-    6 meetings. Space Limited.
+   <div class='description-section'>
+  Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada). Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-incorperated'>
+  <a class='register-button' target='_blank' href=''>
     Closed
   </a>
-  </div>
+  
+  <div class='description-section'>
+    Activating Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
+    6 meetings starting September 15th. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/activating-psychological-gesture'>
+    Closed
+  </a>
+  
 <div class='description-section'>
-    Clown for Actors with Drew Richardson -- Technique Class -- 7:00pm-9:00pm Eastern Time (US & Canada) -- 
-    4 meetings Wednesdays October 20 - November 10, 2021. Space Limited.
+    Archetypal Imagination with Lenard Petit -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
+    6 Sessions starting March 24th. Space Limited.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actorsdrew21'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archetypes'>
     Closed
   </a>
-  
-  <div class='description-section'>
-   Grounding Techniques -- With Naoko Maeshiba --an introduction to Feldenkrais Method and it's application. 
-   Weekend Workshop - October 23 & 24, 2021. See Sign-up link for more info.
-</div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/weekendnaoko21'>
-    Closed
-  </a>
-  
+
+   
+  </div>
   <div class='description-section'>
     Working The Basics with Emma Wade -- Intro/Review Technique Class -- 8:00pm-9:30pm Eastern Time (US & Canada) -- 
     4 meetings. Space Limited.
@@ -103,60 +124,42 @@ var workshops = `
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/working-the-basicsfall21'>
     Closed
   </a>
-  
+    <div class='description-section'>
+   By The Book Beyond The Book -- Guided Reading of Michael Chekhov's Book, To The Actor -- facilitated by Emma Wade --
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/to-the-actor'>
+    Closed
+  </a>
+<div class='description-section'>
+    Clown for Actors with Drew Richardson -- Technique Class -- 7:00pm-9:00pm Eastern Time (US & Canada) -- 
+    4 meetings, 2021. Space Limited.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/clown-for-actorsdrew21'>
+    Closed
+  </a>
   <div class='description-section'>
-    [Sold Out] Activating Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
-    6 meetings starting September 15th. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/activating-psychological-gesture'>
-    Sign Up Today
+   Grounding Techniques -- With Naoko Maeshiba --an introduction to Feldenkrais Method and it's application. 
+   Weekend Workshop, 2021. See Sign-up link for more info.
+</div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/weekendnaoko21'>
+    Closed
   </a>
-<div class='description-section'>
-    [Sold Out] Architecture of the Psychological Gesture with Lenard Petit -- Technique Class -- Wednesdays 10:30am-12:30pm Eastern Time (US & Canada) -- 
-    6 meetings starting June 2nd. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/architecture-of-the-pg'>
-    Sign Up Today
-  </a>
-
-<div class='description-section'>
-    [Sold Out] The Archetypal Imagination with Lenard Petit -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
-    6 Sessions starting March 24th. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archetypes'>
-    Sign Up Today
-  </a>
-
-<div class='description-section'>
-    [Sold Out] Sense Perception & Expression with Lenard Petit -- THREE Tuesdays 10:00am-12:00pm Eastern Time (US & Canada), February 16, 23, March 2, 2021. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sense-perceptionfeb21'>
-    Sign Up Today
-  </a>
-
-<div class='description-section'>
-    [Sold Out] The Image Incorporated -- Technique Class with Lenard Petit -- Wednesdays 11:00am-1:00pm Eastern Time (US & Canada) -- 
-    6 Sessions starting January 13th, 2021. See Sign-up link for more info. 
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/image-powerjan21'>
-    Sign Up Today
-  </a>
-    
+   
   <div class='description-section'>
-    Body Mind Lab, Online Somatic Classes with Naoko Maeshiba -- July 13 - August 17, 2021. 
+    Body Mind Lab, Online Somatic Classes with Naoko Maeshiba --, 2021. 
     Tuesdays 11:00am - 12:30pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/body-mind-lab-summer21'>
-    Sign Up Today
+    Closed
   </a>
 
 <div class='description-section'>
-    Spacial Dynamics® for Actors with Melania Levitsky -- 4 classes May 4, 11, 18, & 25.  
+    Spacial Dynamics® for Actors with Melania Levitsky -- 4 classes.  
     An intro course to Spacial Dynamics® designed with the Actor in mind. This a movement and body/spacial awareness class for actors of all experience levels. 
     Tuesdays 11:00am - 12:30pm Eastern Time (US & Canada)-- See Sign-up link for more info. 
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/spacial-dynamics'>
-    Sign Up Today
+    Closed
   </a>
 
   
