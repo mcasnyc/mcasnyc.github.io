@@ -6,7 +6,7 @@ Online Offerings 2023
   </div>
   
      <div class='description-section'>
-  Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
+  [FULL-JOIN THE WAITLIST] Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
   Performance Lab is designed to support application and performance exploration in an intimate group class. 
   Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times. 
  
@@ -16,10 +16,11 @@ Online Offerings 2023
   </a>
   
       <div class='description-section'>
-  Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), TBA. Space Limited.
+  Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), May 17-June 21, 2023.
+  Space Limited.
  </div>
-  <a class='register-button' target='_blank' href=''>
-    Sign Up Soon Open
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sensesmay23'>
+    Sign Up Today
   </a>
   
   <div class='description-section'>
@@ -47,7 +48,7 @@ var workshops = `
   </div>
   
   <div class='description-section'>
-  Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
+  [FULL-JOIN THE WAITLIST] Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
   Performance Lab is designed to support application and performance exploration in an intimate group class. 
   Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times. 
  
@@ -57,10 +58,11 @@ var workshops = `
   </a>
   
       <div class='description-section'>
-  Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), TBA. Space Limited.
+  Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), May 17-June 21, 2023.
+  Space Limited.
  </div>
-  <a class='register-button' target='_blank' href=''>
-    Sign Up Soon Open
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sensesmay23'>
+    Sign Up Today
   </a>
   
   <div class='description-section'>
