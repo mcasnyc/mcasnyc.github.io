@@ -5,30 +5,16 @@ var artOfTheActor = `
 Online Offerings 2023
   </div>
   
-     <div class='description-section'>
-  [FULL-JOIN THE WAITLIST] Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
-  Performance Lab is designed to support application and performance exploration in an intimate group class. 
-  Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times. 
- 
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-2023'>
-    Sign Up Today
-  </a>
-  
       <div class='description-section'>
   Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), May 17-June 21, 2023.
-  Space Limited.
+  Space Limited. Life resides in all the senses; it flows through all the regions of the senses. The eye is alive, the ear is alive, 
+  that which is the foundation of all the senses is alive; the basis of touch is alive — all of it is alive,  it flows through all the 
+  regions of the senses. It is a delicious understanding for the actor. This class introduces the actor to Chekhov technique through the
+  activated senses. Anchored in sense perception, the aim of this class is to lead the actor to a means of artistic expression that is 
+  repeatable and imaginative. As the actor you come to tools such as psychological gesture, images, sensations and atmosphere through 
+  one focus, our ability to "sense."
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sensesmay23'>
-    Sign Up Today
-  </a>
-  
-  <div class='description-section'>
-  [In Session] The Image Incorporated with Lenard Petit & Emma Wade. A class devoted to the Chekhov Technique, all comers are welcome, 
-  both experienced or new to the technique. The class will focus on the Power of Incorporating Images.  -- 
-  SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), February 15-March 22, 2023. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href=''>
     Sign Up Today
   </a>
   
@@ -46,34 +32,20 @@ var workshops = `
 <div class='description-title'>
  Online Offerings: 
   </div>
-  
-  <div class='description-section'>
-  [FULL-JOIN THE WAITLIST] Chekhov Perfomance Lab with Lenard Petit -- Last 3 Mondays in April 2023. 
-  Performance Lab is designed to support application and performance exploration in an intimate group class. 
-  Come with any prepared text or material. Each Lab is limited to ONLY 6 people. Each Lab meets 3 times. 
  
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-2023'>
-    Sign Up Today
-  </a>
   
-      <div class='description-section'>
+<div class='description-section'>
   Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), May 17-June 21, 2023.
-  Space Limited.
+  Space Limited. Life resides in all the senses; it flows through all the regions of the senses. The eye is alive, the ear is alive, 
+  that which is the foundation of all the senses is alive; the basis of touch is alive — all of it is alive,  it flows through all the 
+  regions of the senses. It is a delicious understanding for the actor. This class introduces the actor to Chekhov technique through the
+  activated senses. Anchored in sense perception, the aim of this class is to lead the actor to a means of artistic expression that is 
+  repeatable and imaginative. As the actor you come to tools such as psychological gesture, images, sensations and atmosphere through 
+  one focus, our ability to "sense."
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sensesmay23'>
     Sign Up Today
   </a>
-  
-  <div class='description-section'>
-  [In Session] The Image Incorporated with Lenard Petit & Emma Wade. A class devoted to the Chekhov Technique, all comers are welcome, 
-  both experienced or new to the technique. The class will focus on the Power of Incorporating Images.  -- 
-  SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), February 15-March 22, 2023. Space Limited.
- </div>
-  <a class='register-button' target='_blank' href=''>
-    Sign Up Today
-  </a>
-  
   
 <div class='description-title'>
  Past Online Offerings: 
