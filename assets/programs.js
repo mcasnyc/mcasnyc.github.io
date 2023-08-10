@@ -5,16 +5,15 @@ var artOfTheActor = `
 Online Offerings 2023
   </div>
   
-      <div class='description-section'>
-  Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), May 17-June 21, 2023.
-  Space Limited. Life resides in all the senses; it flows through all the regions of the senses. The eye is alive, the ear is alive, 
-  that which is the foundation of all the senses is alive; the basis of touch is alive — all of it is alive,  it flows through all the 
-  regions of the senses. It is a delicious understanding for the actor. This class introduces the actor to Chekhov technique through the
-  activated senses. Anchored in sense perception, the aim of this class is to lead the actor to a means of artistic expression that is 
-  repeatable and imaginative. As the actor you come to tools such as psychological gesture, images, sensations and atmosphere through 
-  one focus, our ability to "sense."
+  <div class='description-section'>
+  Architecture of Psychological Gesture with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), September 20-October 25, 2023.
+  Space Limited. In all the tools that Chekhov exposed to actors, one stands out as essential and all encompassing, every tool in the technique points to it, 
+  the Psychological Gesture. All tools go towards realizing it. The Psychological Gesture is like the flower of the Technique. This class introduces actors 
+  to the Psychological Gesture and gives a means of "how" to approach, direct, create and incorporate it. This work includes a thorough investigation of the 
+  human body, the whole of it and its parts and how all of it stands in relation to sensation and impulses that motivate you the artist, towards physical 
+  expression before the public or the camera.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sensesmay23'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/psychological-gesture23'>
     Sign Up Today
   </a>
   
@@ -32,18 +31,16 @@ var workshops = `
 <div class='description-title'>
  Online Offerings: 
   </div>
- 
   
-<div class='description-section'>
-  Sense Perception & Expression with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), May 17-June 21, 2023.
-  Space Limited. Life resides in all the senses; it flows through all the regions of the senses. The eye is alive, the ear is alive, 
-  that which is the foundation of all the senses is alive; the basis of touch is alive — all of it is alive,  it flows through all the 
-  regions of the senses. It is a delicious understanding for the actor. This class introduces the actor to Chekhov technique through the
-  activated senses. Anchored in sense perception, the aim of this class is to lead the actor to a means of artistic expression that is 
-  repeatable and imaginative. As the actor you come to tools such as psychological gesture, images, sensations and atmosphere through 
-  one focus, our ability to "sense."
+   <div class='description-section'>
+  Architecture of Psychological Gesture with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), September 20-October 25, 2023.
+  Space Limited. In all the tools that Chekhov exposed to actors, one stands out as essential and all encompassing, every tool in the technique points to it, 
+  the Psychological Gesture. All tools go towards realizing it. The Psychological Gesture is like the flower of the Technique. This class introduces actors 
+  to the Psychological Gesture and gives a means of "how" to approach, direct, create and incorporate it. This work includes a thorough investigation of the 
+  human body, the whole of it and its parts and how all of it stands in relation to sensation and impulses that motivate you the artist, towards physical 
+  expression before the public or the camera.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/sensesmay23'>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/psychological-gesture23'>
     Sign Up Today
   </a>
   
@@ -70,7 +67,7 @@ var workshops = `
   Architecture of Psychological Gesture with Lenard Petit -- SIX Tuesdays 11:00am-1:00pm Eastern Time (US & Canada). Space Limited.
  </div>
   <a class='register-button' target='_blank' href=''>
-    Closed
+    Open
   </a>
   
   <div class='description-section'>
