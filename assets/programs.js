@@ -4,6 +4,19 @@ var artOfTheActor = `
   <div class='description-title'>
 Online Offerings 2023
   </div>
+
+    <div class='description-section'>
+  Perfomacne Lab with Lenard Petit & Declan Drohan-- FOUR Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), November 1-22, 2023.
+  Designed to support application and performance exploration of Chekhov Technique in an intimate group. "Lab" is a research space for you, 
+  the actor, supported by the faculty facilitating. Each participant will have time to work on a prepared text or material. Through 
+  experimentation with Chekhov's approach you will develop your text with the group. This is a safe space to take Chekhov's technique 
+  into your own hands. This November Lab we are delighted to collaborate with Chekhov Training and Performance Ireland and bring you 
+  the duo of Lenard Petit and Declan Drohan. Previous study of the Michael Chekhov Technique is required for eligibility to the Chekhov Lab.
+  Limited to ONLY 8 participants.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-nov23'>
+    Sign Up Today
+  </a>
   
   <div class='description-section'>
   Architecture of Psychological Gesture with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), September 20-October 25, 2023.
@@ -14,7 +27,7 @@ Online Offerings 2023
   expression before the public or the camera.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/psychological-gesture23'>
-    Sign Up Today
+    In Progress
   </a>
   
   </a>
@@ -31,8 +44,20 @@ var workshops = `
 <div class='description-title'>
  Online Offerings: 
   </div>
+<div class='description-section'>
+  Perfomacne Lab with Lenard Petit & Declan Drohan-- FOUR Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), November 1-22, 2023.
+  Designed to support application and performance exploration of Chekhov Technique in an intimate group. "Lab" is a research space for you, 
+  the actor, supported by the faculty facilitating. Each participant will have time to work on a prepared text or material. Through 
+  experimentation with Chekhov's approach you will develop your text with the group. This is a safe space to take Chekhov's technique 
+  into your own hands. This November Lab we are delighted to collaborate with Chekhov Training and Performance Ireland and bring you 
+  the duo of Lenard Petit and Declan Drohan. Previous study of the Michael Chekhov Technique is required for eligibility to the Chekhov Lab.
+  Limited to ONLY 8 participants.
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-nov23'>
+    Sign Up Today
+  </a>
   
-   <div class='description-section'>
+  <div class='description-section'>
   Architecture of Psychological Gesture with Lenard Petit & Emma Wade-- SIX Weeks 11:00am-1:00pm Eastern Time (US & Canada), September 20-October 25, 2023.
   Space Limited. In all the tools that Chekhov exposed to actors, one stands out as essential and all encompassing, every tool in the technique points to it, 
   the Psychological Gesture. All tools go towards realizing it. The Psychological Gesture is like the flower of the Technique. This class introduces actors 
@@ -41,7 +66,7 @@ var workshops = `
   expression before the public or the camera.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/psychological-gesture23'>
-    Sign Up Today
+    In Progress
   </a>
   
 <div class='description-title'>
