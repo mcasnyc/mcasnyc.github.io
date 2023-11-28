@@ -2,9 +2,16 @@ var artOfTheActor = `
 
 <div>
   <div class='description-title'>
-Online Offerings 2023
+Online Offerings 2023-4
   </div>
 
+    <div class='description-section'>
+  Archetypal Imagination with Lenard Petit & Emma Wade -- SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), January 10-February 14, 2024.
+ </div>
+  <a class='register-button' target='_blank' href='https://'>
+    Enrollmemt Open Soon
+  </a>
+  
     <div class='description-section'>
   Perfomacne Lab with Lenard Petit & Declan Drohan-- FOUR Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), November 1-22, 2023.
   Designed to support application and performance exploration of Chekhov Technique in an intimate group. "Lab" is a research space for you, 
@@ -15,7 +22,7 @@ Online Offerings 2023
   Limited to ONLY 8 participants.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-nov23'>
-    Sign Up Today
+    Closed
   </a>
   
   <div class='description-section'>
@@ -27,7 +34,7 @@ Online Offerings 2023
   expression before the public or the camera.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/psychological-gesture23'>
-    In Progress
+    Closed
   </a>
   
   </a>
