@@ -7,9 +7,11 @@ Online Offerings 2023-4
 
     <div class='description-section'>
   Archetypal Imagination with Lenard Petit & Emma Wade -- SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), January 10-February 14, 2024.
+  A practice for actors to build the Character through timeless images that reach beyond the personal self. Using Michael Chekhov Technique, 
+  come to invest your talent in the world of archetypal imagination. 
  </div>
-  <a class='register-button' target='_blank' href='https://'>
-    Enrollmemt Open Soon
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archimagination24'>
+    Enrollmemt Register Today
   </a>
   
     <div class='description-section'>
