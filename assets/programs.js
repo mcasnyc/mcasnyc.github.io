@@ -8,10 +8,12 @@ Online Offerings 2023-4
     <div class='description-section'>
   Archetypal Imagination with Lenard Petit & Emma Wade -- SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), January 10-February 14, 2024.
   A practice for actors to build the Character through timeless images that reach beyond the personal self. Using Michael Chekhov Technique, 
-  come to invest your talent in the world of archetypal imagination. 
+  come to invest your talent in the world of archetypal imagination. Archetypes are images, but more importantly they are imprints of existential experience, knowledge, and even wisdom. Common, human, and collective: these archetypes wait within all of us. They are not personal: these imprints have the power to become activated by concentration on the body and its movements. The human body possess an ancient knowledge. it has always moved, and it is subject to physical laws of movement, and the laws have imprinted themselves upon us. 
+
+Come to identify Personalities, Relationships, and Situations for developing any character. In recognizing archetypal imaginations Actors make contact with the source of bold expression and a sense of being that vibrates with humanity. Open to all interested and dedicated to the profession of actor - creative.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archimagination24'>
-    Enrollmemt Register Today
+    Register Today
   </a>
   
     <div class='description-section'>
