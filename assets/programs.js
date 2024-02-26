@@ -6,27 +6,25 @@ Online Offerings 2023-4
   </div>
 
     <div class='description-section'>
-  Archetypal Imagination with Lenard Petit & Emma Wade -- SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), January 10-February 14, 2024.
-  A practice for actors to build the Character through timeless images that reach beyond the personal self. Using Michael Chekhov Technique, 
-  come to invest your talent in the world of archetypal imagination. Archetypes are images, but more importantly they are imprints of existential experience, knowledge, and even wisdom. Common, human, and collective: these archetypes wait within all of us. They are not personal: these imprints have the power to become activated by concentration on the body and its movements. The human body possess an ancient knowledge. it has always moved, and it is subject to physical laws of movement, and the laws have imprinted themselves upon us. 
-
-Come to identify Personalities, Relationships, and Situations for developing any character. In recognizing archetypal imaginations Actors make contact with the source of bold expression and a sense of being that vibrates with humanity. Open to all interested and dedicated to the profession of actor - creative.
+  Activating Psychological Gesture with Lenard Petit & Emma Wade -- SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), April 3 - May 8, 2024.
+  This Online class is a direct application of Psychological Gesture into your spoken text. Curiously the Psychological Gesture is created and 
+  incorporated with the actor's body in our preparation, but in application it is materially an unseen experience. The gesture is activated within the actor, 
+  it is specific, and has the power to bring a vivid force to any Character's intentions. 
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/archimagination24'>
-    Register Today
+  <a class='register-button' target='_blank' href='https://'>
+    Registration Opens Soon
   </a>
   
     <div class='description-section'>
-  Perfomacne Lab with Lenard Petit & Declan Drohan-- FOUR Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), November 1-22, 2023.
+  Perfomacne Lab TBD, 2024.
   Designed to support application and performance exploration of Chekhov Technique in an intimate group. "Lab" is a research space for you, 
   the actor, supported by the faculty facilitating. Each participant will have time to work on a prepared text or material. Through 
   experimentation with Chekhov's approach you will develop your text with the group. This is a safe space to take Chekhov's technique 
-  into your own hands. This November Lab we are delighted to collaborate with Chekhov Training and Performance Ireland and bring you 
-  the duo of Lenard Petit and Declan Drohan. Previous study of the Michael Chekhov Technique is required for eligibility to the Chekhov Lab.
+  into your own hands. Previous study of the Michael Chekhov Technique is required for eligibility to the Chekhov Lab.
   Limited to ONLY 8 participants.
  </div>
   <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-nov23'>
-    Closed
+    See Past Reg 
   </a>
   
   <div class='description-section'>
