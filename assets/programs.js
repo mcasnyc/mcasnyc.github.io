@@ -2,7 +2,7 @@ var artOfTheActor = `
 
 <div>
   <div class='description-title'>
-Online Offerings 2023-4
+Online Offerings 2024
   </div>
 
     <div class='description-section'>
@@ -11,12 +11,12 @@ Online Offerings 2023-4
   incorporated with the actor's body in our preparation, but in application it is materially an unseen experience. The gesture is activated within the actor, 
   it is specific, and has the power to bring a vivid force to any Character's intentions. 
  </div>
-  <a class='register-button' target='_blank' href='https://'>
-    Registration Opens Soon
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/activating-psychological-gesture24'>
+    Registration
   </a>
   
     <div class='description-section'>
-  Perfomacne Lab TBD, 2024.
+  Perfomacne Lab TBD, May 2024.
   Designed to support application and performance exploration of Chekhov Technique in an intimate group. "Lab" is a research space for you, 
   the actor, supported by the faculty facilitating. Each participant will have time to work on a prepared text or material. Through 
   experimentation with Chekhov's approach you will develop your text with the group. This is a safe space to take Chekhov's technique 
