@@ -5,26 +5,26 @@ var artOfTheActor = `
 Online Offerings 2024
   </div>
 
-    <div class='description-section'>
-  Activating Psychological Gesture with Lenard Petit & Emma Wade -- SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), April 3 - May 8, 2024.
-  This Online class is a direct application of Psychological Gesture into your spoken text. Curiously the Psychological Gesture is created and 
-  incorporated with the actor's body in our preparation, but in application it is materially an unseen experience. The gesture is activated within the actor, 
-  it is specific, and has the power to bring a vivid force to any Character's intentions. 
- </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/activating-psychological-gesture24'>
-    Registration
-  </a>
-  
-    <div class='description-section'>
-  Perfomacne Lab TBD, May 2024.
+      <div class='description-section'>
+  Perfomacne Lab, May 15-June 5, 2024. WITH Lenard Petit & Rena Polley
   Designed to support application and performance exploration of Chekhov Technique in an intimate group. "Lab" is a research space for you, 
   the actor, supported by the faculty facilitating. Each participant will have time to work on a prepared text or material. Through 
   experimentation with Chekhov's approach you will develop your text with the group. This is a safe space to take Chekhov's technique 
   into your own hands. Previous study of the Michael Chekhov Technique is required for eligibility to the Chekhov Lab.
   Limited to ONLY 8 participants.
  </div>
-  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-nov23'>
-    See Past Reg 
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/performance-lab-may-24'>
+    Registration 
+  </a>
+
+      <div class='description-section'>
+  Activating Psychological Gesture with Lenard Petit & Emma Wade -- SIX Wednesdays 11:00am-1:00pm Eastern Time (US & Canada), April 3 - May 8, 2024.
+  This Online class is a direct application of Psychological Gesture into your spoken text. Curiously the Psychological Gesture is created and 
+  incorporated with the actor's body in our preparation, but in application it is materially an unseen experience. The gesture is activated within the actor, 
+  it is specific, and has the power to bring a vivid force to any Character's intentions. 
+ </div>
+  <a class='register-button' target='_blank' href='https://themichaelchekhovactingstudio.regfox.com/activating-psychological-gesture24'>
+    Closed
   </a>
   
   <div class='description-section'>
